@@ -1,0 +1,21 @@
+# Downloaded / merged PDFs and per-article cache (huge, regenerated)
+Downloads/
+.cache/
+
+# Local secrets & config (contains your OpenAlex API key)
+config.json
+*.conf
+*.bak
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Temp / scratch
+scratchpad/
+*.part
+*.tmp

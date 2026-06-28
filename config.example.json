@@ -1,0 +1,11 @@
+{
+  "email": "you@example.com",
+  "api_key": "YOUR_OPENALEX_API_KEY",
+  "out": "Downloads",
+  "threads": 6,
+  "timeout": 45,
+  "retries": 5,
+  "rate_limit": 0.3,
+  "merge": true,
+  "browser": false
+}
