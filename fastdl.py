@@ -160,13 +160,18 @@ def _normalize(w: dict, keep_types: Optional[set] = None) -> Optional[Art]:
     vol = bib.get("volume")
     issue = bib.get("issue")
     fp = bib.get("first_page") or ""
+    # Page number for ordering: parse the digits out of first_page. Many journals
+    # use non-numeric folios like "e224" or "S12"; bare int(fp) fails on those and
+    # collapses every article to 0 -> issues merge in the wrong (publication-date)
+    # order. Strip non-digits so "e224" -> 224, giving correct printed-page order.
+    fp_num = int(re.sub(r"\D", "", fp) or 0)
     pmcid = (w.get("ids") or {}).get("pmcid")
     if pmcid:
         pmcid = pmcid.rstrip("/").split("/")[-1]
     if not pmcid:
         pmcid = _pmcid_from_locations(w)
     sort_key = (f"{year or 0:04d}|{str(vol or ''):>8}|{str(issue or ''):>8}|"
-                f"{int(fp) if fp.isdigit() else 0:08d}|{w.get('publication_date','')}")
+                f"{fp_num:08d}|{w.get('publication_date','')}")
     return Art(
         key=doi or oa_id, doi=doi, title=title[:300], year=year,
         volume=vol, issue=issue, first_page=fp, sort_key=sort_key,
@@ -338,7 +343,8 @@ def run(target: str, cfg: J.Config, years: Optional[tuple[int, int]],
         conc: int, keep: bool, force: bool, code: Optional[str] = None,
         keep_types: Optional[set] = None, drive_folder: Optional[str] = None,
         remote: str = "gdrive", flat_name: Optional[str] = None,
-        issn_folder: bool = False) -> None:
+        issn_folder: bool = False, by_year: bool = False,
+        label: Optional[str] = None) -> None:
     t0 = time.time()
     http = J.Http(cfg)
     src = J.OpenAlex(http, cfg).resolve_source(target)
@@ -358,37 +364,58 @@ def run(target: str, cfg: J.Config, years: Optional[tuple[int, int]],
     log.info("%d articles found (%d with a PMC mirror).",
              len(arts), sum(1 for a in arts if a.pmcid))
 
-    # Group by (volume, issue). A calendar year spans two volumes (the volume
-    # number rolls over near year-end), so grouping by year too would split a
-    # single real issue across two year-folders. Instead we group by the issue
-    # and file it under the dominant publication year of its own articles.
     from collections import Counter
-    issues: dict[tuple, list[Art]] = {}
-    for a in arts:
-        issues.setdefault((a.volume, a.issue), []).append(a)
 
     def issue_year(grp) -> str:
         yrs = [a.year for a in grp if a.year]
         return str(Counter(yrs).most_common(1)[0][0]) if yrs else "NA"
 
-    def issue_out_dir(grp) -> Path:
-        # --folder NAME: all merged issue PDFs go flat into one folder (e.g. the
-        # journal's ISSN). Otherwise one "<year> <code>" folder per year.
-        if flat_name:
-            return cfg.out / flat_name
-        return cfg.out / f"{issue_year(grp)} {code}"
+    if by_year:
+        # --by-year: ONE merged PDF per calendar year (Jan-Dec), named
+        # "<label> <year>.pdf", all in a single folder (--folder, default code).
+        lab = label or code.lower()
+        groups: dict[tuple, list[Art]] = {}
+        for a in arts:
+            groups.setdefault((str(a.year),), []).append(a)
+        def grp_out_dir(key, grp) -> Path:
+            return cfg.out / (flat_name or code)
+        def grp_glob(key) -> str:
+            return f"{lab} {key[0]}.pdf"
+        def grp_filename(key, grp, n) -> str:
+            return f"{lab} {key[0]}.pdf"
+        def grp_sortkey(kv):
+            return (kv[0][0],)
+        unit = "year"
+    else:
+        # Group by (volume, issue). A calendar year spans two volumes (the volume
+        # number rolls over near year-end), so grouping by year too would split a
+        # single real issue across two year-folders. Instead we group by the issue
+        # and file it under the dominant publication year of its own articles.
+        groups = {}
+        for a in arts:
+            groups.setdefault((a.volume, a.issue), []).append(a)
+        def grp_out_dir(key, grp) -> Path:
+            # --folder NAME: all merged PDFs go flat into one folder (e.g. ISSN).
+            # Otherwise one "<year> <code>" folder per year.
+            if flat_name:
+                return cfg.out / flat_name
+            return cfg.out / f"{issue_year(grp)} {code}"
+        def grp_glob(key) -> str:
+            return issue_glob(key[0], key[1])
+        def grp_filename(key, grp, n) -> str:
+            return issue_filename(jname, grp[0], n)
+        def grp_sortkey(kv):
+            return (issue_year(kv[1]), str(kv[0][0]), str(kv[0][1]))
+        unit = "issue"
 
     todo = arts
     if not force:
-        todo = []
-        for (v, i), grp in issues.items():
-            if list(issue_out_dir(grp).glob(issue_glob(v, i))):
-                continue
-            todo += grp
+        done_keys = {k for k, g in groups.items()
+                     if list(grp_out_dir(k, g).glob(grp_glob(k)))}
+        todo = [a for k, g in groups.items() if k not in done_keys for a in g]
         if len(todo) < len(arts):
-            log.info("Resume: %d issues already merged, %d articles left to fetch.",
-                     len(issues) - len({(a.volume, a.issue) for a in todo}),
-                     len(todo))
+            log.info("Resume: %d %ss already merged, %d articles left to fetch.",
+                     len(done_keys), unit, len(todo))
 
     if todo:
         log.info("Downloading (async, concurrency=%d) ...", conc)
@@ -399,20 +426,19 @@ def run(target: str, cfg: J.Config, years: Optional[tuple[int, int]],
             asyncio.run(download_all([a for a in retry if a.status == "pending"],
                                      cache_dir, conc, cfg.timeout))
 
-    # merge every issue (in printed page order) -> one PDF each
-    log.info("Merging issues with pikepdf ...")
+    # merge each group (in printed page order) -> one PDF each
+    log.info("Merging %ss with pikepdf ...", unit)
     merged_issues = merged_pages = 0
-    for (v, i), grp in sorted(issues.items(),
-                              key=lambda kv: (issue_year(kv[1]), str(kv[0][0]), str(kv[0][1]))):
+    for key, grp in sorted(groups.items(), key=grp_sortkey):
         grp.sort(key=lambda a: a.sort_key)
-        out_dir = issue_out_dir(grp)
-        existing = list(out_dir.glob(issue_glob(v, i)))
+        out_dir = grp_out_dir(key, grp)
+        existing = list(out_dir.glob(grp_glob(key)))
         if existing and not force:
             continue
         done_arts = [a for a in grp if a.file and valid_pdf(Path(a.file))]
         if not done_arts:
             continue
-        out_path = out_dir / issue_filename(jname, done_arts[0], len(done_arts))
+        out_path = out_dir / grp_filename(key, done_arts, len(done_arts))
         for old in existing:                      # replace stale merge
             old.unlink(missing_ok=True)
         res = merge_issue(jname, done_arts, out_path)
@@ -467,6 +493,11 @@ def main(argv=None) -> int:
     p.add_argument("--folder", help="put ALL merged PDFs flat into one folder with this name")
     p.add_argument("--issn-folder", action="store_true",
                    help="put ALL merged PDFs flat into one folder named after the journal's ISSN")
+    p.add_argument("--by-year", action="store_true",
+                   help="merge ONE PDF per calendar year (Jan-Dec) instead of per issue")
+    p.add_argument("--label",
+                   help="filename prefix for --by-year PDFs, e.g. 'lsa' -> 'lsa 2020.pdf' "
+                        "(default: lowercased journal code)")
     p.add_argument("--conc", type=int, default=32, help="concurrent downloads (default 32)")
     p.add_argument("--email", help="contact email (polite pool + Unpaywall)")
     p.add_argument("--api-key", help="free OpenAlex API key")
@@ -506,7 +537,8 @@ def main(argv=None) -> int:
     keep_types = None if args.types.lower() == "all" else KEEP_TYPES
     run(args.target, cfg, years, args.conc, keep=not args.no_keep, force=args.force,
         code=args.name, keep_types=keep_types, drive_folder=args.drive,
-        remote=args.remote, flat_name=args.folder, issn_folder=args.issn_folder)
+        remote=args.remote, flat_name=args.folder, issn_folder=args.issn_folder,
+        by_year=args.by_year, label=args.label)
     return 0
 
 

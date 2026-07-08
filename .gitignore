@@ -4,6 +4,7 @@ Downloads/
 
 # Local secrets & config (contains your OpenAlex API key)
 config.json
+api_config.json
 *.conf
 *.bak
 
