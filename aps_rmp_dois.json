@@ -1,0 +1,2679 @@
+{
+ "issn": "0034-6861",
+ "journal": "Reviews of Modern Physics",
+ "total_articles": 325,
+ "issues": {
+  "V97I1": [
+   {
+    "doi": "10.1103/revmodphys.97.015005",
+    "title": "The need for optoacoustic microscopy",
+    "page": "",
+    "year": 2025,
+    "volume": "97",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.97.011001",
+    "title": "<i>Colloquium</i>\n                    : Synthetic quantum matter in nonstandard geometries",
+    "page": "",
+    "year": 2025,
+    "volume": "97",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.97.015003",
+    "title": "Massive quantum systems as interfaces of quantum mechanics and gravity",
+    "page": "",
+    "year": 2025,
+    "volume": "97",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.97.015007",
+    "title": "Self-aligning polar active matter",
+    "page": "",
+    "year": 2025,
+    "volume": "97",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.97.015004",
+    "title": "Wrinkles, creases, and cusps in growing soft matter",
+    "page": "",
+    "year": 2025,
+    "volume": "97",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.97.015002",
+    "title": "Macroscopic stochastic thermodynamics",
+    "page": "",
+    "year": 2025,
+    "volume": "97",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.97.015006",
+    "title": "Quantum-information methods for quantum gravity laboratory-based tests",
+    "page": "",
+    "year": 2025,
+    "volume": "97",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.97.015001",
+    "title": "Using gravitational waves to see the first second of the Universe",
+    "page": "",
+    "year": 2025,
+    "volume": "97",
+    "issue": "1"
+   }
+  ],
+  "V97I3": [
+   {
+    "doi": "10.1103/revmodphys.97.030502",
+    "title": "Nobel Lecture: Boltzmann machines",
+    "page": "",
+    "year": 2025,
+    "volume": "97",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/jgpv-232f",
+    "title": "The ups and downs of internal conversion",
+    "page": "",
+    "year": 2025,
+    "volume": "97",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.97.031001",
+    "title": "<i>Colloquium</i>\n                    : Quantum properties and functionalities of magnetic skyrmions",
+    "page": "",
+    "year": 2025,
+    "volume": "97",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.97.030501",
+    "title": "Nobel Lecture: Physics is a point of view",
+    "page": "",
+    "year": 2025,
+    "volume": "97",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/tkjh-lr83",
+    "title": "Photoinduced nonequilibrium states in Mott insulators",
+    "page": "",
+    "year": 2025,
+    "volume": "97",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/8lm7-gs18",
+    "title": "Solar fusion III: New data and theory for hydrogen-burning stars",
+    "page": "",
+    "year": 2025,
+    "volume": "97",
+    "issue": "3"
+   }
+  ],
+  "V90I1": [
+   {
+    "doi": "10.1103/revmodphys.90.015001",
+    "title": "Weyl and Dirac semimetals in three-dimensional solids",
+    "page": "",
+    "year": 2018,
+    "volume": "90",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.90.015006",
+    "title": "Edwards statistical mechanics for jammed granular matter",
+    "page": "",
+    "year": 2018,
+    "volume": "90",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.90.015009",
+    "title": "Fluctuation spectroscopy: From Rayleigh-Jeans waves to Abrikosov vortex clusters",
+    "page": "",
+    "year": 2018,
+    "volume": "90",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.90.015002",
+    "title": "Adiabatic quantum computation",
+    "page": "",
+    "year": 2018,
+    "volume": "90",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.90.015005",
+    "title": "Antiferromagnetic spintronics",
+    "page": "",
+    "year": 2018,
+    "volume": "90",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.90.010001",
+    "title": "Editorial: A Tale of Two Anniversaries: 125 Years of the \n<i>Physical Review</i>\n and 25 Years of \n<i>Physical Review E</i>",
+    "page": "",
+    "year": 2018,
+    "volume": "90",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.90.015007",
+    "title": "Solids, liquids, and gases under high pressure",
+    "page": "",
+    "year": 2018,
+    "volume": "90",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.90.010002",
+    "title": "Announcement: \n<i>Corrections</i>\n in \n<i>Physical Review</i>\n Publications",
+    "page": "",
+    "year": 2018,
+    "volume": "90",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.90.015008",
+    "title": "High precision analytical description of the allowed \n<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>β</mml:mi></mml:math>\n spectrum shape",
+    "page": "",
+    "year": 2018,
+    "volume": "90",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.90.015003",
+    "title": "Nonstandard heavy mesons and baryons: Experimental evidence",
+    "page": "",
+    "year": 2018,
+    "volume": "90",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.90.011001",
+    "title": "<i>Colloquium</i>\n: High pressure and road to room temperature superconductivity",
+    "page": "",
+    "year": 2018,
+    "volume": "90",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.90.015004",
+    "title": "Hadronic molecules",
+    "page": "",
+    "year": 2018,
+    "volume": "90",
+    "issue": "1"
+   }
+  ],
+  "V92I2": [
+   {
+    "doi": "10.1103/revmodphys.92.025001",
+    "title": "Theoretical perspectives on biological machines",
+    "page": "",
+    "year": 2020,
+    "volume": "92",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.92.021002",
+    "title": "<i>Colloquium</i>\n: Bell’s theorem and locally mediated reformulations of quantum mechanics",
+    "page": "",
+    "year": 2020,
+    "volume": "92",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.92.021003",
+    "title": "<i>Colloquium</i>\n: Spintronics in graphene and other two-dimensional materials",
+    "page": "",
+    "year": 2020,
+    "volume": "92",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.92.025004",
+    "title": "Nuclear effective field theory: Status and perspectives",
+    "page": "",
+    "year": 2020,
+    "volume": "92",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.92.025002",
+    "title": "Secure quantum key distribution with realistic devices",
+    "page": "",
+    "year": 2020,
+    "volume": "92",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.92.021001",
+    "title": "<i>Colloquium</i>\n: Quantum limits to the energy resolution of magnetic field sensors",
+    "page": "",
+    "year": 2020,
+    "volume": "92",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.92.025003",
+    "title": "Strong-field nano-optics",
+    "page": "",
+    "year": 2020,
+    "volume": "92",
+    "issue": "2"
+   }
+  ],
+  "V94I4": [
+   {
+    "doi": "10.1103/revmodphys.94.045003",
+    "title": "Implications of gauge freedom for nonrelativistic quantum electrodynamics",
+    "page": "",
+    "year": 2022,
+    "volume": "94",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.94.040001",
+    "title": "Editorial: A Welcoming Home for Applied Science",
+    "page": "",
+    "year": 2022,
+    "volume": "94",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.94.045001",
+    "title": "Charged particle motion and radiation in strong electromagnetic fields",
+    "page": "",
+    "year": 2022,
+    "volume": "94",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.94.045006",
+    "title": "Nonequilibrium boundary-driven quantum systems: Models, methods, and properties",
+    "page": "",
+    "year": 2022,
+    "volume": "94",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.94.045005",
+    "title": "Mesoscopic physics of nanomechanical systems",
+    "page": "",
+    "year": 2022,
+    "volume": "94",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.94.045004",
+    "title": "Ultrafast electron diffraction: Visualizing dynamic states of matter",
+    "page": "",
+    "year": 2022,
+    "volume": "94",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.94.041002",
+    "title": "<i>Colloquium</i>\n: Planckian dissipation in metals",
+    "page": "",
+    "year": 2022,
+    "volume": "94",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.94.045008",
+    "title": "Engineering quantum states and electronic landscapes through surface molecular nanoarchitectures",
+    "page": "",
+    "year": 2022,
+    "volume": "94",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.94.045002",
+    "title": "Laser melting modes in metal powder bed fusion additive manufacturing",
+    "page": "",
+    "year": 2022,
+    "volume": "94",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.94.045007",
+    "title": "Kochen-Specker contextuality",
+    "page": "",
+    "year": 2022,
+    "volume": "94",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.94.041001",
+    "title": "<i>Colloquium</i>\n: Atomtronic circuits: From many-body physics to quantum technologies",
+    "page": "",
+    "year": 2022,
+    "volume": "94",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.94.041003",
+    "title": "<i>Colloquium</i>\n: Cavity-enhanced quantum network nodes",
+    "page": "",
+    "year": 2022,
+    "volume": "94",
+    "issue": "4"
+   }
+  ],
+  "V90I2": [
+   {
+    "doi": "10.1103/revmodphys.90.025001",
+    "title": "Scattering processes and resonances from lattice QCD",
+    "page": "",
+    "year": 2018,
+    "volume": "90",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.90.025006",
+    "title": "Looking at cosmic near-infrared background radiation anisotropies",
+    "page": "",
+    "year": 2018,
+    "volume": "90",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.90.025007",
+    "title": "Materials characterization by synchrotron x-ray microprobes and nanoprobes",
+    "page": "",
+    "year": 2018,
+    "volume": "90",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.90.025004",
+    "title": "Macroscopic quantum states: Measures, fragility, and implementations",
+    "page": "",
+    "year": 2018,
+    "volume": "90",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.90.025003",
+    "title": "Diagrammatic routes to nonlocal correlations beyond dynamical mean field theory",
+    "page": "",
+    "year": 2018,
+    "volume": "90",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.90.021002",
+    "title": "<i>Colloquium</i>\n: Strong-field phenomena in periodic systems",
+    "page": "",
+    "year": 2018,
+    "volume": "90",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.90.025008",
+    "title": "Search for new physics with atoms and molecules",
+    "page": "",
+    "year": 2018,
+    "volume": "90",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.90.025002",
+    "title": "Dual-readout calorimetry",
+    "page": "",
+    "year": 2018,
+    "volume": "90",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.90.025005",
+    "title": "Jet measurements in heavy ion physics",
+    "page": "",
+    "year": 2018,
+    "volume": "90",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.90.021001",
+    "title": "<i>Colloquium</i>\n: Excitons in atomically thin transition metal dichalcogenides",
+    "page": "",
+    "year": 2018,
+    "volume": "90",
+    "issue": "2"
+   }
+  ],
+  "V95I1": [
+   {
+    "doi": "10.1103/revmodphys.95.015004",
+    "title": "Helfrich-Hurault elastic instabilities driven by geometrical frustration",
+    "page": "",
+    "year": 2023,
+    "volume": "95",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.95.011003",
+    "title": "<i>Colloquium</i>: Incompatible measurements in quantum information science",
+    "page": "",
+    "year": 2023,
+    "volume": "95",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.95.015001",
+    "title": "Synchrotron radiation techniques and their application to actinide materials",
+    "page": "",
+    "year": 2023,
+    "volume": "95",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.95.011002",
+    "title": "<i>Colloquium</i>\n: Quantum anomalous Hall effect",
+    "page": "",
+    "year": 2023,
+    "volume": "95",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.95.011001",
+    "title": "<i>Colloquium</i>\n: Hydrodynamics and holography of charge density wave phases",
+    "page": "",
+    "year": 2023,
+    "volume": "95",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.95.011006",
+    "title": "<i>Colloquium</i>\n: Advances in automation of quantum dot devices control",
+    "page": "",
+    "year": 2023,
+    "volume": "95",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.95.010501",
+    "title": "Nobel Lecture: Physical modeling of Earth’s climate",
+    "page": "",
+    "year": 2023,
+    "volume": "95",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.95.015002",
+    "title": "Waveguide quantum electrodynamics: Collective radiance and photon-photon correlations",
+    "page": "",
+    "year": 2023,
+    "volume": "95",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.95.015003",
+    "title": "Measuring interfacial Dzyaloshinskii-Moriya interaction in ultrathin magnetic films",
+    "page": "",
+    "year": 2023,
+    "volume": "95",
+    "issue": "1"
+   }
+  ],
+  "V97I4": [
+   {
+    "doi": "10.1103/ymsq-cfcw",
+    "title": "Neutron stars and the dense matter equation of state",
+    "page": "",
+    "year": 2025,
+    "volume": "97",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/3m4m-3v59",
+    "title": "Kitaev quantum spin liquids",
+    "page": "",
+    "year": 2025,
+    "volume": "97",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/bzw1-gfs1",
+    "title": "Prospects for supersymmetry at High-Luminosity LHC",
+    "page": "",
+    "year": 2025,
+    "volume": "97",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/p84v-1xqv",
+    "title": "Quantum cryptography beyond key distribution: Theory and experiment",
+    "page": "",
+    "year": 2025,
+    "volume": "97",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/m2vm-59y3",
+    "title": "Astrophysical tests of dark matter self-interactions",
+    "page": "",
+    "year": 2025,
+    "volume": "97",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/9ygx-z2yq",
+    "title": "<i>Colloquium</i>\n                    : The cosmic dipole anomaly",
+    "page": "",
+    "year": 2025,
+    "volume": "97",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/jcrn-3nrc",
+    "title": "Statistical mechanics for networks of real neurons",
+    "page": "",
+    "year": 2025,
+    "volume": "97",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/pv6p-dtr2",
+    "title": "<i>Colloquium</i>\n                    : Gravitational waves from neutrino-driven core collapse supernovae",
+    "page": "",
+    "year": 2025,
+    "volume": "97",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/ctp2-zwyr",
+    "title": "Spin-glass dynamics: Experiment, theory, and simulation",
+    "page": "",
+    "year": 2025,
+    "volume": "97",
+    "issue": "4"
+   }
+  ],
+  "V95I3": [
+   {
+    "doi": "10.1103/revmodphys.95.035003",
+    "title": "Weak gravity conjecture",
+    "page": "",
+    "year": 2023,
+    "volume": "95",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.95.035004",
+    "title": "Quantitative theory of magnetic interactions in solids",
+    "page": "",
+    "year": 2023,
+    "volume": "95",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.95.035005",
+    "title": "The physics of fast radio bursts",
+    "page": "",
+    "year": 2023,
+    "volume": "95",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.95.030001",
+    "title": "Editorial: To Review Is to Be",
+    "page": "",
+    "year": 2023,
+    "volume": "95",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.95.035006",
+    "title": "Atom counting with accelerator mass spectrometry",
+    "page": "",
+    "year": 2023,
+    "volume": "95",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.95.031003",
+    "title": "<i>Colloquium</i>\n: Anomalous statistics of laser-cooled atoms in dissipative optical lattices",
+    "page": "",
+    "year": 2023,
+    "volume": "95",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.95.035002",
+    "title": "Long-range interacting quantum systems",
+    "page": "",
+    "year": 2023,
+    "volume": "95",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.95.031002",
+    "title": "<i>Colloquium</i>\n: Unconventional fully gapped superconductivity in the heavy-fermion metal \n<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:mrow><mml:msub><m",
+    "page": "",
+    "year": 2023,
+    "volume": "95",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.95.035001",
+    "title": "Computational advantage of quantum random sampling",
+    "page": "",
+    "year": 2023,
+    "volume": "95",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.95.030501",
+    "title": "Nobel Lecture: Multiple equilibria",
+    "page": "",
+    "year": 2023,
+    "volume": "95",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.95.031001",
+    "title": "<i>Colloquium</i>\n: Quantum and classical discrete time crystals",
+    "page": "",
+    "year": 2023,
+    "volume": "95",
+    "issue": "3"
+   }
+  ],
+  "V96I1": [
+   {
+    "doi": "10.1103/revmodphys.96.015005",
+    "title": "Electrical control of magnetism by electric field and current-induced torques",
+    "page": "",
+    "year": 2024,
+    "volume": "96",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.96.011001",
+    "title": "<i>Colloquium</i>\n: Fracton matter",
+    "page": "",
+    "year": 2024,
+    "volume": "96",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.96.011002",
+    "title": "<i>Colloquium</i>\n: Sliding and pinning in structurally lubric 2D material interfaces",
+    "page": "",
+    "year": 2024,
+    "volume": "96",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.96.019901",
+    "title": "Erratum: Optical diagnostics of laser-produced plasmas [Rev. Mod. Phys. \n<b>94</b>\n, 035002 (2022)]",
+    "page": "",
+    "year": 2024,
+    "volume": "96",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.96.015004",
+    "title": "Spontaneous scalarization",
+    "page": "",
+    "year": 2024,
+    "volume": "96",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.96.015006",
+    "title": "The standard model effective field theory at work",
+    "page": "",
+    "year": 2024,
+    "volume": "96",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.96.015001",
+    "title": "Comprehensive theory of the Lamb shift in light muonic atoms",
+    "page": "",
+    "year": 2024,
+    "volume": "96",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.96.015003",
+    "title": "Time-resolved ARPES studies of quantum materials",
+    "page": "",
+    "year": 2024,
+    "volume": "96",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.96.015002",
+    "title": "Controlling mass and energy diffusion with metamaterials",
+    "page": "",
+    "year": 2024,
+    "volume": "96",
+    "issue": "1"
+   }
+  ],
+  "V91I1": [
+   {
+    "doi": "10.1103/revmodphys.91.015005",
+    "title": "Topological bands for ultracold atoms",
+    "page": "",
+    "year": 2019,
+    "volume": "91",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.91.011003",
+    "title": "<i>Colloquium</i>\n: Roper resonance: Toward a solution to the fifty year puzzle",
+    "page": "",
+    "year": 2019,
+    "volume": "91",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.91.015003",
+    "title": "<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:msup><mml:mi>η</mml:mi><mml:mo>′</mml:mo></mml:msup></mml:math>\n and \n<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/Ma",
+    "page": "",
+    "year": 2019,
+    "volume": "91",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.91.011001",
+    "title": "<i>Colloquium</i>\n: Superheavy elements: Oganesson and beyond",
+    "page": "",
+    "year": 2019,
+    "volume": "91",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.91.019901",
+    "title": "Erratum: Electron-phonon interactions from first principles [Rev. Mod. Phys. \n<b>89</b>\n, 15003 (2017)]",
+    "page": "",
+    "year": 2019,
+    "volume": "91",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.91.015006",
+    "title": "Topological photonics",
+    "page": "",
+    "year": 2019,
+    "volume": "91",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.91.010001",
+    "title": "Editorial: Synthesizing current research succinctly and elegantly",
+    "page": "",
+    "year": 2019,
+    "volume": "91",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.91.011002",
+    "title": "<i>Colloquium</i>\n: Anomalous metals: Failed superconductors",
+    "page": "",
+    "year": 2019,
+    "volume": "91",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.91.015002",
+    "title": "The conformal bootstrap: Theory, numerical techniques, and applications",
+    "page": "",
+    "year": 2019,
+    "volume": "91",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.91.015001",
+    "title": "Electric dipole moments of atoms, molecules, nuclei, and particles",
+    "page": "",
+    "year": 2019,
+    "volume": "91",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.91.015004",
+    "title": "Magnetic small-angle neutron scattering",
+    "page": "",
+    "year": 2019,
+    "volume": "91",
+    "issue": "1"
+   }
+  ],
+  "V90I4": [
+   {
+    "doi": "10.1103/revmodphys.90.041002",
+    "title": "<i>Colloquium</i>: Phononic thermal properties of two-dimensional materials",
+    "page": "",
+    "year": 2018,
+    "volume": "90",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.90.045006",
+    "title": "Deformation and flow of amorphous solids: Insights from elastoplastic models",
+    "page": "",
+    "year": 2018,
+    "volume": "90",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.90.040503",
+    "title": "Nobel Lecture: LIGO and gravitational waves III",
+    "page": "",
+    "year": 2018,
+    "volume": "90",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.90.045005",
+    "title": "Highly charged ions: Optical clocks and applications in fundamental physics",
+    "page": "",
+    "year": 2018,
+    "volume": "90",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.90.045001",
+    "title": "Collective behavior of colloids due to critical Casimir interactions",
+    "page": "",
+    "year": 2018,
+    "volume": "90",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.90.041001",
+    "title": "<i>Colloquium</i>\n: Nonequilibrium effects in superconductors with a spin-splitting field",
+    "page": "",
+    "year": 2018,
+    "volume": "90",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.90.045002",
+    "title": "History of dark matter",
+    "page": "",
+    "year": 2018,
+    "volume": "90",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.90.045003",
+    "title": "APS Medal for Exceptional Achievement in Research: Invited article on entanglement properties of quantum field theory",
+    "page": "",
+    "year": 2018,
+    "volume": "90",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.90.040502",
+    "title": "Nobel Lecture: LIGO and gravitational waves II",
+    "page": "",
+    "year": 2018,
+    "volume": "90",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.90.040501",
+    "title": "Nobel Lecture: LIGO and the discovery of gravitational waves I",
+    "page": "",
+    "year": 2018,
+    "volume": "90",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.90.045004",
+    "title": "Physics of liquid crystals of bent-shaped molecules",
+    "page": "",
+    "year": 2018,
+    "volume": "90",
+    "issue": "4"
+   }
+  ],
+  "V?I?": [
+   {
+    "doi": "10.1103/j1zg-ddqv",
+    "title": "Opinion dynamics: Statistical physics and beyond",
+    "page": "",
+    "year": 2026,
+    "volume": "?",
+    "issue": "?"
+   },
+   {
+    "doi": "10.1103/dj2s-sj4t",
+    "title": "Viscosity variation in fluid flows across scales",
+    "page": "",
+    "year": 2026,
+    "volume": "?",
+    "issue": "?"
+   },
+   {
+    "doi": "10.1103/ddx9-p8rm",
+    "title": "Poltergeist mechanism: Enhancement of scalar-induced gravitational waves with early matter-dominated era",
+    "page": "",
+    "year": 2026,
+    "volume": "?",
+    "issue": "?"
+   },
+   {
+    "doi": "10.1103/r55l-f93m",
+    "title": "Colloquium: A roadmap for strongly dipolar molecular Bose-Einstein condensates",
+    "page": "",
+    "year": 2026,
+    "volume": "?",
+    "issue": "?"
+   },
+   {
+    "doi": "10.1103/h7xp-2h5l",
+    "title": "Naturalness and the hierarchy problems",
+    "page": "",
+    "year": 2026,
+    "volume": "?",
+    "issue": "?"
+   },
+   {
+    "doi": "10.1103/4nng-bb9z",
+    "title": "Polarons in atomic gases and two-dimensional semiconductors",
+    "page": "",
+    "year": 2026,
+    "volume": "?",
+    "issue": "?"
+   },
+   {
+    "doi": "10.1103/mfpg-3th9",
+    "title": "Colloquium: Manabe’s legacy of simulating and understanding global warming",
+    "page": "",
+    "year": 2026,
+    "volume": "?",
+    "issue": "?"
+   },
+   {
+    "doi": "10.1103/f78t-ky69",
+    "title": "Quantum geometry phenomena in condensed matter systems",
+    "page": "",
+    "year": 2026,
+    "volume": "?",
+    "issue": "?"
+   },
+   {
+    "doi": "10.1103/nft2-txrm",
+    "title": "Colloquium: Laboratory exploration of planetary interiors",
+    "page": "",
+    "year": 2026,
+    "volume": "?",
+    "issue": "?"
+   },
+   {
+    "doi": "10.1103/28rs-frmw",
+    "title": "QKD security proofs for decoy-state BB84: protocol variations, proof techniques, gaps and limitations",
+    "page": "",
+    "year": 2026,
+    "volume": "?",
+    "issue": "?"
+   },
+   {
+    "doi": "10.1103/tn8k-r4w8",
+    "title": "Ion Coulomb crystals: An exotic form of condensed matter",
+    "page": "",
+    "year": 2026,
+    "volume": "?",
+    "issue": "?"
+   },
+   {
+    "doi": "10.1103/j9ly-b6q3",
+    "title": "Ultralight Dark Matter: Progress and Current Constraints",
+    "page": "",
+    "year": 2026,
+    "volume": "?",
+    "issue": "?"
+   },
+   {
+    "doi": "10.1103/4jwn-d6dg",
+    "title": "Colloquium: Quantum properties and functionalities of magnetic skyrmions",
+    "page": "",
+    "year": 2025,
+    "volume": "?",
+    "issue": "?"
+   }
+  ],
+  "V94I2": [
+   {
+    "doi": "10.1103/revmodphys.94.025007",
+    "title": "Quantum indistinguishability by path identity and with undetected photons",
+    "page": "",
+    "year": 2022,
+    "volume": "94",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.94.025005",
+    "title": "Tensor lattice field theory for renormalization and quantum computing",
+    "page": "",
+    "year": 2022,
+    "volume": "94",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.94.025003",
+    "title": "Coupling of mechanical deformation and electromagnetic fields in biological cells",
+    "page": "",
+    "year": 2022,
+    "volume": "94",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.94.025008",
+    "title": "Security in quantum cryptography",
+    "page": "",
+    "year": 2022,
+    "volume": "94",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.94.025001",
+    "title": "Parameter estimation with gravitational waves",
+    "page": "",
+    "year": 2022,
+    "volume": "94",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.94.025004",
+    "title": "Spoof surface plasmon photonics",
+    "page": "",
+    "year": 2022,
+    "volume": "94",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.94.025002",
+    "title": "Interfacial thermal resistance: Past, present, and future",
+    "page": "",
+    "year": 2022,
+    "volume": "94",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.94.025006",
+    "title": "Bunch shaping in electron linear accelerators",
+    "page": "",
+    "year": 2022,
+    "volume": "94",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.94.020501",
+    "title": "Nobel Lecture: A forty-year journey",
+    "page": "",
+    "year": 2022,
+    "volume": "94",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.94.029901",
+    "title": "Erratum: Hadronic molecules [Rev. Mod. Phys. \n<b>90</b>\n, 015004 (2018)]",
+    "page": "",
+    "year": 2022,
+    "volume": "94",
+    "issue": "2"
+   }
+  ],
+  "V93I1": [
+   {
+    "doi": "10.1103/revmodphys.93.015007",
+    "title": "Lepton flavor symmetries",
+    "page": "",
+    "year": 2021,
+    "volume": "93",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.93.015008",
+    "title": "Simulation methods for open quantum many-body systems",
+    "page": "",
+    "year": 2021,
+    "volume": "93",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.93.015004",
+    "title": "Invisible axion search methods",
+    "page": "",
+    "year": 2021,
+    "volume": "93",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.93.015003",
+    "title": "Novel Probes Project: Tests of gravity on astrophysical scales",
+    "page": "",
+    "year": 2021,
+    "volume": "93",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.93.015002",
+    "title": "Origin of the heaviest elements: The rapid neutron-capture process",
+    "page": "",
+    "year": 2021,
+    "volume": "93",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.93.015001",
+    "title": "Probing the interior physics of stars through asteroseismology",
+    "page": "",
+    "year": 2021,
+    "volume": "93",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.93.011001",
+    "title": "<i>Colloquium</i>\n: Physical properties of group-IV monochalcogenide monolayers",
+    "page": "",
+    "year": 2021,
+    "volume": "93",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.93.015006",
+    "title": "Modern and future colliders",
+    "page": "",
+    "year": 2021,
+    "volume": "93",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.93.010001",
+    "title": "Editorial: The Role of \n<i>Colloquia</i>\n in \n<i>Reviews of Modern Physics</i>",
+    "page": "",
+    "year": 2021,
+    "volume": "93",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.93.015005",
+    "title": "Exceptional topology of non-Hermitian systems",
+    "page": "",
+    "year": 2021,
+    "volume": "93",
+    "issue": "1"
+   }
+  ],
+  "V96I2": [
+   {
+    "doi": "10.1103/revmodphys.96.025002",
+    "title": "When superconductivity crosses over: From BCS to BEC",
+    "page": "",
+    "year": 2024,
+    "volume": "96",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.96.021002",
+    "title": "<i>Colloquium</i>\n: Topologically protected transport in engineered mechanical systems",
+    "page": "",
+    "year": 2024,
+    "volume": "96",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.96.025004",
+    "title": "Neutrinos from dense environments: Flavor mechanisms, theoretical approaches, observations, and new directions",
+    "page": "",
+    "year": 2024,
+    "volume": "96",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.96.025001",
+    "title": "Single-molecule scale magnetic resonance spectroscopy using quantum diamond sensors",
+    "page": "",
+    "year": 2024,
+    "volume": "96",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.96.020001",
+    "title": "Editorial: Coauthor! Coauthor!",
+    "page": "",
+    "year": 2024,
+    "volume": "96",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.96.025003",
+    "title": "Fluorescence microscopy: A statistics-optics perspective",
+    "page": "",
+    "year": 2024,
+    "volume": "96",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.96.021003",
+    "title": "<i>Colloquium</i>\n: Spin-orbit effects in superconducting hybrid structures",
+    "page": "",
+    "year": 2024,
+    "volume": "96",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.96.025005",
+    "title": "Catalysis in quantum information theory",
+    "page": "",
+    "year": 2024,
+    "volume": "96",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.96.021001",
+    "title": "<i>Colloquium</i>\n: Magnetotactic bacteria: From flagellar motor to collective effects",
+    "page": "",
+    "year": 2024,
+    "volume": "96",
+    "issue": "2"
+   }
+  ],
+  "V96I3": [
+   {
+    "doi": "10.1103/revmodphys.96.030502",
+    "title": "Nobel Lecture: Sub-atomic motions",
+    "page": "",
+    "year": 2024,
+    "volume": "96",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.96.035001",
+    "title": "Ultimate Rayleigh-Bénard turbulence",
+    "page": "",
+    "year": 2024,
+    "volume": "96",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.96.030501",
+    "title": "Nobel Lecture: Genesis and applications of attosecond pulse trains",
+    "page": "",
+    "year": 2024,
+    "volume": "96",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.96.031001",
+    "title": "<i>Colloquium</i>\n: Quantum batteries",
+    "page": "",
+    "year": 2024,
+    "volume": "96",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.96.030503",
+    "title": "Nobel Lecture: The route to attosecond pulses",
+    "page": "",
+    "year": 2024,
+    "volume": "96",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.96.031002",
+    "title": "<i>Colloquium:</i>\n                    Eigenvector continuation and projection-based emulators",
+    "page": "",
+    "year": 2024,
+    "volume": "96",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.96.035002",
+    "title": "FLASH: New intersection of physics, chemistry, biology, and cancer medicine",
+    "page": "",
+    "year": 2024,
+    "volume": "96",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.96.031003",
+    "title": "<i>Colloquium</i>\n                    : Inclusions, boundaries, and disorder in scalar active matter",
+    "page": "",
+    "year": 2024,
+    "volume": "96",
+    "issue": "3"
+   }
+  ],
+  "V91I2": [
+   {
+    "doi": "10.1103/revmodphys.91.025005",
+    "title": "Ultrastrong coupling regimes of light-matter interaction",
+    "page": "",
+    "year": 2019,
+    "volume": "91",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.91.021001",
+    "title": "<i>Colloquium</i>\n: Many-body localization, thermalization, and entanglement",
+    "page": "",
+    "year": 2019,
+    "volume": "91",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.91.025002",
+    "title": "Exploring astrophysics-relevant magnetohydrodynamics with pulsed-power laboratory facilities",
+    "page": "",
+    "year": 2019,
+    "volume": "91",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.91.025006",
+    "title": "The modern era of light kaonic atom experiments",
+    "page": "",
+    "year": 2019,
+    "volume": "91",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.91.025003",
+    "title": "Electronic coarse graining: Predictive atomistic modeling of condensed matter",
+    "page": "",
+    "year": 2019,
+    "volume": "91",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.91.025004",
+    "title": "Mesoscopic simulations at the physics-chemistry-biology interface",
+    "page": "",
+    "year": 2019,
+    "volume": "91",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.91.021003",
+    "title": "<i>Colloquium</i>\n: Fractional electromagnetism in quantum matter and high-energy physics",
+    "page": "",
+    "year": 2019,
+    "volume": "91",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.91.025001",
+    "title": "Quantum resource theories",
+    "page": "",
+    "year": 2019,
+    "volume": "91",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.91.021004",
+    "title": "<i>Colloquium</i>\n: Ionic phenomena in nanoscale pores through 2D materials",
+    "page": "",
+    "year": 2019,
+    "volume": "91",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.91.021002",
+    "title": "<i>Colloquium</i>: Physical constraints for the evolution of life on exoplanets",
+    "page": "",
+    "year": 2019,
+    "volume": "91",
+    "issue": "2"
+   }
+  ],
+  "V95I2": [
+   {
+    "doi": "10.1103/revmodphys.95.025003",
+    "title": "Semiconductor spin qubits",
+    "page": "",
+    "year": 2023,
+    "volume": "95",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.95.021002",
+    "title": "<i>Colloquium</i>\n: Positronium physics and biomedical applications",
+    "page": "",
+    "year": 2023,
+    "volume": "95",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.95.025004",
+    "title": "Culinary fluid mechanics and other currents in food science",
+    "page": "",
+    "year": 2023,
+    "volume": "95",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.95.025001",
+    "title": "Topological phases in polar oxide nanostructures",
+    "page": "",
+    "year": 2023,
+    "volume": "95",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.95.021001",
+    "title": "<i>Colloquium</i>\n: Room temperature superconductivity: The roles of theory and materials design",
+    "page": "",
+    "year": 2023,
+    "volume": "95",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.95.025005",
+    "title": "Physics principles of inertial confinement fusion and U.S. program overview",
+    "page": "",
+    "year": 2023,
+    "volume": "95",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.95.025002",
+    "title": "Toward the discovery of matter creation with neutrinoless \n<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>β</mml:mi><mml:mi>β</mml:mi></mml:math>\n decay",
+    "page": "",
+    "year": 2023,
+    "volume": "95",
+    "issue": "2"
+   }
+  ],
+  "V92I3": [
+   {
+    "doi": "10.1103/revmodphys.92.030503",
+    "title": "Nobel Lecture: 51 Pegasi b and the exoplanet revolution",
+    "page": "",
+    "year": 2020,
+    "volume": "92",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.92.035004",
+    "title": "Models of polymer solutions in electrified jets and solution blowing",
+    "page": "",
+    "year": 2020,
+    "volume": "92",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.92.035005",
+    "title": "Modes and states in quantum optics",
+    "page": "",
+    "year": 2020,
+    "volume": "92",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.92.035002",
+    "title": "The physics of climate variability and climate change",
+    "page": "",
+    "year": 2020,
+    "volume": "92",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.92.030502",
+    "title": "Nobel Lecture: Plurality of worlds in the cosmos: A dream of antiquity, a modern reality of astrophysics",
+    "page": "",
+    "year": 2020,
+    "volume": "92",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.92.031001",
+    "title": "<i>Colloquium</i>\n: Linear in temperature resistivity and associated mysteries including high temperature superconductivity",
+    "page": "",
+    "year": 2020,
+    "volume": "92",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.92.035001",
+    "title": "Advances and challenges in single-molecule electron transport",
+    "page": "",
+    "year": 2020,
+    "volume": "92",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.92.035003",
+    "title": "Thirty years of \n<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:msubsup><mml:mi mathvariant=\"normal\">H</mml:mi><mml:mn>3</mml:mn><mml:mo>+</mml:mo></mml:msubsup></mml:m",
+    "page": "",
+    "year": 2020,
+    "volume": "92",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.92.030501",
+    "title": "Nobel Lecture: How physical cosmology grew",
+    "page": "",
+    "year": 2020,
+    "volume": "92",
+    "issue": "3"
+   }
+  ],
+  "V91I3": [
+   {
+    "doi": "10.1103/revmodphys.91.031001",
+    "title": "<i>Colloquium</i>: Proteins: The physics of amorphous evolving matter",
+    "page": "",
+    "year": 2019,
+    "volume": "91",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.91.030501",
+    "title": "Nobel Lecture: Extreme light physics and application",
+    "page": "",
+    "year": 2019,
+    "volume": "91",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.91.035005",
+    "title": "Quantum control of molecular rotation",
+    "page": "",
+    "year": 2019,
+    "volume": "91",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.91.035002",
+    "title": "Memory formation in matter",
+    "page": "",
+    "year": 2019,
+    "volume": "91",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.91.035004",
+    "title": "Current-induced spin-orbit torques in ferromagnetic and antiferromagnetic systems",
+    "page": "",
+    "year": 2019,
+    "volume": "91",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.91.035003",
+    "title": "Superradiant and stimulated-superradiant emission of bunched electron beams",
+    "page": "",
+    "year": 2019,
+    "volume": "91",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.91.035006",
+    "title": "Optoelectronic oscillators with time-delayed feedback",
+    "page": "",
+    "year": 2019,
+    "volume": "91",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.91.030001",
+    "title": "Editorial: RMP: Looking Forward",
+    "page": "",
+    "year": 2019,
+    "volume": "91",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.91.030502",
+    "title": "Nobel Lecture: Generating high-intensity ultrashort optical pulses",
+    "page": "",
+    "year": 2019,
+    "volume": "91",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.91.035001",
+    "title": "Cold hybrid ion-atom systems",
+    "page": "",
+    "year": 2019,
+    "volume": "91",
+    "issue": "3"
+   }
+  ],
+  "V91I4": [
+   {
+    "doi": "10.1103/revmodphys.91.045004",
+    "title": "Nonequilibrium physics in biology",
+    "page": "",
+    "year": 2019,
+    "volume": "91",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.91.045001",
+    "title": "Shortcuts to adiabaticity: Concepts, methods, and applications",
+    "page": "",
+    "year": 2019,
+    "volume": "91",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.91.045003",
+    "title": "Jet substructure at the Large Hadron Collider",
+    "page": "",
+    "year": 2019,
+    "volume": "91",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.91.041002",
+    "title": "<i>Colloquium</i>\n: The physics of axion stars",
+    "page": "",
+    "year": 2019,
+    "volume": "91",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.91.041003",
+    "title": "<i>Colloquium</i>\n: Ice rule and emergent frustration in particle ice and beyond",
+    "page": "",
+    "year": 2019,
+    "volume": "91",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.91.045005",
+    "title": "Odd-frequency superconductivity",
+    "page": "",
+    "year": 2019,
+    "volume": "91",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.91.045002",
+    "title": "Machine learning and the physical sciences",
+    "page": "",
+    "year": 2019,
+    "volume": "91",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.91.049902",
+    "title": "Erratum: Axions and the strong \n<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>C</mml:mi><mml:mi>P</mml:mi></mml:math>\n problem [Rev. Mod. Phys. \n<b>82</b>\n, 557 (20",
+    "page": "",
+    "year": 2019,
+    "volume": "91",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.91.041001",
+    "title": "<i>Colloquium</i>: Atomic spin chains on surfaces",
+    "page": "",
+    "year": 2019,
+    "volume": "91",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.91.049901",
+    "title": "Publisher’s Note: \n<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>C</mml:mi><mml:mi>P</mml:mi></mml:math>\n violation in the \n<mml:math xmlns:mml=\"http://www.w3.org/1",
+    "page": "",
+    "year": 2019,
+    "volume": "91",
+    "issue": "4"
+   }
+  ],
+  "V92I1": [
+   {
+    "doi": "10.1103/revmodphys.92.015004",
+    "title": "Sensitivity optimization for NV-diamond magnetometry",
+    "page": "",
+    "year": 2020,
+    "volume": "92",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.92.011003",
+    "title": "<i>Colloquium</i>\n: Neutrino detectors as tools for nuclear security",
+    "page": "",
+    "year": 2020,
+    "volume": "92",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.92.015002",
+    "title": "Evolution of shell structure in exotic nuclei",
+    "page": "",
+    "year": 2020,
+    "volume": "92",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.92.015001",
+    "title": "Quantum steering",
+    "page": "",
+    "year": 2020,
+    "volume": "92",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.92.011001",
+    "title": "<i>Colloquium</i>\n: Multiconfigurational time-dependent Hartree approaches for indistinguishable particles",
+    "page": "",
+    "year": 2020,
+    "volume": "92",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.92.011002",
+    "title": "<i>Colloquium</i>\n: Heavy-electron quantum criticality and single-particle spectroscopy",
+    "page": "",
+    "year": 2020,
+    "volume": "92",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.92.015003",
+    "title": "Quantum computational chemistry",
+    "page": "",
+    "year": 2020,
+    "volume": "92",
+    "issue": "1"
+   }
+  ],
+  "V98I2": [
+   {
+    "doi": "10.1103/yx73-dk86",
+    "title": "Exactly solvable quantum many-body dynamics from space-time duality",
+    "page": "",
+    "year": 2026,
+    "volume": "98",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/2pff-xy6n",
+    "title": "2D van der Waals magnets: From fundamental physics to applications",
+    "page": "",
+    "year": 2026,
+    "volume": "98",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/2mrp-chly",
+    "title": "<i>Colloquium</i>\n                    : Hadron production in open-charm meson pairs at\n                    <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\">\n                  ",
+    "page": "",
+    "year": 2026,
+    "volume": "98",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/x6gh-d8gh",
+    "title": "Quantum linear system solvers: A survey of algorithms and applications",
+    "page": "",
+    "year": 2026,
+    "volume": "98",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/w3nw-hbjc",
+    "title": "<i>Colloquium</i>\n                    : Simulating non-Markovian dynamics in open quantum systems",
+    "page": "",
+    "year": 2026,
+    "volume": "98",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/h8wb-y278",
+    "title": "Fundamentals of vacuum breakdown in high-gradient accelerator structures",
+    "page": "",
+    "year": 2026,
+    "volume": "98",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/9nww-fclb",
+    "title": "High-energy emission from the Galactic Center",
+    "page": "",
+    "year": 2026,
+    "volume": "98",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/pqvw-kv92",
+    "title": "Tip-enhanced molecular fluorescence microscopy with atomic-scale resolution",
+    "page": "",
+    "year": 2026,
+    "volume": "98",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/7zdw-p26g",
+    "title": "Radiation forces and torques in optics and acoustics",
+    "page": "",
+    "year": 2026,
+    "volume": "98",
+    "issue": "2"
+   }
+  ],
+  "V97I2": [
+   {
+    "doi": "10.1103/revmodphys.97.025001",
+    "title": "Gas bubble dynamics",
+    "page": "",
+    "year": 2025,
+    "volume": "97",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.97.021001",
+    "title": "<i>Colloquium</i>\n                    : Decoherence of solid-state spin qubits: A computational perspective",
+    "page": "",
+    "year": 2025,
+    "volume": "97",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.97.021003",
+    "title": "<i>Colloquium</i>\n                    : Qudits for decomposing multiqubit gates and realizing quantum algorithms",
+    "page": "",
+    "year": 2025,
+    "volume": "97",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.97.025003",
+    "title": "Quantum physics of stars",
+    "page": "",
+    "year": 2025,
+    "volume": "97",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.97.025002",
+    "title": "CODATA recommended values of the fundamental physical constants: 2022",
+    "page": "",
+    "year": 2025,
+    "volume": "97",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.97.025006",
+    "title": "Order and disorder at the atomic scale: Microscopy applied to semiconductors",
+    "page": "",
+    "year": 2025,
+    "volume": "97",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.97.025005",
+    "title": "Spin-dependent exotic interactions",
+    "page": "",
+    "year": 2025,
+    "volume": "97",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.97.021002",
+    "title": "<i>Colloquium</i>\n: Materials that exceed classical thermodynamic bounds on properties",
+    "page": "",
+    "year": 2025,
+    "volume": "97",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.97.025004",
+    "title": "Universality in driven open quantum matter",
+    "page": "",
+    "year": 2025,
+    "volume": "97",
+    "issue": "2"
+   }
+  ],
+  "V98I1": [
+   {
+    "doi": "10.1103/25gj-p14q",
+    "title": "<i>Colloquium</i>\n                    : Geospace pathfinder science at Arecibo Observatory",
+    "page": "",
+    "year": 2026,
+    "volume": "98",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/jdlt-7czp",
+    "title": "<i>Colloquium</i>\n                    : Multimessenger astronomy with continuous gravitational waves and future detectors",
+    "page": "",
+    "year": 2026,
+    "volume": "98",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/wnnk-qqvj",
+    "title": "<i>Colloquium</i>\n                    : Convection-cloud chambers: Experiment and theory",
+    "page": "",
+    "year": 2026,
+    "volume": "98",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/mg21-4kcj",
+    "title": "<i>Colloquium</i>\n                    : Radio astronomy with the Arecibo 305-m telescope: In contemporaneous context",
+    "page": "",
+    "year": 2026,
+    "volume": "98",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/1g9n-wm38",
+    "title": "Kagome metals",
+    "page": "",
+    "year": 2026,
+    "volume": "98",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/g2ll-2qql",
+    "title": "Pressure effects on metals, alloys, and compounds of transplutonium elements",
+    "page": "",
+    "year": 2026,
+    "volume": "98",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.98.010001",
+    "title": "Editorial: A Tribute to the Arecibo Observatory",
+    "page": "",
+    "year": 2026,
+    "volume": "98",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/k13g-z9s8",
+    "title": "<i>Colloquium</i>\n                    : Planetary radar at the Arecibo Observatory",
+    "page": "",
+    "year": 2026,
+    "volume": "98",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/9qlw-gyd7",
+    "title": "Field theories and quantum methods for stochastic reaction-diffusion systems",
+    "page": "",
+    "year": 2026,
+    "volume": "98",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/mgj7-t6d3",
+    "title": "Continuous-variable quantum communication",
+    "page": "",
+    "year": 2026,
+    "volume": "98",
+    "issue": "1"
+   }
+  ],
+  "V92I4": [
+   {
+    "doi": "10.1103/revmodphys.92.045005",
+    "title": "Large \n<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>D</mml:mi></mml:math>\n limit of Einstein’s equations",
+    "page": "",
+    "year": 2020,
+    "volume": "92",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.92.045004",
+    "title": "Light rays, singularities, and all that",
+    "page": "",
+    "year": 2020,
+    "volume": "92",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.92.045006",
+    "title": "Grand unified neutrino spectrum at Earth: Sources and spectral components",
+    "page": "",
+    "year": 2020,
+    "volume": "92",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.92.045003",
+    "title": "Hadronic structure in high-energy collisions",
+    "page": "",
+    "year": 2020,
+    "volume": "92",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.92.041002",
+    "title": "<i>Colloquium</i>: Statistical mechanics and thermodynamics at strong coupling: Quantum and classical",
+    "page": "",
+    "year": 2020,
+    "volume": "92",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.92.041003",
+    "title": "<i>Colloquium</i>: Quantum crystallizations of<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>He</mml:mi></mml:mrow><mml:mpresc",
+    "page": "",
+    "year": 2020,
+    "volume": "92",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.92.040001",
+    "title": "Editorial: Promoting Inclusive and Respectful Communications",
+    "page": "",
+    "year": 2020,
+    "volume": "92",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.92.045002",
+    "title": "Mechanical behavior of solid helium: Elasticity, plasticity, and defects",
+    "page": "",
+    "year": 2020,
+    "volume": "92",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.92.045001",
+    "title": "APS Medal for Exceptional Achievement in Research: Topology and other tools in condensed matter physics",
+    "page": "",
+    "year": 2020,
+    "volume": "92",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.92.041001",
+    "title": "<i>Colloquium</i>: Unusual dynamics of convection in the Sun",
+    "page": "",
+    "year": 2020,
+    "volume": "92",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.92.045007",
+    "title": "Neutrinoless double-electron capture",
+    "page": "",
+    "year": 2020,
+    "volume": "92",
+    "issue": "4"
+   }
+  ],
+  "V90I3": [
+   {
+    "doi": "10.1103/revmodphys.90.031003",
+    "title": "<i>Colloquium</i>: Control of dynamics in brain networks",
+    "page": "",
+    "year": 2018,
+    "volume": "90",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.90.035007",
+    "title": "Entanglement entropy: Holography and renormalization group",
+    "page": "",
+    "year": 2018,
+    "volume": "90",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.90.035001",
+    "title": "Single top-quark production at the Tevatron and the LHC",
+    "page": "",
+    "year": 2018,
+    "volume": "90",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.90.031002",
+    "title": "<i>Colloquium</i>\n: Quantum matter built from nanoscopic lattices of atoms and photons",
+    "page": "",
+    "year": 2018,
+    "volume": "90",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.90.035002",
+    "title": "Diagnostics for plasma-based electron accelerators",
+    "page": "",
+    "year": 2018,
+    "volume": "90",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.90.031001",
+    "title": "<i>Colloquium</i>: Criticality and dynamical scaling in living systems",
+    "page": "",
+    "year": 2018,
+    "volume": "90",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.90.035006",
+    "title": "Quantum-enhanced measurements without entanglement",
+    "page": "",
+    "year": 2018,
+    "volume": "90",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.90.035005",
+    "title": "Quantum metrology with nonclassical states of atomic ensembles",
+    "page": "",
+    "year": 2018,
+    "volume": "90",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.90.035004",
+    "title": "Microscopic clustering in light nuclei",
+    "page": "",
+    "year": 2018,
+    "volume": "90",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.90.035003",
+    "title": "Delocalized excitons in natural light-harvesting complexes",
+    "page": "",
+    "year": 2018,
+    "volume": "90",
+    "issue": "3"
+   }
+  ],
+  "V95I4": [
+   {
+    "doi": "10.1103/revmodphys.95.045003",
+    "title": "Light in correlated disordered media",
+    "page": "",
+    "year": 2023,
+    "volume": "95",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.95.041002",
+    "title": "<i>Colloquium</i>\n: Gravitational form factors of the proton",
+    "page": "",
+    "year": 2023,
+    "volume": "95",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.95.045005",
+    "title": "Quantum error mitigation",
+    "page": "",
+    "year": 2023,
+    "volume": "95",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.95.041001",
+    "title": "<i>Colloquium</i>\n: Miniature insect flight",
+    "page": "",
+    "year": 2023,
+    "volume": "95",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.95.045002",
+    "title": "Atmospheric nanoparticle growth",
+    "page": "",
+    "year": 2023,
+    "volume": "95",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.95.045007",
+    "title": "Proton imaging of high-energy-density laboratory plasmas",
+    "page": "",
+    "year": 2023,
+    "volume": "95",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.95.045004",
+    "title": "Kinematic variables and feature engineering for particle phenomenology",
+    "page": "",
+    "year": 2023,
+    "volume": "95",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.95.045001",
+    "title": "Respiratory aerosols and droplets in the transmission of infectious diseases",
+    "page": "",
+    "year": 2023,
+    "volume": "95",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.95.045006",
+    "title": "Quantum repeaters: From quantum networks to the quantum internet",
+    "page": "",
+    "year": 2023,
+    "volume": "95",
+    "issue": "4"
+   }
+  ],
+  "V96I4": [
+   {
+    "doi": "10.1103/revmodphys.96.045002",
+    "title": "<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\">\n                      <mml:mi mathvariant=\"script\">PT</mml:mi>\n                    </mml:math>\n                    -symmetric",
+    "page": "",
+    "year": 2024,
+    "volume": "96",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.96.045001",
+    "title": "The science and technology of liquid argon detectors",
+    "page": "",
+    "year": 2024,
+    "volume": "96",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.96.045008",
+    "title": "Wannier-function software ecosystem for materials simulations",
+    "page": "",
+    "year": 2024,
+    "volume": "96",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.96.045003",
+    "title": "Colloidal hard spheres: Triumphs, challenges, and mysteries",
+    "page": "",
+    "year": 2024,
+    "volume": "96",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.96.045004",
+    "title": "New developments in the numerical conformal bootstrap",
+    "page": "",
+    "year": 2024,
+    "volume": "96",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.96.045007",
+    "title": "Kinetic solitary electrostatic structures in collisionless plasma: Phase-space holes",
+    "page": "",
+    "year": 2024,
+    "volume": "96",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.96.045005",
+    "title": "Cosmological gravitational particle production and its implications for cosmological relics",
+    "page": "",
+    "year": 2024,
+    "volume": "96",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.96.045006",
+    "title": "Semidefinite programming relaxations for quantum correlations",
+    "page": "",
+    "year": 2024,
+    "volume": "96",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.96.041001",
+    "title": "<i>Colloquium</i>\n                    : Gene expression in growing cells: A biophysical primer",
+    "page": "",
+    "year": 2024,
+    "volume": "96",
+    "issue": "4"
+   }
+  ],
+  "V94I3": [
+   {
+    "doi": "10.1103/revmodphys.94.035005",
+    "title": "Statics and dynamics of skyrmions interacting with disorder and nanostructures",
+    "page": "",
+    "year": 2022,
+    "volume": "94",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.94.031003",
+    "title": "<i>Colloquium</i>\n: Machine learning in nuclear physics",
+    "page": "",
+    "year": 2022,
+    "volume": "94",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.94.031002",
+    "title": "<i>Colloquium</i>: Multiscale modeling of brain network organization",
+    "page": "",
+    "year": 2022,
+    "volume": "94",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.94.035004",
+    "title": "Sachdev-Ye-Kitaev models and beyond: Window into non-Fermi liquids",
+    "page": "",
+    "year": 2022,
+    "volume": "94",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.94.035001",
+    "title": "Micius quantum experiments in space",
+    "page": "",
+    "year": 2022,
+    "volume": "94",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.94.035002",
+    "title": "Optical diagnostics of laser-produced plasmas",
+    "page": "",
+    "year": 2022,
+    "volume": "94",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.94.039901",
+    "title": "Erratum: \n<i>Colloquium</i>\n: Statistical mechanics and thermodynamics at strong coupling: Quantum and classical [Rev. Mod. Phys. \n<b>92</b>\n, 041002 (2020)]",
+    "page": "",
+    "year": 2022,
+    "volume": "94",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.94.031001",
+    "title": "<i>Colloquium</i>\n: Geometric phases of light: Insights from fiber bundle theory",
+    "page": "",
+    "year": 2022,
+    "volume": "94",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.94.035003",
+    "title": "Interplay between optical vortices and condensed matter",
+    "page": "",
+    "year": 2022,
+    "volume": "94",
+    "issue": "3"
+   }
+  ],
+  "V93I4": [
+   {
+    "doi": "10.1103/revmodphys.93.045002",
+    "title": "Water vapor and lapse rate feedbacks in the climate system",
+    "page": "",
+    "year": 2021,
+    "volume": "93",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.93.045001",
+    "title": "The Fibonacci quasicrystal: Case study of hidden dimensions and multifractality",
+    "page": "",
+    "year": 2021,
+    "volume": "93",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.93.045003",
+    "title": "Matrix product states and projected entangled pair states: Concepts, symmetries, theorems",
+    "page": "",
+    "year": 2021,
+    "volume": "93",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.93.041001",
+    "title": "<i>Colloquium</i>: Quantum heat transport in condensed matter systems",
+    "page": "",
+    "year": 2021,
+    "volume": "93",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1103/revmodphys.93.041002",
+    "title": "<i>Colloquium:</i>\n Nonthermal pathways to ultrafast control in quantum materials",
+    "page": "",
+    "year": 2021,
+    "volume": "93",
+    "issue": "4"
+   }
+  ],
+  "V93I2": [
+   {
+    "doi": "10.1103/revmodphys.93.025003",
+    "title": "Finite-temperature transport in one-dimensional quantum lattice models",
+    "page": "",
+    "year": 2021,
+    "volume": "93",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.93.025004",
+    "title": "Emergent constraints on climate sensitivities",
+    "page": "",
+    "year": 2021,
+    "volume": "93",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.93.025001",
+    "title": "Programmable quantum simulations of spin systems with trapped ions",
+    "page": "",
+    "year": 2021,
+    "volume": "93",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.93.025008",
+    "title": "Equilibrium mechanisms of self-limiting assembly",
+    "page": "",
+    "year": 2021,
+    "volume": "93",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.93.025010",
+    "title": "CODATA recommended values of the fundamental physical constants: 2018",
+    "page": "",
+    "year": 2021,
+    "volume": "93",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.93.025006",
+    "title": "Angle-resolved photoemission studies of quantum materials",
+    "page": "",
+    "year": 2021,
+    "volume": "93",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.93.025005",
+    "title": "Circuit quantum electrodynamics",
+    "page": "",
+    "year": 2021,
+    "volume": "93",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.93.025009",
+    "title": "Near-field radiative heat transfer in many-body systems",
+    "page": "",
+    "year": 2021,
+    "volume": "93",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.93.025002",
+    "title": "Experimental perspective on three-dimensional topological semimetals",
+    "page": "",
+    "year": 2021,
+    "volume": "93",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1103/revmodphys.93.025007",
+    "title": "Vector bosons and jets in proton collisions",
+    "page": "",
+    "year": 2021,
+    "volume": "93",
+    "issue": "2"
+   }
+  ],
+  "V94I1": [
+   {
+    "doi": "10.1103/revmodphys.94.015003",
+    "title": "Semitauonic \n<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>b</mml:mi></mml:math>\n-hadron decays: A lepton flavor universality laboratory",
+    "page": "",
+    "year": 2022,
+    "volume": "94",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.94.015007",
+    "title": "Power functional theory for many-body dynamics",
+    "page": "",
+    "year": 2022,
+    "volume": "94",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.94.015004",
+    "title": "Noisy intermediate-scale quantum algorithms",
+    "page": "",
+    "year": 2022,
+    "volume": "94",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.94.015005",
+    "title": "Collective nonlinear dynamics and self-organization in decentralized power grids",
+    "page": "",
+    "year": 2022,
+    "volume": "94",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.94.015002",
+    "title": "The proton charge radius",
+    "page": "",
+    "year": 2022,
+    "volume": "94",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.94.015001",
+    "title": "The climate system and the second law of thermodynamics",
+    "page": "",
+    "year": 2022,
+    "volume": "94",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1103/revmodphys.94.015006",
+    "title": "Complex paths around the sign problem",
+    "page": "",
+    "year": 2022,
+    "volume": "94",
+    "issue": "1"
+   }
+  ],
+  "V93I3": [
+   {
+    "doi": "10.1103/revmodphys.93.035001",
+    "title": "Dynamics of resonant x-ray and Auger scattering",
+    "page": "",
+    "year": 2021,
+    "volume": "93",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.93.035008",
+    "title": "Irreversible entropy production: From classical to quantum",
+    "page": "",
+    "year": 2021,
+    "volume": "93",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.93.035006",
+    "title": "Wall interactions of spin-polarized atoms",
+    "page": "",
+    "year": 2021,
+    "volume": "93",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.93.035007",
+    "title": "Dark matter annihilation to neutrinos",
+    "page": "",
+    "year": 2021,
+    "volume": "93",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.93.035004",
+    "title": "Baryogenesis from the weak scale to the grand unification scale",
+    "page": "",
+    "year": 2021,
+    "volume": "93",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.93.035005",
+    "title": "Large-momentum effective theory",
+    "page": "",
+    "year": 2021,
+    "volume": "93",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.93.035002",
+    "title": "The entropy of Hawking radiation",
+    "page": "",
+    "year": 2021,
+    "volume": "93",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1103/revmodphys.93.035003",
+    "title": "QCD thermalization: \n<i>Ab initio</i>\n approaches and interdisciplinary connections",
+    "page": "",
+    "year": 2021,
+    "volume": "93",
+    "issue": "3"
+   }
+  ],
+  "V98I3": [
+   {
+    "doi": "10.1103/wd4f-q7kv",
+    "title": "<i>Colloquium</i>\n                    : What do we mean by ‘active matter’?",
+    "page": "",
+    "year": 2026,
+    "volume": "98",
+    "issue": "3"
+   }
+  ]
+ }
+}

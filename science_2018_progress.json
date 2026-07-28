@@ -1,0 +1,598 @@
+{
+  "done": {
+    "10.1126/science.aam7240": {
+      "bucket": "V359I6371",
+      "size": 3774608,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6371.43-k": {
+      "bucket": "V359I6371",
+      "size": 721017,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6371.43-h": {
+      "bucket": "V359I6371",
+      "size": 721009,
+      "src": "scihub"
+    },
+    "10.1126/science.aam5809": {
+      "bucket": "V359I6371",
+      "size": 1357967,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6371.43-i": {
+      "bucket": "V359I6371",
+      "size": 721024,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6371.23": {
+      "bucket": "V359I6371",
+      "size": 297714,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6371.17": {
+      "bucket": "V359I6371",
+      "size": 364688,
+      "src": "scihub"
+    },
+    "10.1126/science.aao4134": {
+      "bucket": "V359I6371",
+      "size": 1178078,
+      "src": "scihub"
+    },
+    "10.1126/science.aan0106": {
+      "bucket": "V359I6371",
+      "size": 367327,
+      "src": "scihub"
+    },
+    "10.1126/science.aan6003": {
+      "bucket": "V359I6371",
+      "size": 611751,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6371.44-f": {
+      "bucket": "V359I6371",
+      "size": 618574,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6371.120": {
+      "bucket": "V359I6371",
+      "size": 216566,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6371.18": {
+      "bucket": "V359I6371",
+      "size": 864808,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6371.43-s": {
+      "bucket": "V359I6371",
+      "size": 721030,
+      "src": "scihub"
+    },
+    "10.1126/science.aar3920": {
+      "bucket": "V359I6371",
+      "size": 611673,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6371.43-b": {
+      "bucket": "V359I6371",
+      "size": 721014,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6371.44-a": {
+      "bucket": "V359I6371",
+      "size": 618575,
+      "src": "scihub"
+    },
+    "10.1126/science.aar7504": {
+      "bucket": "V359I6371",
+      "size": 1178340,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6371.43-d": {
+      "bucket": "V359I6371",
+      "size": 721022,
+      "src": "scihub"
+    },
+    "10.1126/science.aar2946": {
+      "bucket": "V359I6371",
+      "size": 916358,
+      "src": "scihub"
+    },
+    "10.1126/science.aao6139": {
+      "bucket": "V359I6371",
+      "size": 1040646,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6371.44-d": {
+      "bucket": "V359I6371",
+      "size": 618577,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6371.43-n": {
+      "bucket": "V359I6371",
+      "size": 721013,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6371.10": {
+      "bucket": "V359I6371",
+      "size": 1628006,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6371.43-t": {
+      "bucket": "V359I6371",
+      "size": 721031,
+      "src": "scihub"
+    },
+    "10.1126/science.aap7301": {
+      "bucket": "V359I6371",
+      "size": 666824,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6371.44-b": {
+      "bucket": "V359I6371",
+      "size": 618573,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6371.126": {
+      "bucket": "V359I6371",
+      "size": 179188,
+      "src": "scihub"
+    },
+    "10.1126/science.aam8825": {
+      "bucket": "V359I6371",
+      "size": 408537,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6371.43-f": {
+      "bucket": "V359I6371",
+      "size": 721018,
+      "src": "scihub"
+    },
+    "10.1126/science.aan4380": {
+      "bucket": "V359I6371",
+      "size": 833882,
+      "src": "scihub"
+    },
+    "10.1126/science.aar6576": {
+      "bucket": "V359I6371",
+      "size": 410836,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6371.43-r": {
+      "bucket": "V359I6371",
+      "size": 721026,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6371.13": {
+      "bucket": "V359I6371",
+      "size": 319290,
+      "src": "scihub"
+    },
+    "10.1126/science.aan1078": {
+      "bucket": "V359I6371",
+      "size": 4500118,
+      "src": "scihub"
+    },
+    "10.1126/science.aar4799": {
+      "bucket": "V359I6371",
+      "size": 431322,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6372.172-o": {
+      "bucket": "V359I6372",
+      "size": 955794,
+      "src": "scihub"
+    },
+    "10.1126/science.aar2522": {
+      "bucket": "V359I6372",
+      "size": 499319,
+      "src": "scihub"
+    },
+    "10.1126/science.aao3474": {
+      "bucket": "V359I6372",
+      "size": 1210036,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6372.172-d": {
+      "bucket": "V359I6372",
+      "size": 955598,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6372.172-n": {
+      "bucket": "V359I6372",
+      "size": 955602,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6372.172-f": {
+      "bucket": "V359I6372",
+      "size": 955590,
+      "src": "scihub"
+    },
+    "10.1126/science.aao3898": {
+      "bucket": "V359I6372",
+      "size": 1310702,
+      "src": "scihub"
+    },
+    "10.1126/science.aap8775": {
+      "bucket": "V359I6372",
+      "size": 457311,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6372.172-a": {
+      "bucket": "V359I6372",
+      "size": 955590,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6372.173-f": {
+      "bucket": "V359I6372",
+      "size": 967209,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6372.173-g": {
+      "bucket": "V359I6372",
+      "size": 967204,
+      "src": "scihub"
+    },
+    "10.1126/science.aao1503": {
+      "bucket": "V359I6372",
+      "size": 759149,
+      "src": "scihub"
+    },
+    "10.1126/science.aas9167": {
+      "bucket": "V359I6372",
+      "size": 244484,
+      "src": "scihub"
+    },
+    "10.1126/science.aar6205": {
+      "bucket": "V359I6372",
+      "size": 498941,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6372.141": {
+      "bucket": "V359I6372",
+      "size": 914714,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6372.152": {
+      "bucket": "V359I6372",
+      "size": 1603733,
+      "src": "scihub"
+    },
+    "10.1126/science.aar2401": {
+      "bucket": "V359I6372",
+      "size": 266781,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6372.242": {
+      "bucket": "V359I6372",
+      "size": 215674,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6372.172-e": {
+      "bucket": "V359I6372",
+      "size": 955598,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6372.172-j": {
+      "bucket": "V359I6372",
+      "size": 955590,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6372.151": {
+      "bucket": "V359I6372",
+      "size": 3214564,
+      "src": "scihub"
+    },
+    "10.1126/science.aan4325": {
+      "bucket": "V359I6372",
+      "size": 2562594,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6372.172-g": {
+      "bucket": "V359I6372",
+      "size": 955587,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6372.172-p": {
+      "bucket": "V359I6372",
+      "size": 955583,
+      "src": "scihub"
+    },
+    "10.1126/science.2018.359.6372.twil": {
+      "bucket": "V359I6372",
+      "size": 938149,
+      "src": "scihub"
+    },
+    "10.1126/science.aan0593": {
+      "bucket": "V359I6372",
+      "size": 846448,
+      "src": "scihub"
+    },
+    "10.1126/science.aar5541": {
+      "bucket": "V359I6372",
+      "size": 894436,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6372.173-a": {
+      "bucket": "V359I6372",
+      "size": 967196,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6372.173-c": {
+      "bucket": "V359I6372",
+      "size": 967240,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6372.144": {
+      "bucket": "V359I6372",
+      "size": 1059229,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6373.285-e": {
+      "bucket": "V359I6373",
+      "size": 948171,
+      "src": "scihub"
+    },
+    "10.1126/science.aar5421": {
+      "bucket": "V359I6373",
+      "size": 384668,
+      "src": "scihub"
+    },
+    "10.1126/science.aao4408": {
+      "bucket": "V359I6373",
+      "size": 354239,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6373.285-d": {
+      "bucket": "V359I6373",
+      "size": 948178,
+      "src": "scihub"
+    },
+    "10.1126/science.aar5253": {
+      "bucket": "V359I6373",
+      "size": 425164,
+      "src": "scihub"
+    },
+    "10.1126/science.aap9516": {
+      "bucket": "V359I6373",
+      "size": 2034807,
+      "src": "scihub"
+    },
+    "10.1126/science.aao0159": {
+      "bucket": "V359I6373",
+      "size": 1280734,
+      "src": "scihub"
+    },
+    "10.1126/science.aao7172": {
+      "bucket": "V359I6373",
+      "size": 799085,
+      "src": "scihub"
+    },
+    "10.1126/science.aar2948": {
+      "bucket": "V359I6373",
+      "size": 354900,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6373.260": {
+      "bucket": "V359I6373",
+      "size": 225732,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6373.286-f": {
+      "bucket": "V359I6373",
+      "size": 1041780,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6373.285-p": {
+      "bucket": "V359I6373",
+      "size": 948171,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6373.285-m": {
+      "bucket": "V359I6373",
+      "size": 948181,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6373.262": {
+      "bucket": "V359I6373",
+      "size": 356371,
+      "src": "scihub"
+    },
+    "10.1126/science.aao4096": {
+      "bucket": "V359I6373",
+      "size": 1256611,
+      "src": "scihub"
+    },
+    "10.1126/science.aar4301": {
+      "bucket": "V359I6371",
+      "size": 7112048,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6371.43-l": {
+      "bucket": "V359I6371",
+      "size": 721028,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6371.16": {
+      "bucket": "V359I6371",
+      "size": 681037,
+      "src": "scihub"
+    },
+    "10.1126/science.aar8654": {
+      "bucket": "V359I6371",
+      "size": 136578,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6371.14": {
+      "bucket": "V359I6371",
+      "size": 107751,
+      "src": "scihub"
+    },
+    "10.1126/science.aan4236": {
+      "bucket": "V359I6371",
+      "size": 6608528,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6373.256": {
+      "bucket": "V359I6373",
+      "size": 773324,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6373.259": {
+      "bucket": "V359I6373",
+      "size": 124777,
+      "src": "scihub"
+    },
+    "10.1126/science.aar6580": {
+      "bucket": "V359I6373",
+      "size": 332671,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6373.261": {
+      "bucket": "V359I6373",
+      "size": 10256268,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6371.43-a": {
+      "bucket": "V359I6371",
+      "size": 721021,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6371.43-o": {
+      "bucket": "V359I6371",
+      "size": 721029,
+      "src": "scihub"
+    },
+    "10.1126/science.2018.359.6371.twis": {
+      "bucket": "V359I6371",
+      "size": 675546,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6371.24": {
+      "bucket": "V359I6371",
+      "size": 116309,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6371.43-g": {
+      "bucket": "V359I6371",
+      "size": 721026,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6371.44-g": {
+      "bucket": "V359I6371",
+      "size": 618570,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6371.43-m": {
+      "bucket": "V359I6371",
+      "size": 721027,
+      "src": "scihub"
+    },
+    "10.1126/science.aap7711": {
+      "bucket": "V359I6371",
+      "size": 371760,
+      "src": "scihub"
+    },
+    "10.1126/science.aaq0679": {
+      "bucket": "V359I6371",
+      "size": 237045,
+      "src": "scihub"
+    },
+    "10.1126/science.aao0827": {
+      "bucket": "V359I6371",
+      "size": 1104502,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6371.20": {
+      "bucket": "V359I6371",
+      "size": 1847949,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6371.15": {
+      "bucket": "V359I6371",
+      "size": 240947,
+      "src": "scihub"
+    },
+    "10.1126/science.aan6490": {
+      "bucket": "V359I6371",
+      "size": 2717448,
+      "src": "scihub"
+    },
+    "10.1126/science.aan8048": {
+      "bucket": "V359I6371",
+      "size": 441002,
+      "src": "scihub"
+    },
+    "10.1126/science.aao3290": {
+      "bucket": "V359I6371",
+      "size": 1002577,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6371.44-c": {
+      "bucket": "V359I6371",
+      "size": 618568,
+      "src": "scihub"
+    },
+    "10.1126/science.2018.359.6371.twil": {
+      "bucket": "V359I6371",
+      "size": 587182,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6371.44-e": {
+      "bucket": "V359I6371",
+      "size": 618563,
+      "src": "scihub"
+    },
+    "10.1126/science.aam7588": {
+      "bucket": "V359I6371",
+      "size": 943937,
+      "src": "scihub"
+    },
+    "10.1126/science.aao5654": {
+      "bucket": "V359I6371",
+      "size": 2491506,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6371.43-c": {
+      "bucket": "V359I6371",
+      "size": 721025,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6371.43-e": {
+      "bucket": "V359I6371",
+      "size": 721013,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6371.43-q": {
+      "bucket": "V359I6371",
+      "size": 721045,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6371.43-p": {
+      "bucket": "V359I6371",
+      "size": 721068,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6371.43-j": {
+      "bucket": "V359I6371",
+      "size": 721038,
+      "src": "scihub"
+    },
+    "10.1126/science.aaq1814": {
+      "bucket": "V359I6371",
+      "size": 173745,
+      "src": "scihub"
+    },
+    "10.1126/science.359.6372.172-b": {
+      "bucket": "V359I6372",
+      "size": 955602,
+      "src": "scihub"
+    }
+  },
+  "notfound": [],
+  "failed": [
+    "10.1126/science.aan3706"
+  ]
+}

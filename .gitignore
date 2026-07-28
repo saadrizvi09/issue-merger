@@ -1,5 +1,12 @@
 # Downloaded / merged PDFs and per-article cache (huge, regenerated)
 Downloads/
+*_downloads/
+*.pdf
+
+# Debug/test artifacts
+*.png
+*.html
+
 .cache/
 
 # Local secrets & config (contains your OpenAlex API key)

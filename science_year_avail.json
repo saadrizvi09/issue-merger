@@ -1,0 +1,56 @@
+[
+  {
+    "year": 2018,
+    "scihub": 75,
+    "multi_oa": 25,
+    "combined": 81
+  },
+  {
+    "year": 2019,
+    "scihub": 75,
+    "multi_oa": 20,
+    "combined": 80
+  },
+  {
+    "year": 2020,
+    "scihub": 75,
+    "multi_oa": 15,
+    "combined": 79
+  },
+  {
+    "year": 2021,
+    "scihub": 20,
+    "multi_oa": 5,
+    "combined": 24
+  },
+  {
+    "year": 2022,
+    "scihub": 40,
+    "multi_oa": 10,
+    "combined": 46
+  },
+  {
+    "year": 2023,
+    "scihub": 15,
+    "multi_oa": 28,
+    "combined": 38
+  },
+  {
+    "year": 2024,
+    "scihub": 0,
+    "multi_oa": 30,
+    "combined": 30
+  },
+  {
+    "year": 2025,
+    "scihub": 15,
+    "multi_oa": 20,
+    "combined": 32
+  },
+  {
+    "year": 2026,
+    "scihub": 10,
+    "multi_oa": 10,
+    "combined": 19
+  }
+]

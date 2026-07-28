@@ -1,0 +1,534 @@
+[
+  {
+    "doi": "10.1080/00949655.2022.2125971",
+    "title": "Stability of principal components under normal and non-normal parent populations and different covariance structures scenarios",
+    "volume": "93",
+    "issue": "7",
+    "page": "1060-1076"
+  },
+  {
+    "doi": "10.1080/00949655.2023.2205647",
+    "title": "A score test for detecting extreme values in a vector autoregressive model",
+    "volume": "93",
+    "issue": "15",
+    "page": "2751-2779"
+  },
+  {
+    "doi": "10.1080/00949655.2022.2044814",
+    "title": "Singhing with confidence: visualising the performance of confidence procedures",
+    "volume": "92",
+    "issue": "13",
+    "page": "2686-2702"
+  },
+  {
+    "doi": "10.1080/00949655.2021.2022678",
+    "title": "Combining independent <i>p</i>-values in replicability analysis: a comparative study",
+    "volume": "92",
+    "issue": "10",
+    "page": "2184-2204"
+  },
+  {
+    "doi": "10.1080/00949655.2025.2556966",
+    "title": "clrng: a tool set for parallel random number generation on GPUs in R",
+    "volume": "96",
+    "issue": "1",
+    "page": "25-46"
+  },
+  {
+    "doi": "10.1080/00949655.2023.2286316",
+    "title": "Robust variable selection under cellwise contamination",
+    "volume": "94",
+    "issue": "6",
+    "page": "1371-1387"
+  },
+  {
+    "doi": "10.1080/00949655.2026.2688359",
+    "title": "Direct plug-in bandwidth selector for kernel estimation based on ranked set sampling",
+    "volume": "?",
+    "issue": "?",
+    "page": "1-36"
+  },
+  {
+    "doi": "10.1080/00949655.2025.2495716",
+    "title": "Improving computational robustness in log-likelihood maximization for binary outcomes",
+    "volume": "95",
+    "issue": "11",
+    "page": "2426-2443"
+  },
+  {
+    "doi": "10.1080/00949655.2023.2220860",
+    "title": "Bootstrap bandwidth selection for the pair correlation function of inhomogeneous spatial point processes",
+    "volume": "93",
+    "issue": "18",
+    "page": "3329-3361"
+  },
+  {
+    "doi": "10.1080/00949655.2024.2436017",
+    "title": "Optimal two-sided tests and confidence regions for Conway–Maxwell–Poisson parameters",
+    "volume": "95",
+    "issue": "3",
+    "page": "676-696"
+  },
+  {
+    "doi": "10.1080/00949655.2025.2484226",
+    "title": "Model-assisted estimators based on clustered coefficient linear regression models in small area estimation",
+    "volume": "95",
+    "issue": "10",
+    "page": "2145-2162"
+  },
+  {
+    "doi": "10.1080/00949655.2025.2554295",
+    "title": "Influence diagnostics for generalized CP tensor regression models",
+    "volume": "96",
+    "issue": "1",
+    "page": "1-24"
+  },
+  {
+    "doi": "10.1080/00949655.2026.2645880",
+    "title": "A VAE approach to sample multivariate extremes",
+    "volume": "?",
+    "issue": "?",
+    "page": "1-37"
+  },
+  {
+    "doi": "10.1080/00949655.2025.2511929",
+    "title": "An alternating direction method of multipliers algorithm for the weighted fused LASSO signal approximator",
+    "volume": "95",
+    "issue": "14",
+    "page": "2979-2997"
+  },
+  {
+    "doi": "10.1080/00949655.2025.2524773",
+    "title": "Identifying one-inflation in regression models for ratio estimators in single-source capture-recapture problems",
+    "volume": "95",
+    "issue": "15",
+    "page": "3279-3299"
+  },
+  {
+    "doi": "10.1080/00949655.2024.2417253",
+    "title": "A new omnibus SPRT chart for monitoring process mean and variability based on the average number of observations to signal",
+    "volume": "95",
+    "issue": "1",
+    "page": "49-69"
+  },
+  {
+    "doi": "10.1080/00949655.2019.1599377",
+    "title": "Long memory and data frequency in financial markets",
+    "volume": "89",
+    "issue": "10",
+    "page": "1763-1779"
+  },
+  {
+    "doi": "10.1080/00949655.2019.1572147",
+    "title": "Multiple comparisons of mean vectors with large dimension under general conditions",
+    "volume": "89",
+    "issue": "6",
+    "page": "1044-1059"
+  },
+  {
+    "doi": "10.1080/00949655.2024.2312951",
+    "title": "A search for short-period Tausworthe generators over Fb with application to Markov chain quasi-Monte Carlo",
+    "volume": "94",
+    "issue": "9",
+    "page": "2040-2062"
+  },
+  {
+    "doi": "10.1080/00949655.2024.2404220",
+    "title": "Systematically missing data in distributed data networks: multiple imputation when data cannot be pooled",
+    "volume": "94",
+    "issue": "17",
+    "page": "3807-3825"
+  },
+  {
+    "doi": "10.1080/00949655.2024.2400524",
+    "title": "Diagnostic analystics in the Bayesian vector autoregressive model",
+    "volume": "94",
+    "issue": "17",
+    "page": "3750-3766"
+  },
+  {
+    "doi": "10.1080/00949655.2026.2660865",
+    "title": "Multiple imputation based on the support vector machine for high-dimensional data with general missing patterns in causal inference",
+    "volume": "?",
+    "issue": "?",
+    "page": "1-24"
+  },
+  {
+    "doi": "10.1080/00949655.2022.2145608",
+    "title": "Influence diagnostics for the Cox proportional hazards regression model: method, simulation and applications",
+    "volume": "93",
+    "issue": "10",
+    "page": "1580-1600"
+  },
+  {
+    "doi": "10.1080/00949655.2025.2571681",
+    "title": "Scaling tests of Benford's law",
+    "volume": "96",
+    "issue": "3",
+    "page": "694-711"
+  },
+  {
+    "doi": "10.1080/00949655.2021.2005063",
+    "title": "A restricted gamma ridge regression estimator combining the gamma ridge regression and the restricted maximum likelihood methods of estimation",
+    "volume": "92",
+    "issue": "8",
+    "page": "1696-1713"
+  },
+  {
+    "doi": "10.1080/00949655.2022.2027424",
+    "title": "Imputation methods for missing response values in the three parts of a central composite design with two factors",
+    "volume": "92",
+    "issue": "11",
+    "page": "2273-2289"
+  },
+  {
+    "doi": "10.1080/00949655.2025.2530485",
+    "title": "Finite-sample performance of convex optimization algorithms in empirical likelihood ratio-based goodness-of-fit test statistics",
+    "volume": "95",
+    "issue": "15",
+    "page": "3330-3352"
+  },
+  {
+    "doi": "10.1080/00949655.2026.2701362",
+    "title": "Fitting a binomial mixed logistic model with improved accuracy and computational efficiency",
+    "volume": "?",
+    "issue": "?",
+    "page": "1-21"
+  },
+  {
+    "doi": "10.1080/00949655.2020.1867549",
+    "title": "On some beta ridge regression estimators: method, simulation and application",
+    "volume": "91",
+    "issue": "9",
+    "page": "1699-1712"
+  },
+  {
+    "doi": "10.1080/00949655.2026.2635653",
+    "title": "<tt>fmmpy</tt>\n                    : a Python module for frequency-modulated Möbius signal decomposition",
+    "volume": "96",
+    "issue": "11",
+    "page": "2705-2736"
+  },
+  {
+    "doi": "10.1080/00949655.2023.2291533",
+    "title": "Dealing with missing observations in the outcome and covariates in randomized controlled trials",
+    "volume": "94",
+    "issue": "7",
+    "page": "1513-1542"
+  },
+  {
+    "doi": "10.1080/00949655.2022.2144314",
+    "title": "<i>l</i><sub>1</sub>common trend filtering: an extension",
+    "volume": "93",
+    "issue": "4",
+    "page": "493-512"
+  },
+  {
+    "doi": "10.1080/00949655.2021.1906875",
+    "title": "Comparison of parametric and semiparametric survival regression models with kernel estimation",
+    "volume": "91",
+    "issue": "13",
+    "page": "2717-2739"
+  },
+  {
+    "doi": "10.1080/00949655.2021.1990292",
+    "title": "The bivariate <i>K</i>-finite normal mixture ‘blanket’ copula",
+    "volume": "92",
+    "issue": "6",
+    "page": "1224-1245"
+  },
+  {
+    "doi": "10.1080/00949655.2020.1797738",
+    "title": "Bootstrapped inference for variance parameters, measures of heterogeneity and random effects in multilevel logistic regression models",
+    "volume": "90",
+    "issue": "17",
+    "page": "3175-3199"
+  },
+  {
+    "doi": "10.1080/00949655.2026.2641543",
+    "title": "Joint exact simulation of the maximum and its location for some constrained Brownian processes",
+    "volume": "96",
+    "issue": "11",
+    "page": "2849-2872"
+  },
+  {
+    "doi": "10.1080/00949655.2026.2697340",
+    "title": "Comparative review of modern competing risk methods in high-dimensional settings",
+    "volume": "?",
+    "issue": "?",
+    "page": "1-37"
+  },
+  {
+    "doi": "10.1080/00949655.2021.2007919",
+    "title": "Neyman's C(α) test for the shape parameter of the exponential power class",
+    "volume": "92",
+    "issue": "9",
+    "page": "1823-1850"
+  },
+  {
+    "doi": "10.1080/00949655.2020.1740997",
+    "title": "Bayesian inference for mixtures of von Mises distributions using reversible jump MCMC sampler",
+    "volume": "90",
+    "issue": "9",
+    "page": "1539-1556"
+  },
+  {
+    "doi": "10.1080/00949655.2024.2436013",
+    "title": "Sequential adaptive design for emulating costly computer codes",
+    "volume": "95",
+    "issue": "3",
+    "page": "654-675"
+  },
+  {
+    "doi": "10.1080/00949655.2026.2625783",
+    "title": "Testing complete spatial randomness of point processes with Monte Carlo tests: a comparative power study",
+    "volume": "96",
+    "issue": "10",
+    "page": "2359-2397"
+  },
+  {
+    "doi": "10.1080/00949655.2025.2565623",
+    "title": "Decomposing complexity mixture processes on metric spaces",
+    "volume": "96",
+    "issue": "2",
+    "page": "446-470"
+  },
+  {
+    "doi": "10.1080/00949655.2024.2440542",
+    "title": "Influence of single observations on the choice of the penalty parameter in ridge regression",
+    "volume": "95",
+    "issue": "4",
+    "page": "849-867"
+  },
+  {
+    "doi": "10.1080/00949655.2026.2683866",
+    "title": "Fisher–standardized robust inference for the Gumbel model",
+    "volume": "?",
+    "issue": "?",
+    "page": "1-28"
+  },
+  {
+    "doi": "10.1080/00949655.2023.2291536",
+    "title": "Regularized estimation of Kronecker structured covariance matrix using modified Cholesky decomposition",
+    "volume": "95",
+    "issue": "5",
+    "page": "905-930"
+  },
+  {
+    "doi": "10.1080/00949655.2023.2214830",
+    "title": "An adaptive max-type multivariate control chart by considering measurement errors and autocorrelation",
+    "volume": "93",
+    "issue": "16",
+    "page": "2956-2981"
+  },
+  {
+    "doi": "10.1080/00949655.2025.2538116",
+    "title": "Approximate Bayesian inference for joint partially linear modeling of longitudinal measurements and spatial time-to-event data",
+    "volume": "95",
+    "issue": "16",
+    "page": "3548-3576"
+  },
+  {
+    "doi": "10.1080/00949655.2025.2487503",
+    "title": "Comparing LASSO and IPF-LASSO for multi-modal data: variable selection with Type I error control",
+    "volume": "95",
+    "issue": "10",
+    "page": "2204-2218"
+  },
+  {
+    "doi": "10.1080/00949655.2024.2353760",
+    "title": "Generating contingency tables with fixed marginal probabilities and dependence structures described by loglinear models",
+    "volume": "94",
+    "issue": "12",
+    "page": "2797-2812"
+  },
+  {
+    "doi": "10.1080/00949655.2022.2076091",
+    "title": "Computation of tolerance ellipses for bivariate and trivariate normal populations",
+    "volume": "92",
+    "issue": "17",
+    "page": "3630-3638"
+  },
+  {
+    "doi": "10.1080/00949655.2026.2616410",
+    "title": "Likelihood ratio tests with marginal maximum likelihood using Laplace approximations and adaptive quadrature",
+    "volume": "96",
+    "issue": "9",
+    "page": "2154-2179"
+  },
+  {
+    "doi": "10.1080/00949655.2020.1836183",
+    "title": "Permutation testing in high-dimensional linear models: an empirical investigation",
+    "volume": "91",
+    "issue": "5",
+    "page": "897-914"
+  },
+  {
+    "doi": "10.1080/00949655.2023.2226788",
+    "title": "Computational issues in parameter estimation for hidden Markov models with template model builder",
+    "volume": "93",
+    "issue": "18",
+    "page": "3421-3457"
+  },
+  {
+    "doi": "10.1080/00949655.2023.2219358",
+    "title": "An Edgeworth-type expansion for the distribution of a likelihood-based discriminant function",
+    "volume": "93",
+    "issue": "17",
+    "page": "3185-3202"
+  },
+  {
+    "doi": "10.1080/00949655.2020.1783262",
+    "title": "Approximate leave-future-out cross-validation for Bayesian time series models",
+    "volume": "90",
+    "issue": "14",
+    "page": "2499-2523"
+  },
+  {
+    "doi": "10.1080/00949655.2026.2634886",
+    "title": "Wavelet shrinkage based on the raised cosine prior",
+    "volume": "96",
+    "issue": "11",
+    "page": "2683-2704"
+  },
+  {
+    "doi": "10.1080/00949655.2024.2342458",
+    "title": "Rank-based regression with bootstrapping and the least square regression for analysis of small sample interrupted time-series data: simulation studies and application to illegal organ transplants",
+    "volume": "94",
+    "issue": "11",
+    "page": "2517-2543"
+  },
+  {
+    "doi": "10.1080/00949655.2026.2653039",
+    "title": "Synthetic tabular health data generation: a practical comparison between correlation and model-based statistical approach and the conditional generative adversarial network approach",
+    "volume": "?",
+    "issue": "?",
+    "page": "1-15"
+  },
+  {
+    "doi": "10.1080/00949655.2020.1843169",
+    "title": "Approximate Bayesian computation for finite mixture models",
+    "volume": "91",
+    "issue": "6",
+    "page": "1155-1174"
+  },
+  {
+    "doi": "10.1080/00949655.2022.2098499",
+    "title": "Estimating longitudinal change in latent variable means: a comparison of non-negative matrix factorization and other item non-response methods",
+    "volume": "93",
+    "issue": "2",
+    "page": "211-230"
+  },
+  {
+    "doi": "10.1080/00949655.2023.2277885",
+    "title": "Tractable skew-normal approximations via matching",
+    "volume": "94",
+    "issue": "5",
+    "page": "1016-1034"
+  },
+  {
+    "doi": "10.1080/00949655.2025.2604785",
+    "title": "Computationally efficient pgf-based goodness-of-fit tests for Poisson counts and beyond",
+    "volume": "96",
+    "issue": "7",
+    "page": "1668-1693"
+  },
+  {
+    "doi": "10.1080/00949655.2026.2623120",
+    "title": "Data-adaptive automatic threshold calibration for stability selection",
+    "volume": "96",
+    "issue": "10",
+    "page": "2307-2331"
+  },
+  {
+    "doi": "10.1080/00949655.2021.2019256",
+    "title": "Predictor versus response permutation for significance testing in weighted regression and redundancy analysis",
+    "volume": "92",
+    "issue": "10",
+    "page": "2041-2059"
+  },
+  {
+    "doi": "10.1080/00949655.2021.2004141",
+    "title": "Model fit criteria curve behaviour in class enumeration – a diagnostic tool for model (mis)specification in longitudinal mixture modelling",
+    "volume": "92",
+    "issue": "8",
+    "page": "1640-1672"
+  },
+  {
+    "doi": "10.1080/00949655.2024.2362409",
+    "title": "An ANOVA-based test for random effects in a nonlinear mixed model using a Monte Carlo permutation procedure",
+    "volume": "94",
+    "issue": "13",
+    "page": "2976-2991"
+  },
+  {
+    "doi": "10.1080/00949655.2023.2202399",
+    "title": "Maximum leave-one-out likelihood method for the location parameter of variance gamma distribution with unbounded density",
+    "volume": "93",
+    "issue": "15",
+    "page": "2642-2671"
+  },
+  {
+    "doi": "10.1080/00949655.2022.2093873",
+    "title": "Robust ranking by ensembling of diverse models and assessment metrics",
+    "volume": "93",
+    "issue": "1",
+    "page": "77-102"
+  },
+  {
+    "doi": "10.1080/00949655.2025.2577274",
+    "title": "Quantifying uncertainty: all we need is the bootstrap?",
+    "volume": "96",
+    "issue": "4",
+    "page": "1009-1027"
+  },
+  {
+    "doi": "10.1080/00949655.2026.2613297",
+    "title": "Generalized partial functional linear regression for network-linked data",
+    "volume": "96",
+    "issue": "9",
+    "page": "2047-2063"
+  },
+  {
+    "doi": "10.1080/00949655.2024.2428785",
+    "title": "Parameter recovery of skew multidimensional multiple-group item response models (MGM-MIRT): a comparison of MCMC algorithms and assessment of effects of interest",
+    "volume": "95",
+    "issue": "3",
+    "page": "467-489"
+  },
+  {
+    "doi": "10.1080/00949655.2023.2166045",
+    "title": "Robust algorithms for simulating spatial cluster processes",
+    "volume": "93",
+    "issue": "12",
+    "page": "1950-1975"
+  },
+  {
+    "doi": "10.1080/00949655.2025.2532003",
+    "title": "Approximation of misclassification probabilities for quadratic classification of repeated measurements",
+    "volume": "95",
+    "issue": "16",
+    "page": "3401-3423"
+  },
+  {
+    "doi": "10.1080/00949655.2021.1890735",
+    "title": "The package: nonparametric regression using local rotation matrices in",
+    "volume": "91",
+    "issue": "11",
+    "page": "2289-2306"
+  },
+  {
+    "doi": "10.1080/00949655.2020.1792472",
+    "title": "Bayesian inference for high-dimensional nonstationary Gaussian processes",
+    "volume": "90",
+    "issue": "16",
+    "page": "2902-2928"
+  },
+  {
+    "doi": "10.1080/00949655.2022.2072503",
+    "title": "A data-driven kernel estimator of the density function",
+    "volume": "92",
+    "issue": "17",
+    "page": "3529-3541"
+  }
+]

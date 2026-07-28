@@ -1,0 +1,56 @@
+{
+  "2018": {
+    "found": 15,
+    "notfound": 5,
+    "uncertain": 0,
+    "pct": 75.0
+  },
+  "2019": {
+    "found": 15,
+    "notfound": 5,
+    "uncertain": 0,
+    "pct": 75.0
+  },
+  "2020": {
+    "found": 15,
+    "notfound": 5,
+    "uncertain": 0,
+    "pct": 75.0
+  },
+  "2021": {
+    "found": 4,
+    "notfound": 16,
+    "uncertain": 0,
+    "pct": 20.0
+  },
+  "2022": {
+    "found": 8,
+    "notfound": 12,
+    "uncertain": 0,
+    "pct": 40.0
+  },
+  "2023": {
+    "found": 3,
+    "notfound": 17,
+    "uncertain": 0,
+    "pct": 15.0
+  },
+  "2024": {
+    "found": 0,
+    "notfound": 20,
+    "uncertain": 0,
+    "pct": 0.0
+  },
+  "2025": {
+    "found": 3,
+    "notfound": 17,
+    "uncertain": 0,
+    "pct": 15.0
+  },
+  "2026": {
+    "found": 2,
+    "notfound": 18,
+    "uncertain": 0,
+    "pct": 10.0
+  }
+}
