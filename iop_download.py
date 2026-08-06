@@ -18,6 +18,7 @@ DL = PROJECT/"iop_downloads"                    # overridable via --dldir
 DOIS = None                                     # loaded in main() from MANIFEST
 PROG = PROJECT/"iop_progress.json"
 CDP = "http://127.0.0.1:9222"
+BASE = "https://iopscience.iop.org"   # overridable via --base (e.g. MapMyAccess proxy host)
 CONC = 1        # IOP Radware bot-manager trips on concurrent fetch bursts; stay serial
 DELAY = 2.0     # paced fetch avoids the bot manager (proven safe)
 MIN_YEAR = 2018
@@ -58,32 +59,47 @@ def build_work():
     work.sort(key=lambda w: (w[3], _int(w[1]), _int(w[2]), w[0]))
     return [(d, v, i) for (d, v, i, y) in work]
 
-FETCH_JS = """async(u)=>{try{
-    const r=await fetch(u,{credentials:'include',redirect:'follow',headers:{'Accept':'application/pdf,*/*'}});
-    const b=new Uint8Array(await r.arrayBuffer());let s='';const C=0x8000;
+# AbortController gives the in-page fetch a hard 60s ceiling. Without it, a single
+# server-side hang (seen: one article stuck 1864s) blocks the whole worker/batch and
+# starves every remaining article. On abort we return status 0 so dl_one retries/moves on.
+FETCH_JS = """async(u)=>{const ac=new AbortController();const to=setTimeout(()=>ac.abort(),120000);try{
+    const r=await fetch(u,{credentials:'include',redirect:'follow',headers:{'Accept':'application/pdf,*/*'},signal:ac.signal});
+    const b=new Uint8Array(await r.arrayBuffer());clearTimeout(to);let s='';const C=0x8000;
     for(let i=0;i<b.length;i+=C)s+=String.fromCharCode.apply(null,b.subarray(i,Math.min(i+C,b.length)));
     const bot=(r.url||'').includes('perfdrive') || (String.fromCharCode.apply(null,b.subarray(0,300)).toLowerCase().includes('bot manager'));
     return {status:r.status,len:b.length,head:String.fromCharCode.apply(null,b.subarray(0,5)),bot:bot,b64:btoa(s)};
-  }catch(e){return{status:0,len:0,head:'',bot:false,b64:''}}}"""
+  }catch(e){clearTimeout(to);return{status:0,len:0,head:'',bot:false,b64:''}}}"""
 
 async def fetch_pdf(page, doi):
-    """Returns (bytes|None, bot_blocked)."""
-    r = await page.evaluate(FETCH_JS, f"https://iopscience.iop.org/article/{doi}/pdf")
+    """Returns (bytes|None, bot_blocked, http_status). Python-side backstop timeout in case
+    page.evaluate itself wedges (CDP hang) beyond the in-page AbortController."""
+    try:
+        r = await asyncio.wait_for(
+            page.evaluate(FETCH_JS, f"{BASE}/article/{doi}/pdf"), timeout=135)
+    except Exception:
+        return None, False, 0
+    status = int(r.get("status", 0) or 0)
     if r.get("head") == "%PDF-" and r.get("len", 0) > 10000:
-        return base64.b64decode(r["b64"]), False
-    return None, bool(r.get("bot"))
+        return base64.b64decode(r["b64"]), False, status
+    return None, bool(r.get("bot")), status
 
-JOURNAL_URL = "https://iopscience.iop.org/journal/0953-8984"
+JOURNAL_URL = BASE + "/"
 
 async def dl_one(page, doi, vol, iss):
     fp = fpath(doi, vol, iss); fp.parent.mkdir(exist_ok=True)
     for attempt in range(5):
         try:
-            data, bot = await fetch_pdf(page, doi)
+            data, bot, status = await fetch_pdf(page, doi)
             if data:
                 fp.write_bytes(data)
                 if valid_pdf(fp):
                     return True, len(data)
+            # 404 = article PDF genuinely absent (retracted / not-yet-published /
+            # online-first without a typeset PDF). Retrying wastes the batch budget,
+            # so skip immediately — the queue advances to reachable articles.
+            if status == 404:
+                print(f"    [404 skip] {doi[-8:]}", flush=True)
+                return False, 0
             # non-PDF: transient soft-block or hard bot-block. Cool down + re-navigate
             # (real nav resets the rate window; fetch is same-origin again after).
             cd = 45 if bot else 6 * (attempt + 1)
@@ -103,7 +119,7 @@ async def worker(ctx, queue, prog, stats, t0, budget):
     page = await ctx.new_page()
     # must be ON an iopscience origin so credentialed fetch() is same-origin
     try:
-        await page.goto("https://iopscience.iop.org/journal/0953-8984", wait_until="domcontentloaded", timeout=45000)
+        await page.goto(BASE + "/", wait_until="domcontentloaded", timeout=45000)
         await asyncio.sleep(1)
     except Exception:
         pass
@@ -148,10 +164,10 @@ async def main(budget):
         br = await p.chromium.connect_over_cdp(CDP)
         ctx = br.contexts[0]
         warm = await ctx.new_page()
-        await warm.goto("https://iopscience.iop.org/", wait_until="domcontentloaded", timeout=45000)
+        await warm.goto(BASE + "/", wait_until="domcontentloaded", timeout=45000)
         await asyncio.sleep(1)
         print("warmup:", (await warm.title())[:50])
-        probe, _bot = await fetch_pdf(warm, PREFLIGHT_DOI)
+        probe, _bot, _st = await fetch_pdf(warm, PREFLIGHT_DOI)
         egress = await warm.evaluate("async()=>{try{return await (await fetch('https://api.ipify.org')).text()}catch(e){return '?'}}")
         await warm.close()
         if not probe:
@@ -176,7 +192,10 @@ if __name__ == "__main__":
     ap.add_argument("--min-year", type=int, default=MIN_YEAR)
     ap.add_argument("--manifest", type=str, default=str(MANIFEST))
     ap.add_argument("--dldir", type=str, default=str(DL))
+    ap.add_argument("--base", type=str, default=BASE)
+    ap.add_argument("--cdp", type=str, default=CDP)
+    ap.add_argument("--preflight-doi", type=str, default=PREFLIGHT_DOI)
     a = ap.parse_args()
     DELAY = a.delay; CONC = a.conc; MAX_YEAR = a.max_year; MIN_YEAR = a.min_year
-    MANIFEST = Path(a.manifest); DL = Path(a.dldir)
+    MANIFEST = Path(a.manifest); DL = Path(a.dldir); BASE = a.base; CDP = a.cdp; PREFLIGHT_DOI = a.preflight_doi
     asyncio.run(main(a.budget))

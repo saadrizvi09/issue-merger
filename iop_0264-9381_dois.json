@@ -1,0 +1,6623 @@
+{
+ "issn": "0264-9381",
+ "journal": "Classical and Quantum Gravity",
+ "total_articles": 815,
+ "issues": {
+  "V39I23": [
+   {
+    "doi": "10.1088/1361-6382/ac9bc7",
+    "title": "Perturbations of a class of locally rotationally symmetric cosmologies with applications to dissipative fluids",
+    "page": "235003",
+    "year": 2022,
+    "volume": "39",
+    "issue": "23"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac9a31",
+    "title": "Jacobi equations of geodetic brane gravity",
+    "page": "235005",
+    "year": 2022,
+    "volume": "39",
+    "issue": "23"
+   },
+   {
+    "doi": "10.1088/1361-6382/aca010",
+    "title": "Exploring the small mass limit of stationary black holes in theories with Gauss–Bonnet terms",
+    "page": "235015",
+    "year": 2022,
+    "volume": "39",
+    "issue": "23"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac9efe",
+    "title": "Gaussian curvature of spherical shells: a geometric measure of complexity",
+    "page": "235010",
+    "year": 2022,
+    "volume": "39",
+    "issue": "23"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac987d",
+    "title": "Wald’s entropy in Coincident General Relativity",
+    "page": "235002",
+    "year": 2022,
+    "volume": "39",
+    "issue": "23"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac9bc5",
+    "title": "Physically motivated ansatz for the Kerr spacetime",
+    "page": "235004",
+    "year": 2022,
+    "volume": "39",
+    "issue": "23"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac776a",
+    "title": "The Virgo O3 run and the impact of the environment",
+    "page": "235009",
+    "year": 2022,
+    "volume": "39",
+    "issue": "23"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac9e3b",
+    "title": "Static-fluid black hole and wormhole in three-dimensions",
+    "page": "237001",
+    "year": 2022,
+    "volume": "39",
+    "issue": "23"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac9bc4",
+    "title": "Heisenberg-invariant self-dual Einstein manifolds",
+    "page": "235007",
+    "year": 2022,
+    "volume": "39",
+    "issue": "23"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac9efd",
+    "title": "Bianchi type-I cosmological dynamics in \n\t    \n\t    <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                     <mml:mi>f</mml:mi>\n                     <mml:mo>(</mml:mo>\n          ",
+    "page": "235014",
+    "year": 2022,
+    "volume": "39",
+    "issue": "23"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac95f0",
+    "title": "Toolkit for scalar fields in universes with finite-dimensional Hilbert space",
+    "page": "235012",
+    "year": 2022,
+    "volume": "39",
+    "issue": "23"
+   },
+   {
+    "doi": "10.1088/1361-6382/aca065",
+    "title": "If you want to cross singularity, wrap it!",
+    "page": "235013",
+    "year": 2022,
+    "volume": "39",
+    "issue": "23"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac9efc",
+    "title": "Lorentzian vacuum transitions with a generalized uncertainty principle",
+    "page": "235011",
+    "year": 2022,
+    "volume": "39",
+    "issue": "23"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac9d1c",
+    "title": "Emergence of smooth distance and apparent magnitude in a lumpy Universe",
+    "page": "235006",
+    "year": 2022,
+    "volume": "39",
+    "issue": "23"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac96c4",
+    "title": "Over-extremal brane shells from string theory?",
+    "page": "235001",
+    "year": 2022,
+    "volume": "39",
+    "issue": "23"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac9f9f",
+    "title": "Local Dirac energy decay in the 5D Myers-Perry geometry using an integral spectral representation for the Dirac propagator",
+    "page": "235016",
+    "year": 2022,
+    "volume": "39",
+    "issue": "23"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac9d1b",
+    "title": "Upon the horizon’s verge: Thermal particle creation between and approaching horizons",
+    "page": "235008",
+    "year": 2022,
+    "volume": "39",
+    "issue": "23"
+   }
+  ],
+  "V38I2": [
+   {
+    "doi": "10.1088/1361-6382/abc36f",
+    "title": "On the radiation gauge for spin-1 perturbations in Kerr–Newman spacetime",
+    "page": "025013",
+    "year": 2021,
+    "volume": "38",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1088/1361-6382/abc666",
+    "title": "Quasi-local Casimir energy and vacuum buoyancy in a weak gravitational field",
+    "page": "025009",
+    "year": 2021,
+    "volume": "38",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1088/1361-6382/abc370",
+    "title": "Chandrasekhar-like transformations for electromagnetic and scalar waves in Schwarzschild spacetime",
+    "page": "027001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1088/1361-6382/abc571",
+    "title": "Method for electromechanical modeling of Johnson noise in Advanced LIGO",
+    "page": "025014",
+    "year": 2021,
+    "volume": "38",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1088/1361-6382/abc441",
+    "title": "Post-Newtonian limit of teleparallel Horndeski gravity",
+    "page": "025006",
+    "year": 2021,
+    "volume": "38",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1088/1361-6382/abc225",
+    "title": "Anisotropic conformal invariance of lightlike geodesics in pseudo-Finsler manifolds\n                    <sup>*</sup>",
+    "page": "025002",
+    "year": 2021,
+    "volume": "38",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1088/1361-6382/abc82e",
+    "title": "Quasinormal modes of Kerr–de Sitter black holes via the Heun function",
+    "page": "025015",
+    "year": 2021,
+    "volume": "38",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1088/1361-6382/abc523",
+    "title": "Constraint algebra in tetrad bigravity",
+    "page": "025007",
+    "year": 2021,
+    "volume": "38",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1088/1361-6382/abc8c8",
+    "title": "Quantum optics of an oscillator falling into a black hole",
+    "page": "025011",
+    "year": 2021,
+    "volume": "38",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1088/1361-6382/abc907",
+    "title": "A proposal for Heisenberg uncertainty principle and STUR for curved backgrounds: an application to white dwarf, neutron stars and black holes",
+    "page": "025017",
+    "year": 2021,
+    "volume": "38",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1088/1361-6382/abc665",
+    "title": "Polar modes of gravitational waves in Rastall cosmology",
+    "page": "025008",
+    "year": 2021,
+    "volume": "38",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1088/1361-6382/abc906",
+    "title": "Reducing scattered light in LIGO’s third observing run",
+    "page": "025016",
+    "year": 2021,
+    "volume": "38",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1088/1361-6382/abc272",
+    "title": "Horndeski theories and beyond from higher dimensions",
+    "page": "025003",
+    "year": 2021,
+    "volume": "38",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1088/1361-6382/abc667",
+    "title": "Covariance of the extended holonomy",
+    "page": "025010",
+    "year": 2021,
+    "volume": "38",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1088/1361-6382/abc440",
+    "title": "Causal concept for black hole shadows",
+    "page": "025005",
+    "year": 2021,
+    "volume": "38",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1088/1361-6382/abc222",
+    "title": "Early Universe in view of a modified theory of gravity",
+    "page": "025001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1088/1361-6382/abc8c9",
+    "title": "Manifold properties from causal sets using chains",
+    "page": "025012",
+    "year": 2021,
+    "volume": "38",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1088/1361-6382/abc273",
+    "title": "Twisted geometries coherent states for loop quantum gravity",
+    "page": "025004",
+    "year": 2021,
+    "volume": "38",
+    "issue": "2"
+   }
+  ],
+  "V38I14": [
+   {
+    "doi": "10.1088/1361-6382/ac08a9",
+    "title": "Space and time ambiguities in vacuum electrodynamics",
+    "page": "145029",
+    "year": 2021,
+    "volume": "38",
+    "issue": "14"
+   },
+   {
+    "doi": "10.1088/1361-6382/abf1c5",
+    "title": "Phase transitions in 2d orders coupled to the Ising model",
+    "page": "145017",
+    "year": 2021,
+    "volume": "38",
+    "issue": "14"
+   },
+   {
+    "doi": "10.1088/1361-6382/abfea6",
+    "title": "Fuzzy and discrete black hole models*",
+    "page": "145020",
+    "year": 2021,
+    "volume": "38",
+    "issue": "14"
+   },
+   {
+    "doi": "10.1088/1361-6382/abe3c4",
+    "title": "Noncommutative black hole in the Finslerian spacetime",
+    "page": "145019",
+    "year": 2021,
+    "volume": "38",
+    "issue": "14"
+   },
+   {
+    "doi": "10.1088/1361-6382/abff9b",
+    "title": "Higher-derivative corrections to small black rings",
+    "page": "145011",
+    "year": 2021,
+    "volume": "38",
+    "issue": "14"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac0766",
+    "title": "Accelerating black hole thermodynamics with boost time",
+    "page": "145031",
+    "year": 2021,
+    "volume": "38",
+    "issue": "14"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac0233",
+    "title": "Graviton self-energy from gravitons in cosmology*",
+    "page": "145024",
+    "year": 2021,
+    "volume": "38",
+    "issue": "14"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac011b",
+    "title": "Discrete gravity dynamics from effective spin foams",
+    "page": "145023",
+    "year": 2021,
+    "volume": "38",
+    "issue": "14"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac0765",
+    "title": "Diffeomorphism symmetries near a timelike surface in black hole spacetime",
+    "page": "145027",
+    "year": 2021,
+    "volume": "38",
+    "issue": "14"
+   },
+   {
+    "doi": "10.1088/1361-6382/abff99",
+    "title": "Stealth chaos due to frame-dragging",
+    "page": "145013",
+    "year": 2021,
+    "volume": "38",
+    "issue": "14"
+   },
+   {
+    "doi": "10.1088/1361-6382/abfed2",
+    "title": "High order asymptotic expansions of a good–bad–ugly wave equation",
+    "page": "145015",
+    "year": 2021,
+    "volume": "38",
+    "issue": "14"
+   },
+   {
+    "doi": "10.1088/1361-6382/abf1c3",
+    "title": "The non-null and force-free electromagnetic field",
+    "page": "145018",
+    "year": 2021,
+    "volume": "38",
+    "issue": "14"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac0310",
+    "title": "Zero-point gravitational field equations",
+    "page": "145007",
+    "year": 2021,
+    "volume": "38",
+    "issue": "14"
+   },
+   {
+    "doi": "10.1088/1361-6382/abfed1",
+    "title": "A new realization of quantum geometry",
+    "page": "145021",
+    "year": 2021,
+    "volume": "38",
+    "issue": "14"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac0357",
+    "title": "Studies on dark energy evolution",
+    "page": "145008",
+    "year": 2021,
+    "volume": "38",
+    "issue": "14"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac025f",
+    "title": "Deformed algebra and the effective dynamics of the interior of black holes",
+    "page": "145006",
+    "year": 2021,
+    "volume": "38",
+    "issue": "14"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac0356",
+    "title": "A conformal approach to the stability of Einstein spaces with spatial sections of negative scalar curvature",
+    "page": "145026",
+    "year": 2021,
+    "volume": "38",
+    "issue": "14"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac011c",
+    "title": "The scalar, vector, and tensor modes in gravitational wave turbulence simulations",
+    "page": "145002",
+    "year": 2021,
+    "volume": "38",
+    "issue": "14"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac0234",
+    "title": "Extremely high-order convergence in simulations of relativistic stars",
+    "page": "145003",
+    "year": 2021,
+    "volume": "38",
+    "issue": "14"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac03f9",
+    "title": "Proposal of a gauge-invariant treatment of\n                    <i>l</i>\n                    = 0, 1-mode perturbations on Schwarzschild background spacetime",
+    "page": "145010",
+    "year": 2021,
+    "volume": "38",
+    "issue": "14"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac0236",
+    "title": "Modeling gravitational wave detection with atom interferometry",
+    "page": "145025",
+    "year": 2021,
+    "volume": "38",
+    "issue": "14"
+   },
+   {
+    "doi": "10.1088/1361-6382/abff9a",
+    "title": "Pure de Sitter space and the island moving back in time",
+    "page": "145012",
+    "year": 2021,
+    "volume": "38",
+    "issue": "14"
+   },
+   {
+    "doi": "10.1088/1361-6382/abff97",
+    "title": "General relativistic rotational energy extraction from black holes-accretion disk systems",
+    "page": "145014",
+    "year": 2021,
+    "volume": "38",
+    "issue": "14"
+   },
+   {
+    "doi": "10.1088/1361-6382/abff98",
+    "title": "Traversable wormholes in the galactic halo with MOND and non-linear equation of state",
+    "page": "145022",
+    "year": 2021,
+    "volume": "38",
+    "issue": "14"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac067a",
+    "title": "Causality theory of spacetimes with continuous Lorentzian metrics revisited",
+    "page": "145028",
+    "year": 2021,
+    "volume": "38",
+    "issue": "14"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac011a",
+    "title": "Environmental noise in advanced LIGO detectors",
+    "page": "145001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "14"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac0237",
+    "title": "Poincare–Einstein approach to Penrose’s conformal cyclic cosmology\n                  <sup>*</sup>",
+    "page": "145004",
+    "year": 2021,
+    "volume": "38",
+    "issue": "14"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac08a6",
+    "title": "Quasi-isometric embedding of Kerr poloidal submanifolds",
+    "page": "145030",
+    "year": 2021,
+    "volume": "38",
+    "issue": "14"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac025d",
+    "title": "Quantum tasks require islands on the brane",
+    "page": "144001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "14"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac03f7",
+    "title": "Phase transition between flat space cosmology and hot flat spacetimes in GMMG and EGMG models",
+    "page": "145009",
+    "year": 2021,
+    "volume": "38",
+    "issue": "14"
+   },
+   {
+    "doi": "10.1088/1361-6382/abfed0",
+    "title": "On the feasibility of truncated Israel–Stewart model in the context of late acceleration",
+    "page": "145016",
+    "year": 2021,
+    "volume": "38",
+    "issue": "14"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac025e",
+    "title": "Role of plasmons in the LISA test-mass charging process",
+    "page": "145005",
+    "year": 2021,
+    "volume": "38",
+    "issue": "14"
+   }
+  ],
+  "V39I16": [
+   {
+    "doi": "10.1088/1361-6382/ac8096",
+    "title": "Homogeneous three-dimensional Lorentzian spaces",
+    "page": "165014",
+    "year": 2022,
+    "volume": "39",
+    "issue": "16"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac7d8c",
+    "title": "Fractality in cosmic topology models with spectral action gravity",
+    "page": "165007",
+    "year": 2022,
+    "volume": "39",
+    "issue": "16"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac7e16",
+    "title": "On the stability of covariant BSSN formulation",
+    "page": "165002",
+    "year": 2022,
+    "volume": "39",
+    "issue": "16"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac8095",
+    "title": "Third quantization for scalar and spinor wave functions of the Universe in an extended minisuperspace",
+    "page": "165010",
+    "year": 2022,
+    "volume": "39",
+    "issue": "16"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac7cb6",
+    "title": "Divergences of the scalar sector of quadratic gravity",
+    "page": "165008",
+    "year": 2022,
+    "volume": "39",
+    "issue": "16"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac395b",
+    "title": "Asymptotic structure with a positive cosmological constant",
+    "page": "165012",
+    "year": 2022,
+    "volume": "39",
+    "issue": "16"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac8093",
+    "title": "Thermal environment analysis for TianQin: II. Solar irradiance disparity across constellation",
+    "page": "165009",
+    "year": 2022,
+    "volume": "39",
+    "issue": "16"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac7e15",
+    "title": "FeynGrav: FeynCalc extension for gravity amplitudes",
+    "page": "165006",
+    "year": 2022,
+    "volume": "39",
+    "issue": "16"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac387e",
+    "title": "Asymptotic structure with vanishing cosmological constant",
+    "page": "165011",
+    "year": 2022,
+    "volume": "39",
+    "issue": "16"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac7ea4",
+    "title": "Imaging of PbWO<sub>4</sub> crystals for <i>G</i> experiment test masses using a laser interferometer",
+    "page": "165001",
+    "year": 2022,
+    "volume": "39",
+    "issue": "16"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac7d8d",
+    "title": "Quasinormal modes of NUT-charged black branes in the AdS/CFT correspondence",
+    "page": "165003",
+    "year": 2022,
+    "volume": "39",
+    "issue": "16"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac813d",
+    "title": "Comparison between t-SNE and cosine similarity for LIGO glitches analysis",
+    "page": "165013",
+    "year": 2022,
+    "volume": "39",
+    "issue": "16"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac8141",
+    "title": "Hairy extension of the Bertotti–Robinson spacetime in the Einstein–Maxwell-scalar theory is a black hole in closed spatial geometries",
+    "page": "167001",
+    "year": 2022,
+    "volume": "39",
+    "issue": "16"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac7cb5",
+    "title": "Vibration analysis of KAGRA cryostat at cryogenic temperature",
+    "page": "165004",
+    "year": 2022,
+    "volume": "39",
+    "issue": "16"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac7a86",
+    "title": "A mechanism of baryogenesis for causal fermion systems",
+    "page": "165005",
+    "year": 2022,
+    "volume": "39",
+    "issue": "16"
+   }
+  ],
+  "V39I13": [
+   {
+    "doi": "10.1088/1361-6382/ac7029",
+    "title": "Effect of the field self-interaction of General Relativity on the cosmic microwave background anisotropies",
+    "page": "135003",
+    "year": 2022,
+    "volume": "39",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac6fa9",
+    "title": "Lessons for adaptive mesh refinement in numerical relativity",
+    "page": "135006",
+    "year": 2022,
+    "volume": "39",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac6fa8",
+    "title": "Observable characteristics of the charged black hole surrounded by thin disk accretion in Rastall gravity",
+    "page": "135004",
+    "year": 2022,
+    "volume": "39",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac6e21",
+    "title": "Thermally induced refractive index fluctuations in transmissive optical components and their influence on the sensitivity of Einstein telescope",
+    "page": "135001",
+    "year": 2022,
+    "volume": "39",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac7325",
+    "title": "Characterization of gravitational-wave detector noise with fractals",
+    "page": "135012",
+    "year": 2022,
+    "volume": "39",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac6d3d",
+    "title": "Chaos in spatially homogeneous Hořava–Lifshitz subcritical cosmologies",
+    "page": "135017",
+    "year": 2022,
+    "volume": "39",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac37cd",
+    "title": "Baby universes and worldline field theories",
+    "page": "134004",
+    "year": 2022,
+    "volume": "39",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac7026",
+    "title": "Light ray fluctuations in simplicial quantum gravity",
+    "page": "135005",
+    "year": 2022,
+    "volume": "39",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac6c73",
+    "title": "Topological confinement in Skyrme holography",
+    "page": "135002",
+    "year": 2022,
+    "volume": "39",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac0c30",
+    "title": "Quantum geometric maps and their properties",
+    "page": "135014",
+    "year": 2022,
+    "volume": "39",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac5db2",
+    "title": "A universal formula for the density of states in theories with finite-group symmetry",
+    "page": "134003",
+    "year": 2022,
+    "volume": "39",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac72e9",
+    "title": "Vacuum Einstein field equations in smooth metric measure spaces: the isotropic case*",
+    "page": "135013",
+    "year": 2022,
+    "volume": "39",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac5814",
+    "title": "Five-dimensional electrostatic black holes in a background field",
+    "page": "135008",
+    "year": 2022,
+    "volume": "39",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac7279",
+    "title": "Bianchi I ‘asymptotically Kasner’ solutions of the Einstein scalar field equations",
+    "page": "135007",
+    "year": 2022,
+    "volume": "39",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac7508",
+    "title": "Quantum correlation between a qubit and a relativistic boson in an expanding spacetime",
+    "page": "135016",
+    "year": 2022,
+    "volume": "39",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac7028",
+    "title": "Chaotic photon orbits and shadows of a non-Kerr object described by the Hartle–Thorne spacetime",
+    "page": "134001",
+    "year": 2022,
+    "volume": "39",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac7027",
+    "title": "Parameterizations of black-hole spacetimes beyond circularity",
+    "page": "134002",
+    "year": 2022,
+    "volume": "39",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac7278",
+    "title": "UniMAP: model-free detection of unclassified noise transients in LIGO-Virgo data using the temporal outlier factor",
+    "page": "135011",
+    "year": 2022,
+    "volume": "39",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac7203",
+    "title": "Gravitational wave memory and the wave equation",
+    "page": "135010",
+    "year": 2022,
+    "volume": "39",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac6b78",
+    "title": "Gauge symmetry of the 3<i>BF</i> theory for a generic semistrict Lie three-group",
+    "page": "135009",
+    "year": 2022,
+    "volume": "39",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac36e5",
+    "title": "Photon boomerang in a nearly extreme Kerr metric",
+    "page": "135015",
+    "year": 2022,
+    "volume": "39",
+    "issue": "13"
+   }
+  ],
+  "V39I2": [
+   {
+    "doi": "10.1088/1361-6382/ac3e52",
+    "title": "Barnich–Troessaert bracket as a Dirac bracket on the covariant phase space",
+    "page": "025016",
+    "year": 2022,
+    "volume": "39",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac3a9f",
+    "title": "Midisuperspace foam and the cosmological constant",
+    "page": "025012",
+    "year": 2022,
+    "volume": "39",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac3e4f",
+    "title": "A new look at the Bondi–Sachs energy–momentum*",
+    "page": "025007",
+    "year": 2022,
+    "volume": "39",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac37a4",
+    "title": "Covariant origin of the <i>U</i>(1)<sup>3</sup> model for Euclidean quantum gravity",
+    "page": "025006",
+    "year": 2022,
+    "volume": "39",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac40e5",
+    "title": "Supersymmetry enhancement of heterotic horizons",
+    "page": "025017",
+    "year": 2022,
+    "volume": "39",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac3e50",
+    "title": "First-order perturbations of Gödel-type metrics in non-dynamical Chern–Simons modified gravity",
+    "page": "025002",
+    "year": 2022,
+    "volume": "39",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac3e51",
+    "title": "BMS<sub>3</sub> mechanics and the black hole interior",
+    "page": "025001",
+    "year": 2022,
+    "volume": "39",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac3e53",
+    "title": "Einstein gravity as a gauge theory for the conformal group",
+    "page": "025011",
+    "year": 2022,
+    "volume": "39",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac3ae1",
+    "title": "The nonlinear patterns of the cosmic anisotropy: the spatially flat perfect fluid universes",
+    "page": "027001",
+    "year": 2022,
+    "volume": "39",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac08a8",
+    "title": "Entanglement amplification from rotating black holes",
+    "page": "02LT01",
+    "year": 2022,
+    "volume": "39",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac3b9a",
+    "title": "Transition analysis of the non-OT <i>G</i>\n                  <sub>2</sub> stiff fluid spike solution",
+    "page": "025010",
+    "year": 2022,
+    "volume": "39",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac3e76",
+    "title": "Shadow and deflection angle of charged rotating black hole surrounded by perfect fluid dark matter",
+    "page": "025014",
+    "year": 2022,
+    "volume": "39",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac3b99",
+    "title": "The science case for LIGO-India",
+    "page": "025004",
+    "year": 2022,
+    "volume": "39",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac3bda",
+    "title": "Dirac procedure and the Hamiltonian formalism for cosmological perturbations in a Bianchi I universe",
+    "page": "025005",
+    "year": 2022,
+    "volume": "39",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac3f99",
+    "title": "Revisiting cosmologies in teleparallelism",
+    "page": "025013",
+    "year": 2022,
+    "volume": "39",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac3e4e",
+    "title": "The appearance of non trivial torsion for some Ricci dependent theories in the Palatini formalism",
+    "page": "025003",
+    "year": 2022,
+    "volume": "39",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1be4",
+    "title": "Newtonian-noise characterization at Terziet in Limburg—the Euregio Meuse–Rhine candidate site for Einstein Telescope",
+    "page": "025009",
+    "year": 2022,
+    "volume": "39",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac2b08",
+    "title": "Surface and underground seismic characterization at Terziet in Limburg—the Euregio Meuse–Rhine candidate site for Einstein Telescope",
+    "page": "025008",
+    "year": 2022,
+    "volume": "39",
+    "issue": "2"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac3fbd",
+    "title": "Complex structures for Klein–Gordon theory on globally hyperbolic spacetimes",
+    "page": "025015",
+    "year": 2022,
+    "volume": "39",
+    "issue": "2"
+   }
+  ],
+  "V39I1": [
+   {
+    "doi": "10.1088/1361-6382/ac38d3",
+    "title": "A novel mechanism for probing the Planck scale",
+    "page": "015005",
+    "year": 2022,
+    "volume": "39",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac37a5",
+    "title": "New metric reconstruction scheme for gravitational self-force calculations",
+    "page": "015019",
+    "year": 2022,
+    "volume": "39",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac3aa0",
+    "title": "Kottler spacetime in isotropic static coordinates",
+    "page": "015015",
+    "year": 2022,
+    "volume": "39",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac35aa",
+    "title": "BiGONLight: light propagation with bilocal operators in numerical relativity",
+    "page": "015011",
+    "year": 2022,
+    "volume": "39",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac38d0",
+    "title": "Deflection of charged massive particles by a four-dimensional charged Einstein–Gauss–Bonnet black hole",
+    "page": "015002",
+    "year": 2022,
+    "volume": "39",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac36e3",
+    "title": "Spinor fields in \n\t    \n\t    <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                     <mml:mi>f</mml:mi>\n                     <mml:mrow>\n                        <mml:mo>(</mml:mo",
+    "page": "015009",
+    "year": 2022,
+    "volume": "39",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac3c8d",
+    "title": "Noncommutative (A)dS and Minkowski spacetimes from quantum Lorentz subgroups",
+    "page": "015018",
+    "year": 2022,
+    "volume": "39",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac38d2",
+    "title": "Variational formalism for generic shells in general relativity",
+    "page": "015004",
+    "year": 2022,
+    "volume": "39",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac3bd9",
+    "title": "Exploring the parameter space of modified supergravity for double inflation and primordial black hole formation",
+    "page": "015016",
+    "year": 2022,
+    "volume": "39",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac33bc",
+    "title": "Effect of the cosmological parameters on gravitational waves: general analysis",
+    "page": "015012",
+    "year": 2022,
+    "volume": "39",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac25e2",
+    "title": "Critical metrics and massive gravity solutions on three-dimensional Brinkmann waves*",
+    "page": "015007",
+    "year": 2022,
+    "volume": "39",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac35a9",
+    "title": "Spherically symmetric charged black holes with wavy scalar hair",
+    "page": "015010",
+    "year": 2022,
+    "volume": "39",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac35a8",
+    "title": "Mapping dynamical ejecta and disk masses from numerical relativity simulations of neutron star mergers",
+    "page": "015008",
+    "year": 2022,
+    "volume": "39",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac39b9",
+    "title": "A six degree-of-freedom fused silica seismometer: design and tests of a metal prototype",
+    "page": "015006",
+    "year": 2022,
+    "volume": "39",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1901",
+    "title": "Inflation from inhomogeneous polarized Gowdy model",
+    "page": "015001",
+    "year": 2022,
+    "volume": "39",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac3c8c",
+    "title": "Search for variability in Newton’s constant using local gravitational acceleration measurements",
+    "page": "017001",
+    "year": 2022,
+    "volume": "39",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac38d1",
+    "title": "Geometrization of light bending and its application to SdS<sub>\n                  \n                     w\n                  \n               </sub> spacetime",
+    "page": "015003",
+    "year": 2022,
+    "volume": "39",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac3b9b",
+    "title": "Quantization ambiguities and the robustness of effective descriptions of primordial perturbations in hybrid loop quantum cosmology",
+    "page": "015017",
+    "year": 2022,
+    "volume": "39",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac37ce",
+    "title": "Staticity and regularity for zero rest-mass fields near spatial infinity on flat spacetime",
+    "page": "015014",
+    "year": 2022,
+    "volume": "39",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac36e4",
+    "title": "Well-tempered Minkowski solutions in teleparallel Horndeski theory",
+    "page": "015013",
+    "year": 2022,
+    "volume": "39",
+    "issue": "1"
+   }
+  ],
+  "V38I24": [
+   {
+    "doi": "10.1088/1361-6382/ac345f",
+    "title": "Carroll limit of four-dimensional gravity theories in the first order formalism",
+    "page": "245003",
+    "year": 2021,
+    "volume": "38",
+    "issue": "24"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac33ba",
+    "title": "Image rotation from lensing",
+    "page": "245008",
+    "year": 2021,
+    "volume": "38",
+    "issue": "24"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac33be",
+    "title": "The Linet–Tian metrics are a restricted set of Krasiński’s solutions of Einstein’s field equations for a rotating perfect fluid",
+    "page": "247001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "24"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac36a6",
+    "title": "Dephasing and inhibition of spin interference from semi-classical self-gravitation",
+    "page": "245009",
+    "year": 2021,
+    "volume": "38",
+    "issue": "24"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac337d",
+    "title": "Emergent gravity and D-brane adiabatic dynamics: emergent Lorentz connection",
+    "page": "245004",
+    "year": 2021,
+    "volume": "38",
+    "issue": "24"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac348a",
+    "title": "Characterization of the seismic field at Virgo and improved estimates of Newtonian-noise suppression by recesses",
+    "page": "245007",
+    "year": 2021,
+    "volume": "38",
+    "issue": "24"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac337c",
+    "title": "Quantum isotropy and the reduction of dynamics in Bianchi I",
+    "page": "245001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "24"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac33bd",
+    "title": "Gravitational quantum states as finite representations of the Lorentz group",
+    "page": "245002",
+    "year": 2021,
+    "volume": "38",
+    "issue": "24"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac33bf",
+    "title": "<tt>NRPyCritCol &amp; SFcollapse1D</tt>\n                    : an open-source, user-friendly toolkit to study critical phenomena",
+    "page": "245005",
+    "year": 2021,
+    "volume": "38",
+    "issue": "24"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac35ab",
+    "title": "Scalar gravitational wave signals from core collapse in massive scalar–tensor gravity with triple-scalar interactions",
+    "page": "245006",
+    "year": 2021,
+    "volume": "38",
+    "issue": "24"
+   }
+  ],
+  "V39I22": [
+   {
+    "doi": "10.1088/1361-6382/ac994a",
+    "title": "Symmetric teleparallel geometries",
+    "page": "22LT01",
+    "year": 2022,
+    "volume": "39",
+    "issue": "22"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac9ae4",
+    "title": "Probing horizon scale quantum effects with Love",
+    "page": "225016",
+    "year": 2022,
+    "volume": "39",
+    "issue": "22"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac96c3",
+    "title": "On the intrinsically flat cosmological models in a lattice",
+    "page": "225008",
+    "year": 2022,
+    "volume": "39",
+    "issue": "22"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac96c1",
+    "title": "Cyclic spacetimes through singularity scattering maps. Plane-symmetric gravitational collisions",
+    "page": "225010",
+    "year": 2022,
+    "volume": "39",
+    "issue": "22"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac987e",
+    "title": "Null and timelike circular orbits from equivalent 2D metrics",
+    "page": "225007",
+    "year": 2022,
+    "volume": "39",
+    "issue": "22"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac95f1",
+    "title": "Matrix method for perturbed black hole metric with discontinuity",
+    "page": "225004",
+    "year": 2022,
+    "volume": "39",
+    "issue": "22"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac9ae5",
+    "title": "Constraining GUP models using limits on SME coefficients",
+    "page": "225017",
+    "year": 2022,
+    "volume": "39",
+    "issue": "22"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac95ee",
+    "title": "A PDE proof of the Penrose inequality for perturbations of Schwarzschild initial data",
+    "page": "225001",
+    "year": 2022,
+    "volume": "39",
+    "issue": "22"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac9949",
+    "title": "Galactic dynamics in general relativity: the role of gravitomagnetism",
+    "page": "225015",
+    "year": 2022,
+    "volume": "39",
+    "issue": "22"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac95f2",
+    "title": "Revisiting timelike and null geodesics in the Schwarzschild spacetime: general expressions in terms of Weierstrass elliptic functions",
+    "page": "225003",
+    "year": 2022,
+    "volume": "39",
+    "issue": "22"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac987f",
+    "title": "The stability of galaxies in an expanding Universe obtained by Newtonian dynamics",
+    "page": "225006",
+    "year": 2022,
+    "volume": "39",
+    "issue": "22"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac9bc6",
+    "title": "Neutrino fields in a sandwich gravitational wave background",
+    "page": "225018",
+    "year": 2022,
+    "volume": "39",
+    "issue": "22"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac994b",
+    "title": "An infinity of black holes",
+    "page": "225014",
+    "year": 2022,
+    "volume": "39",
+    "issue": "22"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac902d",
+    "title": "Tetrahedral omnidirectional full-tensor gravitational wave detector",
+    "page": "225012",
+    "year": 2022,
+    "volume": "39",
+    "issue": "22"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac9a32",
+    "title": "Generalized Mathisson–Papapetrou–Tulczyjew–Dixon equations",
+    "page": "225013",
+    "year": 2022,
+    "volume": "39",
+    "issue": "22"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac9509",
+    "title": "Killing tensors in Koutras–Mcintosh spacetimes",
+    "page": "225005",
+    "year": 2022,
+    "volume": "39",
+    "issue": "22"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac93e2",
+    "title": "Hawking radiation from an evaporating black hole via Bogoliubov transformations",
+    "page": "225002",
+    "year": 2022,
+    "volume": "39",
+    "issue": "22"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac96c2",
+    "title": "Weyl double copy and massless free-fields in curved spacetimes",
+    "page": "225009",
+    "year": 2022,
+    "volume": "39",
+    "issue": "22"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac95ef",
+    "title": "Novel logarithmic corrections to black hole entropy",
+    "page": "225011",
+    "year": 2022,
+    "volume": "39",
+    "issue": "22"
+   }
+  ],
+  "V38I22": [
+   {
+    "doi": "10.1088/1361-6382/ac2dd0",
+    "title": "The inflationary scenario in the\n                    <i>f</i>\n                    (\n                    <i>R</i>\n                    ) gravity model with a\n                    <i>R</i>\n               ",
+    "page": "225008",
+    "year": 2021,
+    "volume": "38",
+    "issue": "22"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac2b0a",
+    "title": "Comparison of light-time formulations in the post-Newtonian framework for the BepiColombo MORE experiment",
+    "page": "227001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "22"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac2b0c",
+    "title": "Mathematical analysis of some couplings for the Eddington-inspired-Born-Infeld theory of bi-gravity in Bondi coordinates",
+    "page": "225012",
+    "year": 2021,
+    "volume": "38",
+    "issue": "22"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac2be2",
+    "title": "The linear stability of the\n                    <i>n</i>\n                    + 1 dimensional FLRW spacetimes",
+    "page": "225009",
+    "year": 2021,
+    "volume": "38",
+    "issue": "22"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac2cb7",
+    "title": "AdS Euclidean wormholes",
+    "page": "224002",
+    "year": 2021,
+    "volume": "38",
+    "issue": "22"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac2b0b",
+    "title": "A high-performance code for EPRL spin foam amplitudes",
+    "page": "225010",
+    "year": 2021,
+    "volume": "38",
+    "issue": "22"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac2c1b",
+    "title": "Holographic moving mirrors",
+    "page": "224001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "22"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac2b09",
+    "title": "Quantum cosmology in\n                    <i>f</i>\n                    (\n                    <i>Q</i>\n                    ) theory",
+    "page": "225003",
+    "year": 2021,
+    "volume": "38",
+    "issue": "22"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac2b07",
+    "title": "Renormalization-group techniques for single-field inflation in primordial cosmology and quantum gravity",
+    "page": "225011",
+    "year": 2021,
+    "volume": "38",
+    "issue": "22"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac2c1e",
+    "title": "A Lie algebra based approach to asymptotic symmetries in general relativity",
+    "page": "225007",
+    "year": 2021,
+    "volume": "38",
+    "issue": "22"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac27f0",
+    "title": "The variance of the CMB temperature gradient: a new signature of a multiply connected Universe",
+    "page": "225005",
+    "year": 2021,
+    "volume": "38",
+    "issue": "22"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac2c1a",
+    "title": "Corrigendum: The Λ-BMS\n                    <sub>4</sub>\n                    group of dS\n                    <sub>4</sub>\n                    and new boundary conditions for AdS\n                    <su",
+    "page": "229501",
+    "year": 2021,
+    "volume": "38",
+    "issue": "22"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac2c1f",
+    "title": "The Kerr–de Sitter spacetime in Bondi coordinates",
+    "page": "225002",
+    "year": 2021,
+    "volume": "38",
+    "issue": "22"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac27ee",
+    "title": "Standard cosmology on the Anti-de Sitter boundary",
+    "page": "225001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "22"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac2c1c",
+    "title": "(3\n                    <b>+</b>\n                    1)-formulation for gravity with torsion and non-metricity: II. The hypermomentum equation",
+    "page": "225006",
+    "year": 2021,
+    "volume": "38",
+    "issue": "22"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac2be1",
+    "title": "Causal simplicity and (maximal) null pseudoconvexity",
+    "page": "227002",
+    "year": 2021,
+    "volume": "38",
+    "issue": "22"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac2c1d",
+    "title": "Multidomain Galerkin–collocation method: spherical collapse of scalar fields II",
+    "page": "225004",
+    "year": 2021,
+    "volume": "38",
+    "issue": "22"
+   }
+  ],
+  "V38I20": [
+   {
+    "doi": "10.1088/1361-6382/ac1b46",
+    "title": "Resonant Hamiltonian systems and weakly nonlinear dynamics in AdS spacetimes",
+    "page": "203001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "20"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac2416",
+    "title": "Effective action in elliptic and hyperbolic spacetimes",
+    "page": "207001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "20"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac2138",
+    "title": "AdS gravity,\n                    <i>SO</i>\n                    (2,\n                    <i>d</i>\n                    ) gauge theory and holography",
+    "page": "205002",
+    "year": 2021,
+    "volume": "38",
+    "issue": "20"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac25e5",
+    "title": "Structural stability of spherical horizons",
+    "page": "205010",
+    "year": 2021,
+    "volume": "38",
+    "issue": "20"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac226e",
+    "title": "Dynamical system analysis of the Bianchi type-V cosmological model in\n                    <i>R</i>\n                    <sup>\n                      <i>n</i>\n                    </sup>\n                 ",
+    "page": "205004",
+    "year": 2021,
+    "volume": "38",
+    "issue": "20"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac25df",
+    "title": "2D dilaton-gravity, deformations of the minimal string, and matrix models",
+    "page": "204001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "20"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac25dd",
+    "title": "van der Waals fluid and charged AdS black hole in the Landau theory",
+    "page": "205008",
+    "year": 2021,
+    "volume": "38",
+    "issue": "20"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac25e1",
+    "title": "Expanding and self-organizing 2D universe models emerging from frozen trivalent spin networks",
+    "page": "205005",
+    "year": 2021,
+    "volume": "38",
+    "issue": "20"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac2417",
+    "title": "Consistent solution of Einstein–Cartan equations with torsion outside matter",
+    "page": "205003",
+    "year": 2021,
+    "volume": "38",
+    "issue": "20"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac226f",
+    "title": "Algorithmic approach to cosmological coherent state expectation values in loop quantum gravity",
+    "page": "205001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "20"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac25e3",
+    "title": "Pure Lorentz spin connection theories and uniqueness of general relativity",
+    "page": "205009",
+    "year": 2021,
+    "volume": "38",
+    "issue": "20"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac23c5",
+    "title": "Corrigendum: Area deficits and the Bel–Robinson tensor (2018\n                    <i>Class. Quantum Grav.</i>\n                    <b>35</b>\n                    085005)",
+    "page": "209501",
+    "year": 2021,
+    "volume": "38",
+    "issue": "20"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac25e4",
+    "title": "ΛCDM without cosmological constant",
+    "page": "205007",
+    "year": 2021,
+    "volume": "38",
+    "issue": "20"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac25e0",
+    "title": "Scattering cross-section in gravitating cosmic string spacetimes",
+    "page": "205006",
+    "year": 2021,
+    "volume": "38",
+    "issue": "20"
+   }
+  ],
+  "V39I24": [
+   {
+    "doi": "10.1088/1361-6382/aca066",
+    "title": "Universal signature of quantum entanglement across cosmological distances",
+    "page": "245002",
+    "year": 2022,
+    "volume": "39",
+    "issue": "24"
+   },
+   {
+    "doi": "10.1088/1361-6382/aca386",
+    "title": "Unimodular gravity vs general relativity: a status report",
+    "page": "243001",
+    "year": 2022,
+    "volume": "39",
+    "issue": "24"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac8140",
+    "title": "Critique of the use of geodesics in astrophysics and cosmology",
+    "page": "245001",
+    "year": 2022,
+    "volume": "39",
+    "issue": "24"
+   },
+   {
+    "doi": "10.1088/1361-6382/aca1a3",
+    "title": "Resonant jumps induced by stationary tidal perturbation: a two-for-one deal",
+    "page": "245005",
+    "year": 2022,
+    "volume": "39",
+    "issue": "24"
+   },
+   {
+    "doi": "10.1088/1361-6382/aca237",
+    "title": "Convergence of the Fefferman-Graham expansion and complex black hole anatomy",
+    "page": "245010",
+    "year": 2022,
+    "volume": "39",
+    "issue": "24"
+   },
+   {
+    "doi": "10.1088/1361-6382/aca314",
+    "title": "Simulation and accuracy analysis of orbit determination for TianQin using SLR data",
+    "page": "245016",
+    "year": 2022,
+    "volume": "39",
+    "issue": "24"
+   },
+   {
+    "doi": "10.1088/1361-6382/aca384",
+    "title": "Solving Tolman–Oppenheimer–Volkoff equations in <i>f</i>(<i>T</i>) gravity: a novel approach",
+    "page": "245017",
+    "year": 2022,
+    "volume": "39",
+    "issue": "24"
+   },
+   {
+    "doi": "10.1088/1361-6382/aca067",
+    "title": "Gauge invariants of linearized gravity with a general background metric",
+    "page": "245003",
+    "year": 2022,
+    "volume": "39",
+    "issue": "24"
+   },
+   {
+    "doi": "10.1088/1361-6382/aca064",
+    "title": "A Birman–Schwinger principle in galactic dynamics: ESI, Vienna, 07–11 February 2022",
+    "page": "244001",
+    "year": 2022,
+    "volume": "39",
+    "issue": "24"
+   },
+   {
+    "doi": "10.1088/1361-6382/aca192",
+    "title": "Recovering information in an asymptotically flat spacetime in quantum gravity",
+    "page": "245012",
+    "year": 2022,
+    "volume": "39",
+    "issue": "24"
+   },
+   {
+    "doi": "10.1088/1361-6382/aca191",
+    "title": "Spinor solutions of a Chern–Simons model for the superconformal algebra",
+    "page": "245007",
+    "year": 2022,
+    "volume": "39",
+    "issue": "24"
+   },
+   {
+    "doi": "10.1088/1361-6382/aca1a2",
+    "title": "TCFHs, hidden symmetries and M-theory backgrounds",
+    "page": "245015",
+    "year": 2022,
+    "volume": "39",
+    "issue": "24"
+   },
+   {
+    "doi": "10.1088/1361-6382/aca1a4",
+    "title": "Neutron phase contrast imaging of PbWO<sub>4</sub> crystals for G experiment test masses using a Talbot-Lau neutron interferometer",
+    "page": "245014",
+    "year": 2022,
+    "volume": "39",
+    "issue": "24"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac5fc0",
+    "title": "Insights on entanglement entropy in 1 + 1 dimensional causal sets",
+    "page": "245004",
+    "year": 2022,
+    "volume": "39",
+    "issue": "24"
+   },
+   {
+    "doi": "10.1088/1361-6382/aca239",
+    "title": "Quantisation ambiguities and the effective dynamics of scalar-tensor theories in loop quantum cosmology",
+    "page": "245009",
+    "year": 2022,
+    "volume": "39",
+    "issue": "24"
+   },
+   {
+    "doi": "10.1088/1361-6382/aca23a",
+    "title": "Photon propagation in a material medium on a curved spacetime",
+    "page": "245008",
+    "year": 2022,
+    "volume": "39",
+    "issue": "24"
+   },
+   {
+    "doi": "10.1088/1361-6382/aca193",
+    "title": "On the uniqueness of supersymmetric AdS(5) black holes with toric symmetry",
+    "page": "245006",
+    "year": 2022,
+    "volume": "39",
+    "issue": "24"
+   },
+   {
+    "doi": "10.1088/1361-6382/aca238",
+    "title": "Subtracting glitches from gravitational-wave detector data during the third LIGO-Virgo observing run",
+    "page": "245013",
+    "year": 2022,
+    "volume": "39",
+    "issue": "24"
+   },
+   {
+    "doi": "10.1088/1361-6382/aca1a1",
+    "title": "Heat conduction in general relativity",
+    "page": "245011",
+    "year": 2022,
+    "volume": "39",
+    "issue": "24"
+   }
+  ],
+  "V38I8": [
+   {
+    "doi": "10.1088/1361-6382/abe0f5",
+    "title": "Lightlike geodesics and gravitational lensing in the spacetime of an accelerating black hole",
+    "page": "085016",
+    "year": 2021,
+    "volume": "38",
+    "issue": "8"
+   },
+   {
+    "doi": "10.1088/1361-6382/abe6b7",
+    "title": "A tale of two actions a variational principle for two-dimensional causal sets",
+    "page": "085014",
+    "year": 2021,
+    "volume": "38",
+    "issue": "8"
+   },
+   {
+    "doi": "10.1088/1361-6382/abed60",
+    "title": "Demonstration of a dual-pass differential Fabry–Perot interferometer for future interferometric space gravitational wave antennas",
+    "page": "085018",
+    "year": 2021,
+    "volume": "38",
+    "issue": "8"
+   },
+   {
+    "doi": "10.1088/1361-6382/abebf2",
+    "title": "The Fourier–Bessel expansion: application to experimental probes of gravity and feeble short-range interactions",
+    "page": "085020",
+    "year": 2021,
+    "volume": "38",
+    "issue": "8"
+   },
+   {
+    "doi": "10.1088/1361-6382/abe83d",
+    "title": "Quantum fluctuations of the compact phase space cosmology",
+    "page": "085007",
+    "year": 2021,
+    "volume": "38",
+    "issue": "8"
+   },
+   {
+    "doi": "10.1088/1361-6382/abe883",
+    "title": "Averaging with a time-dependent perturbation parameter",
+    "page": "085005",
+    "year": 2021,
+    "volume": "38",
+    "issue": "8"
+   },
+   {
+    "doi": "10.1088/1361-6382/abed5f",
+    "title": "RG-2 flow and black hole entanglement entropy",
+    "page": "085019",
+    "year": 2021,
+    "volume": "38",
+    "issue": "8"
+   },
+   {
+    "doi": "10.1088/1361-6382/abe756",
+    "title": "Deformations of GR, geometrodynamics and reality conditions",
+    "page": "085009",
+    "year": 2021,
+    "volume": "38",
+    "issue": "8"
+   },
+   {
+    "doi": "10.1088/1361-6382/abeae3",
+    "title": "Energy of cosmological spacetimes and perturbations: a quasilocal approach\n                    <sup>*</sup>",
+    "page": "085012",
+    "year": 2021,
+    "volume": "38",
+    "issue": "8"
+   },
+   {
+    "doi": "10.1088/1361-6382/abe9f3",
+    "title": "Cryogenic suspension design for a kilometer-scale gravitational-wave detector",
+    "page": "085013",
+    "year": 2021,
+    "volume": "38",
+    "issue": "8"
+   },
+   {
+    "doi": "10.1088/1361-6382/abebb5",
+    "title": "A note on the vacuum structure of lattice Euclidean quantum gravity: ‘birth’ of macroscopic space-time and\n                    <i>PT</i>\n                    -symmetry breaking",
+    "page": "085022",
+    "year": 2021,
+    "volume": "38",
+    "issue": "8"
+   },
+   {
+    "doi": "10.1088/1361-6382/abebb7",
+    "title": "Spritz: general relativistic magnetohydrodynamics with neutrinos",
+    "page": "085021",
+    "year": 2021,
+    "volume": "38",
+    "issue": "8"
+   },
+   {
+    "doi": "10.1088/1361-6382/abdd48",
+    "title": "Photon ring structure of rotating regular black holes and no-horizon spacetimes",
+    "page": "085010",
+    "year": 2021,
+    "volume": "38",
+    "issue": "8"
+   },
+   {
+    "doi": "10.1088/1361-6382/abe957",
+    "title": "On the horizon entropy of a causal set",
+    "page": "085004",
+    "year": 2021,
+    "volume": "38",
+    "issue": "8"
+   },
+   {
+    "doi": "10.1088/1361-6382/abe757",
+    "title": "An experiment for observing quantum gravity phenomena using twin table-top 3D interferometers",
+    "page": "085008",
+    "year": 2021,
+    "volume": "38",
+    "issue": "8"
+   },
+   {
+    "doi": "10.1088/1361-6382/abebb6",
+    "title": "Accelerating boundary analog of a Kerr black hole",
+    "page": "085011",
+    "year": 2021,
+    "volume": "38",
+    "issue": "8"
+   },
+   {
+    "doi": "10.1088/1361-6382/abe4ec",
+    "title": "A spinorial proof of the rigidity of the Riemannian Schwarzschild manifold",
+    "page": "085015",
+    "year": 2021,
+    "volume": "38",
+    "issue": "8"
+   },
+   {
+    "doi": "10.1088/1361-6382/abeae5",
+    "title": "Weyl-invariant gravity and the nature of dark matter",
+    "page": "085001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "8"
+   },
+   {
+    "doi": "10.1088/1361-6382/abdaf3",
+    "title": "Tidal forces are gravitational waves",
+    "page": "085023",
+    "year": 2021,
+    "volume": "38",
+    "issue": "8"
+   },
+   {
+    "doi": "10.1088/1361-6382/abe881",
+    "title": "The gravitational field of a massless particle on the horizon of a stationary black hole",
+    "page": "085006",
+    "year": 2021,
+    "volume": "38",
+    "issue": "8"
+   },
+   {
+    "doi": "10.1088/1361-6382/abe1ff",
+    "title": "Elasticity theory in general relativity",
+    "page": "085017",
+    "year": 2021,
+    "volume": "38",
+    "issue": "8"
+   },
+   {
+    "doi": "10.1088/1361-6382/abea2d",
+    "title": "Gravitational lenses in arbitrary space-times",
+    "page": "085002",
+    "year": 2021,
+    "volume": "38",
+    "issue": "8"
+   },
+   {
+    "doi": "10.1088/1361-6382/abe9f4",
+    "title": "Does GW170814 rule out non-tensorial gravitational wave polarization?",
+    "page": "085003",
+    "year": 2021,
+    "volume": "38",
+    "issue": "8"
+   }
+  ],
+  "V38I5": [
+   {
+    "doi": "10.1088/1361-6382/abd594",
+    "title": "Distance measures in gravitational-wave astrophysics and cosmology",
+    "page": "055010",
+    "year": 2021,
+    "volume": "38",
+    "issue": "5"
+   },
+   {
+    "doi": "10.1088/1361-6382/abc3f7",
+    "title": "A class of conserved currents for linearized gravity in the Kerr spacetime",
+    "page": "055004",
+    "year": 2021,
+    "volume": "38",
+    "issue": "5"
+   },
+   {
+    "doi": "10.1088/1361-6382/abd225",
+    "title": "Horizon hair from inversion symmetry\n                    <sup>*</sup>",
+    "page": "055006",
+    "year": 2021,
+    "volume": "38",
+    "issue": "5"
+   },
+   {
+    "doi": "10.1088/1361-6382/abd4f4",
+    "title": "Corrigendum: Analytic expressions for gravitational inner multipole moments of elementary solids and for the force between two rectangular solids (2005\n                    <i>Class. Quantum Grav.</i>\n",
+    "page": "059501",
+    "year": 2021,
+    "volume": "38",
+    "issue": "5"
+   },
+   {
+    "doi": "10.1088/1361-6382/abd071",
+    "title": "Unit-lapse versions of the Kerr spacetime",
+    "page": "055001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "5"
+   },
+   {
+    "doi": "10.1088/1361-6382/abc570",
+    "title": "Gravitomagnetism in the Lewis cylindrical metrics",
+    "page": "055003",
+    "year": 2021,
+    "volume": "38",
+    "issue": "5"
+   },
+   {
+    "doi": "10.1088/1361-6382/abd681",
+    "title": "Cutting out the cosmological middle man: general relativity in the light-cone coordinates",
+    "page": "055011",
+    "year": 2021,
+    "volume": "38",
+    "issue": "5"
+   },
+   {
+    "doi": "10.1088/1361-6382/abd4f6",
+    "title": "Sensitivity of present and future detectors across the black-hole binary gravitational wave spectrum",
+    "page": "055009",
+    "year": 2021,
+    "volume": "38",
+    "issue": "5"
+   },
+   {
+    "doi": "10.1088/1361-6382/abd595",
+    "title": "Geodesics near a curvature singularity of stationary and axially symmetric space–times",
+    "page": "055008",
+    "year": 2021,
+    "volume": "38",
+    "issue": "5"
+   },
+   {
+    "doi": "10.1088/1361-6382/abcfd1",
+    "title": "Null geodesics and improved unique continuation for waves in asymptotically anti-de Sitter spacetimes",
+    "page": "054001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "5"
+   },
+   {
+    "doi": "10.1088/1361-6382/abd3e1",
+    "title": "Kasner-like regions near crushing singularities\n                    <sup>*</sup>",
+    "page": "055005",
+    "year": 2021,
+    "volume": "38",
+    "issue": "5"
+   },
+   {
+    "doi": "10.1088/1361-6382/abd4f5",
+    "title": "Constraining teleparallel gravity through Gaussian processes",
+    "page": "055007",
+    "year": 2021,
+    "volume": "38",
+    "issue": "5"
+   },
+   {
+    "doi": "10.1088/1361-6382/abd301",
+    "title": "The BepiColombo solar conjunction experiments revisited",
+    "page": "055002",
+    "year": 2021,
+    "volume": "38",
+    "issue": "5"
+   }
+  ],
+  "V38I9": [
+   {
+    "doi": "10.1088/1361-6382/abe913",
+    "title": "The MBTA pipeline for detecting compact binary coalescences in the third LIGO–Virgo observing run",
+    "page": "095004",
+    "year": 2021,
+    "volume": "38",
+    "issue": "9"
+   },
+   {
+    "doi": "10.1088/1361-6382/abefbd",
+    "title": "Background-independent composite gravity",
+    "page": "095008",
+    "year": 2021,
+    "volume": "38",
+    "issue": "9"
+   },
+   {
+    "doi": "10.1088/1361-6382/abf1c9",
+    "title": "Canonical Noether and the energy–momentum non-uniqueness problem in linearized gravity",
+    "page": "095007",
+    "year": 2021,
+    "volume": "38",
+    "issue": "9"
+   },
+   {
+    "doi": "10.1088/1361-6382/abf1c2",
+    "title": "New design of gravitational wave detectors",
+    "page": "095009",
+    "year": 2021,
+    "volume": "38",
+    "issue": "9"
+   },
+   {
+    "doi": "10.1088/1361-6382/abe144",
+    "title": "Characterising the most rapidly rotating AdS\n                    <sub>5</sub>\n                    -Kerr black holes",
+    "page": "095001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "9"
+   },
+   {
+    "doi": "10.1088/1361-6382/abf1c1",
+    "title": "Lensing contribution to the 21 cm intensity bispectrum",
+    "page": "095013",
+    "year": 2021,
+    "volume": "38",
+    "issue": "9"
+   },
+   {
+    "doi": "10.1088/1361-6382/abf1fc",
+    "title": "Rotational superradiance with Bogoliubov dispersion",
+    "page": "095010",
+    "year": 2021,
+    "volume": "38",
+    "issue": "9"
+   },
+   {
+    "doi": "10.1088/1361-6382/abf2f6",
+    "title": "A generalized Hartle–Hawking wave function",
+    "page": "095011",
+    "year": 2021,
+    "volume": "38",
+    "issue": "9"
+   },
+   {
+    "doi": "10.1088/1361-6382/abdb4c",
+    "title": "Gauge-invariant quadratic approximation of quasi-local mass and its relation with Hamiltonian for gravitational field",
+    "page": "095006",
+    "year": 2021,
+    "volume": "38",
+    "issue": "9"
+   },
+   {
+    "doi": "10.1088/1361-6382/abde19",
+    "title": "Quantum black hole spectroscopy: probing the quantum nature of the black hole area using LIGO–Virgo ringdown detections",
+    "page": "095005",
+    "year": 2021,
+    "volume": "38",
+    "issue": "9"
+   },
+   {
+    "doi": "10.1088/1361-6382/abf1c6",
+    "title": "Bayesian search for gravitational wave bursts in pulsar timing array data",
+    "page": "095012",
+    "year": 2021,
+    "volume": "38",
+    "issue": "9"
+   },
+   {
+    "doi": "10.1088/1361-6382/abe143",
+    "title": "Slow-roll approximation in quantum cosmology",
+    "page": "095003",
+    "year": 2021,
+    "volume": "38",
+    "issue": "9"
+   },
+   {
+    "doi": "10.1088/1361-6382/abe05d",
+    "title": "Mass and horizon Dirac observables in effective models of quantum black-to-white hole transition",
+    "page": "095002",
+    "year": 2021,
+    "volume": "38",
+    "issue": "9"
+   }
+  ],
+  "V38I18": [
+   {
+    "doi": "10.1088/1361-6382/ac1a81",
+    "title": "Does Hubble tension signal a breakdown in FLRW cosmology?",
+    "page": "184001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "18"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac12e2",
+    "title": "Fundamental and higher-order excited modes of radial oscillation of neutron stars for various types of cold nucleonic and hyperonic matter",
+    "page": "185002",
+    "year": 2021,
+    "volume": "38",
+    "issue": "18"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1a66",
+    "title": "Black hole–neutron star binary mergers: the imprint of tidal deformations and debris",
+    "page": "185008",
+    "year": 2021,
+    "volume": "38",
+    "issue": "18"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac186f",
+    "title": "Characteristic Cauchy problem on the light cone for the Einstein–Vlasov system in temporal gauge",
+    "page": "185009",
+    "year": 2021,
+    "volume": "38",
+    "issue": "18"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1b09",
+    "title": "Quantum coherence and distribution of\n                    <i>N</i>\n                    -partite bosonic fields in noninertial frame",
+    "page": "185007",
+    "year": 2021,
+    "volume": "38",
+    "issue": "18"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1b07",
+    "title": "Complexity and the Big Bang",
+    "page": "187001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "18"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1850",
+    "title": "The current-type quadrupole moment and gravitational-wave mode (\n                    <i>ℓ</i>\n                    ,\n                    <i>m</i>\n                    ) = (2, 1) of compact binary system",
+    "page": "185004",
+    "year": 2021,
+    "volume": "38",
+    "issue": "18"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1a68",
+    "title": "Black hole evaporation in de Sitter space",
+    "page": "185005",
+    "year": 2021,
+    "volume": "38",
+    "issue": "18"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1853",
+    "title": "Weak second Bianchi identity for static, spherically symmetric spacetimes with timelike singularities",
+    "page": "185001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "18"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac18bc",
+    "title": "Gas cooling of test masses for future gravitational-wave observatories",
+    "page": "185003",
+    "year": 2021,
+    "volume": "38",
+    "issue": "18"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1b0a",
+    "title": "Born–Oppenheimer meets Wigner–Weyl in quantum gravity",
+    "page": "185006",
+    "year": 2021,
+    "volume": "38",
+    "issue": "18"
+   }
+  ],
+  "V39I19": [
+   {
+    "doi": "10.1088/1361-6382/ac75e1",
+    "title": "The topology of general cosmological models*",
+    "page": "195004",
+    "year": 2022,
+    "volume": "39",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac838e",
+    "title": "Two approaches for the passive charge management of contactless test masses",
+    "page": "195008",
+    "year": 2022,
+    "volume": "39",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac8c7c",
+    "title": "Phase transition grade and microstructure of AdS black holes in massive gravity",
+    "page": "195011",
+    "year": 2022,
+    "volume": "39",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac8c7d",
+    "title": "Flat FLRW Universe in logarithmic symmetric teleparallel gravity with observational constraints",
+    "page": "195021",
+    "year": 2022,
+    "volume": "39",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac8b57",
+    "title": "High performance telescope system design for the TianQin project",
+    "page": "195017",
+    "year": 2022,
+    "volume": "39",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac8cc9",
+    "title": "A consistent approach to the path integral formalism of quantum mechanics based on the maximum length uncertainty",
+    "page": "195018",
+    "year": 2022,
+    "volume": "39",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac8962",
+    "title": "Detecting gravitomagnetism with space-based gravitational wave observatories",
+    "page": "195010",
+    "year": 2022,
+    "volume": "39",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac8a88",
+    "title": "Wavefront error based tilt-to-length noise analysis for the LISA transmitted beam",
+    "page": "195016",
+    "year": 2022,
+    "volume": "39",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac89c7",
+    "title": "Generic naked singularities in Vaidya spacetimes",
+    "page": "197001",
+    "year": 2022,
+    "volume": "39",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac89c6",
+    "title": "Symmetries of the asymptotically de Sitter spacetimes",
+    "page": "195009",
+    "year": 2022,
+    "volume": "39",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac840c",
+    "title": "The quadrupole moment of compact binaries to the fourth post-Newtonian order: from source to canonical moment",
+    "page": "195003",
+    "year": 2022,
+    "volume": "39",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac8b56",
+    "title": "Deflection and gravitational lensing of null and timelike signals in the Kiselev black hole spacetime in the weak field limit",
+    "page": "195013",
+    "year": 2022,
+    "volume": "39",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac8860",
+    "title": "Multi-level images around Kerr–Newman black holes",
+    "page": "194001",
+    "year": 2022,
+    "volume": "39",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac8a89",
+    "title": "On the stability of a wormhole in the maximally-extended Reissner–Nordström solution",
+    "page": "195015",
+    "year": 2022,
+    "volume": "39",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac8c7e",
+    "title": "Gravitational waveform of moving source with high speed",
+    "page": "195020",
+    "year": 2022,
+    "volume": "39",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac840b",
+    "title": "Electromagnetic asymmetry, relegation of curvature singularities of charged black holes, and cosmological equations of state in view of the Born–Infeld theory",
+    "page": "195007",
+    "year": 2022,
+    "volume": "39",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac8864",
+    "title": "A high-order shock capturing discontinuous Galerkin–finite difference hybrid method for GRMHD",
+    "page": "195001",
+    "year": 2022,
+    "volume": "39",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac8c18",
+    "title": "A fake instability in string inflation",
+    "page": "195012",
+    "year": 2022,
+    "volume": "39",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac8af2",
+    "title": "Healing the cosmological constant problem during inflation through a unified <i>quasi-quintessence</i> matter field",
+    "page": "195014",
+    "year": 2022,
+    "volume": "39",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac8863",
+    "title": "On the relation between asymptotic charges, the failure of peeling and late-time tails",
+    "page": "195006",
+    "year": 2022,
+    "volume": "39",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac8c7b",
+    "title": "Relative calibration of the LIGO and Virgo detectors using astrophysical events from their third observing run",
+    "page": "195019",
+    "year": 2022,
+    "volume": "39",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac8861",
+    "title": "Criteria for energy conditions",
+    "page": "195002",
+    "year": 2022,
+    "volume": "39",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac88b0",
+    "title": "An automated pipeline for scattered light noise characterization",
+    "page": "195005",
+    "year": 2022,
+    "volume": "39",
+    "issue": "19"
+   }
+  ],
+  "V38I7": [
+   {
+    "doi": "10.1088/1361-6382/abe31d",
+    "title": "Reconsidering the Ostrogradsky theorem: higher-derivatives Lagrangians, ghosts and degeneracy",
+    "page": "075005",
+    "year": 2021,
+    "volume": "38",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/abb874",
+    "title": "Geometric flux formula for the gravitational Wilson loop",
+    "page": "075011",
+    "year": 2021,
+    "volume": "38",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/abdd0d",
+    "title": "Strong gravitational lensing by DHOST black holes",
+    "page": "075026",
+    "year": 2021,
+    "volume": "38",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/abe24f",
+    "title": "Late-time cosmology of scalar-coupled\n                    <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                      <mml:mi>f</mml:mi>\n                      <mml:mrow>\n          ",
+    "page": "075009",
+    "year": 2021,
+    "volume": "38",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/abdd0b",
+    "title": "A spectral method algorithm for numerical simulations of gravitational fields",
+    "page": "075027",
+    "year": 2021,
+    "volume": "38",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/abe4ee",
+    "title": "Off-shell ADT conserved quantities in Palatini gravity",
+    "page": "075002",
+    "year": 2021,
+    "volume": "38",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/abdf28",
+    "title": "Geometric mean of bimetric spacetimes",
+    "page": "075023",
+    "year": 2021,
+    "volume": "38",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/abe01a",
+    "title": "A comment on no-force conditions for black holes and branes",
+    "page": "077001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/abe588",
+    "title": "Bulk viscosity in relativistic fluids: from thermodynamics to hydrodynamics",
+    "page": "075001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/abe759",
+    "title": "End benches scattered light modelling and subtraction in advanced Virgo",
+    "page": "075020",
+    "year": 2021,
+    "volume": "38",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/abe758",
+    "title": "On the quasi-position representation in theories with a minimal length",
+    "page": "075021",
+    "year": 2021,
+    "volume": "38",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/abc2fd",
+    "title": "Boundary contributions in the causal set action",
+    "page": "075018",
+    "year": 2021,
+    "volume": "38",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/abe912",
+    "title": "Stability of the Hayward black hole under electromagnetic perturbations",
+    "page": "075028",
+    "year": 2021,
+    "volume": "38",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/abe692",
+    "title": "Breaking the warp barrier: hyper-fast solitons in Einstein–Maxwell-plasma theory",
+    "page": "075015",
+    "year": 2021,
+    "volume": "38",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/abe31e",
+    "title": "Ghost scalar field dark energy models from an extended Kaluza–Klein perspective",
+    "page": "075004",
+    "year": 2021,
+    "volume": "38",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/abdf26",
+    "title": "Classification theorem and properties of singular solutions to the Tolman–Oppenheimer–Volkoff equation",
+    "page": "075024",
+    "year": 2021,
+    "volume": "38",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/abe4ed",
+    "title": "The gravimagnetic dipole",
+    "page": "075003",
+    "year": 2021,
+    "volume": "38",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/abe882",
+    "title": "Applications of the Hawking energy on lightcones in cosmology",
+    "page": "075019",
+    "year": 2021,
+    "volume": "38",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/abe755",
+    "title": "Cylindrical spikes",
+    "page": "075029",
+    "year": 2021,
+    "volume": "38",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/abe2dd",
+    "title": "Matching conditions in locally rotationally symmetric spacetimes and radiating stars",
+    "page": "075006",
+    "year": 2021,
+    "volume": "38",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/abe2db",
+    "title": "The Advanced Virgo photon calibrators",
+    "page": "075007",
+    "year": 2021,
+    "volume": "38",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/abdf27",
+    "title": "Discontinuous collocation methods and gravitational self-force applications",
+    "page": "075031",
+    "year": 2021,
+    "volume": "38",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/abdaf6",
+    "title": "Crossing the phantom divide line as an effect of quantum transitions",
+    "page": "075016",
+    "year": 2021,
+    "volume": "38",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/abdaf5",
+    "title": "Charged black hole mergers: orbit circularisation and chirp mass bias",
+    "page": "075017",
+    "year": 2021,
+    "volume": "38",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/abe2da",
+    "title": "Newtonian calibrator tests during the Virgo O3 data taking",
+    "page": "075012",
+    "year": 2021,
+    "volume": "38",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/abc224",
+    "title": "On the existence of Killing fields in smooth spacetimes with a compact Cauchy horizon",
+    "page": "075010",
+    "year": 2021,
+    "volume": "38",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/abdf70",
+    "title": "Force-free magnetosphere attractors for near-horizon extreme and near-extreme limits of Kerr black hole",
+    "page": "075022",
+    "year": 2021,
+    "volume": "38",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/abe2d7",
+    "title": "Dynamics of a two scalar field cosmological model with phantom terms",
+    "page": "075013",
+    "year": 2021,
+    "volume": "38",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/abd923",
+    "title": "Resolution of Reissner–Nordström singularities by higher-derivative corrections",
+    "page": "075014",
+    "year": 2021,
+    "volume": "38",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/abe2d8",
+    "title": "Emergence of the circle in a statistical model of random cubic graphs",
+    "page": "075008",
+    "year": 2021,
+    "volume": "38",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/abdf25",
+    "title": "Unitarity and the information problem in an explicit model of black hole evaporation",
+    "page": "075025",
+    "year": 2021,
+    "volume": "38",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/abe2d9",
+    "title": "Rotating black hole with an anisotropic matter field as a particle accelerator",
+    "page": "075030",
+    "year": 2021,
+    "volume": "38",
+    "issue": "7"
+   }
+  ],
+  "V38I17": [
+   {
+    "doi": "10.1088/1361-6382/ac1851",
+    "title": "Robustness of the cosmological constant damping mechanism through matter eras",
+    "page": "175012",
+    "year": 2021,
+    "volume": "38",
+    "issue": "17"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1504",
+    "title": "A critique of holographic dark energy",
+    "page": "177001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "17"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac103d",
+    "title": "A wavefunction description for a localized quantum particle in curved spacetimes",
+    "page": "175002",
+    "year": 2021,
+    "volume": "38",
+    "issue": "17"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac10ed",
+    "title": "Geometric horizons in binary black hole mergers",
+    "page": "17LT01",
+    "year": 2021,
+    "volume": "38",
+    "issue": "17"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac161b",
+    "title": "Mass gap in strongly coupled infinite derivative non-local Higgs: Dyson–Schwinger approach",
+    "page": "175013",
+    "year": 2021,
+    "volume": "38",
+    "issue": "17"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac161c",
+    "title": "Universal inflationary attractors implications on static neutron stars",
+    "page": "175005",
+    "year": 2021,
+    "volume": "38",
+    "issue": "17"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1618",
+    "title": "GWBENCH: a novel Fisher information package for gravitational-wave benchmarking",
+    "page": "175014",
+    "year": 2021,
+    "volume": "38",
+    "issue": "17"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac161a",
+    "title": "A black hole solution of higher-dimensional Weyl–Yang–Kaluza–Klein theory",
+    "page": "175009",
+    "year": 2021,
+    "volume": "38",
+    "issue": "17"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac12e3",
+    "title": "Wave mechanics for gravity with point-particles",
+    "page": "175003",
+    "year": 2021,
+    "volume": "38",
+    "issue": "17"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac13b8",
+    "title": "Entropy for spherically symmetric, dynamical black holes from the relative entropy between coherent states of a scalar quantum field",
+    "page": "175001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "17"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac15db",
+    "title": "The response of laser interferometric gravitational wave detectors beyond the eikonal equation",
+    "page": "175007",
+    "year": 2021,
+    "volume": "38",
+    "issue": "17"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac0e46",
+    "title": "Dynamical equilibrium states of a class of irrotational non-orthogonally transitive\n                    <i>G</i>\n                    <sub>2</sub>\n                    cosmologies I: The conjecture of c",
+    "page": "175004",
+    "year": 2021,
+    "volume": "38",
+    "issue": "17"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1870",
+    "title": "Impact of inhomogeneities on slowly rolling quintessence: implications for the local variations of the fine-structure constant",
+    "page": "175010",
+    "year": 2021,
+    "volume": "38",
+    "issue": "17"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac0160",
+    "title": "On the linear stability of\n                    <i>ℓ</i>\n                    -boson stars with respect to radial perturbations",
+    "page": "174001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "17"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac103e",
+    "title": "Effective quantum dust collapse via surface matching",
+    "page": "175015",
+    "year": 2021,
+    "volume": "38",
+    "issue": "17"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1616",
+    "title": "A low frequency horizontal active vibration isolation bench for testing the performance of high-precision space inertial sensors",
+    "page": "175006",
+    "year": 2021,
+    "volume": "38",
+    "issue": "17"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1852",
+    "title": "Canonical structure of minimal varying Λ theories",
+    "page": "175011",
+    "year": 2021,
+    "volume": "38",
+    "issue": "17"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1720",
+    "title": "Gravitational waves in non-local gravity",
+    "page": "175008",
+    "year": 2021,
+    "volume": "38",
+    "issue": "17"
+   }
+  ],
+  "V39I4": [
+   {
+    "doi": "10.1088/1361-6382/ac45da",
+    "title": "Minimally-modeled search of higher multipole gravitational-wave radiation in compact binary coalescences",
+    "page": "045001",
+    "year": 2022,
+    "volume": "39",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac4614",
+    "title": "Horndeski fermion–boson stars",
+    "page": "044001",
+    "year": 2022,
+    "volume": "39",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac4618",
+    "title": "On black hole area quantization and echoes",
+    "page": "045007",
+    "year": 2022,
+    "volume": "39",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac44b4",
+    "title": "Asymptotic symmetries at null-infinity for the Rarita–Schwinger field with magnetic term",
+    "page": "045005",
+    "year": 2022,
+    "volume": "39",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac45d8",
+    "title": "Central charges for AdS black holes",
+    "page": "045009",
+    "year": 2022,
+    "volume": "39",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac445f",
+    "title": "If time had no beginning: growth dynamics for past-infinite causal sets",
+    "page": "045002",
+    "year": 2022,
+    "volume": "39",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac45db",
+    "title": "Conformal geometry on a class of embedded hypersurfaces in spacetimes",
+    "page": "045004",
+    "year": 2022,
+    "volume": "39",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac4616",
+    "title": "Graphics processing unit implementation of the \n\t    \n\t    <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                     <mml:mi>F</mml:mi>\n                  </mml:math>\n\t    \n\t  -sta",
+    "page": "045003",
+    "year": 2022,
+    "volume": "39",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac3c8e",
+    "title": "Calibration of advanced Virgo and reconstruction of the detector strain <i>h</i>(<i>t</i>) during the observing run O3",
+    "page": "045006",
+    "year": 2022,
+    "volume": "39",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac45dd",
+    "title": "Angled beam expander telescopes for the Michelson beams in third generation gravitational wave observatories",
+    "page": "045008",
+    "year": 2022,
+    "volume": "39",
+    "issue": "4"
+   }
+  ],
+  "V39I10": [
+   {
+    "doi": "10.1088/1361-6382/ac5fbe",
+    "title": "Closed conformal Killing–Yano initial data",
+    "page": "105002",
+    "year": 2022,
+    "volume": "39",
+    "issue": "10"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac635e",
+    "title": "Classical double copy at null infinity",
+    "page": "105007",
+    "year": 2022,
+    "volume": "39",
+    "issue": "10"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac61ae",
+    "title": "Traversable wormhole on the brane with non-exotic matter: a broader view",
+    "page": "105004",
+    "year": 2022,
+    "volume": "39",
+    "issue": "10"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac647a",
+    "title": "A new design for testing the gravitational inverse-square law at the sub-millimeter range with a 32-fold symmetric attractor",
+    "page": "105008",
+    "year": 2022,
+    "volume": "39",
+    "issue": "10"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac655c",
+    "title": "On almost Ehlers–Geren–Sachs theorems",
+    "page": "105006",
+    "year": 2022,
+    "volume": "39",
+    "issue": "10"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac60c3",
+    "title": "Möbius mirrors",
+    "page": "105003",
+    "year": 2022,
+    "volume": "39",
+    "issue": "10"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac655d",
+    "title": "Testing gravity with black hole shadow subrings",
+    "page": "105009",
+    "year": 2022,
+    "volume": "39",
+    "issue": "10"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac528b",
+    "title": "The peeling theorem with arbitrary cosmological constant",
+    "page": "10LT01",
+    "year": 2022,
+    "volume": "39",
+    "issue": "10"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac61ad",
+    "title": "Stability analysis of anisotropic Bianchi type-I cosmological model in teleparallel gravity",
+    "page": "105001",
+    "year": 2022,
+    "volume": "39",
+    "issue": "10"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac6410",
+    "title": "Applications of the close-limit approximation: horizonless compact objects and scalar fields",
+    "page": "105005",
+    "year": 2022,
+    "volume": "39",
+    "issue": "10"
+   }
+  ],
+  "V38I13": [
+   {
+    "doi": "10.1088/1361-6382/abfd84",
+    "title": "Interferometric visibility in curved spacetimes",
+    "page": "135007",
+    "year": 2021,
+    "volume": "38",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/abfaeb",
+    "title": "Graviton backreaction on the local cosmological expansion in slow-roll inflation",
+    "page": "135015",
+    "year": 2021,
+    "volume": "38",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac0238",
+    "title": "Uniqueness of extremal isolated horizons and their identification with horizons of all type D black holes*",
+    "page": "135032",
+    "year": 2021,
+    "volume": "38",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/abfd92",
+    "title": "Unified description of galactic dynamics and the cosmological constant",
+    "page": "135004",
+    "year": 2021,
+    "volume": "38",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/abf711",
+    "title": "A review on geometric formulations for classical field theory: the Bonzom–Livine model for gravity",
+    "page": "135012",
+    "year": 2021,
+    "volume": "38",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/abf412",
+    "title": "Approximate Killing symmetries in non-perturbative quantum gravity",
+    "page": "135009",
+    "year": 2021,
+    "volume": "38",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/abed61",
+    "title": "Projective and amplified symmetries in metric–affine theories",
+    "page": "135001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/abfebf",
+    "title": "Geometrically thick tori around compact objects with a quadrupole moment",
+    "page": "135002",
+    "year": 2021,
+    "volume": "38",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/abebef",
+    "title": "Multipolar particles in helically symmetric spacetimes",
+    "page": "135022",
+    "year": 2021,
+    "volume": "38",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/abfc29",
+    "title": "Source term method for binary neutron stars initial data",
+    "page": "135008",
+    "year": 2021,
+    "volume": "38",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac05d7",
+    "title": "Towards a geometrical interpretation of rainbow geometries",
+    "page": "135028",
+    "year": 2021,
+    "volume": "38",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/abfea4",
+    "title": "A new torsion balance for the search of long-range interactions coupling to baryon and lepton numbers",
+    "page": "137002",
+    "year": 2021,
+    "volume": "38",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/abf9b5",
+    "title": "DataVault: a data storage infrastructure for the Einstein Toolkit",
+    "page": "135016",
+    "year": 2021,
+    "volume": "38",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/abfd8f",
+    "title": "Generalized uncertainty principle with maximal observable momentum and no minimal length indeterminacy",
+    "page": "135005",
+    "year": 2021,
+    "volume": "38",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/abf899",
+    "title": "Inflationary magnetogenesis in the perturbative regime",
+    "page": "135018",
+    "year": 2021,
+    "volume": "38",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/abfd87",
+    "title": "Inhomogeneous Hubble diagram from vector K-mouflage",
+    "page": "134001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/abfed4",
+    "title": "Extending charged holographic Rényi entropy",
+    "page": "135024",
+    "year": 2021,
+    "volume": "38",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/abfed6",
+    "title": "Stability of small charged anti-de Sitter black holes in the Robin boundary",
+    "page": "135026",
+    "year": 2021,
+    "volume": "38",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/abfed5",
+    "title": "Thin shell collapse in Kiselev geometry",
+    "page": "135025",
+    "year": 2021,
+    "volume": "38",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/abfc2d",
+    "title": "Euclidean LQG dynamics: an electric shift in perspective",
+    "page": "135020",
+    "year": 2021,
+    "volume": "38",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/abf894",
+    "title": "On the stability and accuracy of the empirical interpolation method and gravitational wave surrogates",
+    "page": "135011",
+    "year": 2021,
+    "volume": "38",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/abfed3",
+    "title": "On the axisymmetric metric generated by a rotating perfect fluid with the vacuum boundary",
+    "page": "134002",
+    "year": 2021,
+    "volume": "38",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/abed2b",
+    "title": "A note on coarse graining and group representations",
+    "page": "137001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac03f8",
+    "title": "Loop quantum gravity boundary dynamics and\n                    <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                      <mml:mi>S</mml:mi>\n                      <mml:mi>L</mml:m",
+    "page": "135031",
+    "year": 2021,
+    "volume": "38",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/abf1c0",
+    "title": "A method for detecting continuous gravitational wave signals from an ensemble of known pulsars",
+    "page": "135021",
+    "year": 2021,
+    "volume": "38",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/abfea7",
+    "title": "Test of global monopole based alternative dark matter model from gravitational lensing studies",
+    "page": "135013",
+    "year": 2021,
+    "volume": "38",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/abfd86",
+    "title": "Fully pseudospectral solution of the conformally invariant wave equation on a Kerr background",
+    "page": "135006",
+    "year": 2021,
+    "volume": "38",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/abfd85",
+    "title": "LIGO detector characterization in the second and third observing runs",
+    "page": "135014",
+    "year": 2021,
+    "volume": "38",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac0589",
+    "title": "De Sitter space-times in entangled relativity",
+    "page": "137003",
+    "year": 2021,
+    "volume": "38",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/abf542",
+    "title": "On the geometry of Petrov type II spacetimes",
+    "page": "135023",
+    "year": 2021,
+    "volume": "38",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/abf895",
+    "title": "Testing the Einstein equivalence principle with two Earth-orbiting clocks",
+    "page": "135010",
+    "year": 2021,
+    "volume": "38",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac0456",
+    "title": "Bending of light and inhomogeneous Picard–Fuchs equation",
+    "page": "135030",
+    "year": 2021,
+    "volume": "38",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/abf9b4",
+    "title": "Comparison between fluid-gravity and membrane-gravity dualities for Einstein–Maxwell system",
+    "page": "135017",
+    "year": 2021,
+    "volume": "38",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/abfea5",
+    "title": "Non-relativistic geometry and the equivalence principle",
+    "page": "135003",
+    "year": 2021,
+    "volume": "38",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/abfd90",
+    "title": "Matter-antimatter asymmetry induced by non-linear electrodynamics",
+    "page": "135019",
+    "year": 2021,
+    "volume": "38",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac05d6",
+    "title": "On the conformal transformation between two anisotropic fluid spacetimes",
+    "page": "135029",
+    "year": 2021,
+    "volume": "38",
+    "issue": "13"
+   },
+   {
+    "doi": "10.1088/1361-6382/abfed7",
+    "title": "Classical and quantum exact solutions for a FRW in chiral like cosmology",
+    "page": "135027",
+    "year": 2021,
+    "volume": "38",
+    "issue": "13"
+   }
+  ],
+  "V38I3": [
+   {
+    "doi": "10.1088/1361-6382/abcc0c",
+    "title": "Reversing the null limit of the Szekeres metric",
+    "page": "035004",
+    "year": 2021,
+    "volume": "38",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1088/1361-6382/abcb0e",
+    "title": "Intrinsic time gravity, heat kernel regularization, and emergence of Einstein’s theory",
+    "page": "035007",
+    "year": 2021,
+    "volume": "38",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1088/1361-6382/abc18a",
+    "title": "Skew-symmetric endomorphisms in\n                    <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                      <mml:msup>\n                        <mml:mrow>\n                      ",
+    "page": "035005",
+    "year": 2021,
+    "volume": "38",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1088/1361-6382/abc524",
+    "title": "Is gravity the weakest force?",
+    "page": "035006",
+    "year": 2021,
+    "volume": "38",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1088/1361-6382/abce44",
+    "title": "Accretion disks around naked singularities",
+    "page": "035012",
+    "year": 2021,
+    "volume": "38",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1088/1361-6382/abcbdf",
+    "title": "A numerical stability analysis for the Einstein–Vlasov system",
+    "page": "035003",
+    "year": 2021,
+    "volume": "38",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1088/1361-6382/abcb0d",
+    "title": "Isotropic compact stars in 4\n                    <i>D</i>\n                    Einstein–Gauss–Bonnet gravity",
+    "page": "035002",
+    "year": 2021,
+    "volume": "38",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1088/1361-6382/abc6bb",
+    "title": "Non-oscillating power spectra in loop quantum cosmology",
+    "page": "035001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1088/1361-6382/abce45",
+    "title": "Event horizon wrinklification",
+    "page": "034002",
+    "year": 2021,
+    "volume": "38",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1088/1361-6382/abce46",
+    "title": "Scattering of axial gravitational wave pulses by monopole black holes and QNMs: a semianalytic approach",
+    "page": "035008",
+    "year": 2021,
+    "volume": "38",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1088/1361-6382/abccdd",
+    "title": "Beam propagation simulations for LISA in the presence of telescope aberrations",
+    "page": "035010",
+    "year": 2021,
+    "volume": "38",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1088/1361-6382/abc81a",
+    "title": "The near-boundary geometry of Einstein-vacuum asymptotically anti-de Sitter spacetimes",
+    "page": "034001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1088/1361-6382/abccde",
+    "title": "The distributional stress–energy quadrupole",
+    "page": "035011",
+    "year": 2021,
+    "volume": "38",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1088/1361-6382/abce47",
+    "title": "Reviving non-minimal Horndeski-like theories after GW170817: kinetic coupling corrected Einstein–Gauss–Bonnet inflation",
+    "page": "035013",
+    "year": 2021,
+    "volume": "38",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1088/1361-6382/abce48",
+    "title": "Rotating and charged Gauss–Bonnet BTZ black holes",
+    "page": "03LT01",
+    "year": 2021,
+    "volume": "38",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1088/1361-6382/aba58a",
+    "title": "Quantum field theory on global anti-de Sitter space-time with Robin boundary conditions",
+    "page": "035009",
+    "year": 2021,
+    "volume": "38",
+    "issue": "3"
+   }
+  ],
+  "V38I12": [
+   {
+    "doi": "10.1088/1361-6382/abeae4",
+    "title": "Light echos and coherent autocorrelations in a black hole spacetime",
+    "page": "125006",
+    "year": 2021,
+    "volume": "38",
+    "issue": "12"
+   },
+   {
+    "doi": "10.1088/1361-6382/abf97f",
+    "title": "Gravitational analog of the canonical acoustic black hole in Einstein–scalar–Gauss–Bonnet theory",
+    "page": "125002",
+    "year": 2021,
+    "volume": "38",
+    "issue": "12"
+   },
+   {
+    "doi": "10.1088/1361-6382/abf441",
+    "title": "LION: laser interferometer on the moon",
+    "page": "125008",
+    "year": 2021,
+    "volume": "38",
+    "issue": "12"
+   },
+   {
+    "doi": "10.1088/1361-6382/abf9b6",
+    "title": "Ehrenfest’s scheme and microstructure for regular-AdS black hole in the extended phase space",
+    "page": "125001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "12"
+   },
+   {
+    "doi": "10.1088/1361-6382/abfc2e",
+    "title": "Center-of-mass ambiguity for Bondi–Metzner–Sachs charges",
+    "page": "12LT01",
+    "year": 2021,
+    "volume": "38",
+    "issue": "12"
+   },
+   {
+    "doi": "10.1088/1361-6382/abe691",
+    "title": "Initial data and eccentricity reduction toolkit for binary black hole numerical relativity waveforms",
+    "page": "125007",
+    "year": 2021,
+    "volume": "38",
+    "issue": "12"
+   },
+   {
+    "doi": "10.1088/1361-6382/abf413",
+    "title": "Skew-symmetric endomorphisms in\n                    <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                      <mml:msup>\n                        <mml:mrow>\n                      ",
+    "page": "125009",
+    "year": 2021,
+    "volume": "38",
+    "issue": "12"
+   },
+   {
+    "doi": "10.1088/1361-6382/abf89b",
+    "title": "Quadratic and cubic spherically symmetric black holes in the modified teleparallel equivalent of general relativity: energy and thermodynamics",
+    "page": "125004",
+    "year": 2021,
+    "volume": "38",
+    "issue": "12"
+   },
+   {
+    "doi": "10.1088/1361-6382/abf89c",
+    "title": "Black hole inner horizon evaporation in semiclassical gravity",
+    "page": "125003",
+    "year": 2021,
+    "volume": "38",
+    "issue": "12"
+   },
+   {
+    "doi": "10.1088/1361-6382/abf1c8",
+    "title": "Canonical equivalence, quantization and anisotropic inflation in higher order theory of gravity",
+    "page": "125010",
+    "year": 2021,
+    "volume": "38",
+    "issue": "12"
+   },
+   {
+    "doi": "10.1088/1361-6382/abf89a",
+    "title": "Method for environmental noise estimation via injection tests for ground-based gravitational wave detectors",
+    "page": "125005",
+    "year": 2021,
+    "volume": "38",
+    "issue": "12"
+   }
+  ],
+  "V38I21": [
+   {
+    "doi": "10.1088/1361-6382/ac1cc9",
+    "title": "Gravity-Matter Feynman Rules for any Valence",
+    "page": "215003",
+    "year": 2021,
+    "volume": "38",
+    "issue": "21"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac27ed",
+    "title": "EHT tests of the strong-field regime of general relativity",
+    "page": "21LT01",
+    "year": 2021,
+    "volume": "38",
+    "issue": "21"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac2b0e",
+    "title": "Applying the Gibbs stability criterion to relativistic hydrodynamics",
+    "page": "21LT02",
+    "year": 2021,
+    "volume": "38",
+    "issue": "21"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac25de",
+    "title": "World quantum gravity: quantum test objects and Synge’s world function",
+    "page": "215001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "21"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac2721",
+    "title": "Reduced phase space approach to the\n                    <i>U</i>\n                    (1)\n                    <sup>3</sup>\n                    model for Euclidean quantum gravity",
+    "page": "215006",
+    "year": 2021,
+    "volume": "38",
+    "issue": "21"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac27ef",
+    "title": "Conformal rigidity from focusing",
+    "page": "215005",
+    "year": 2021,
+    "volume": "38",
+    "issue": "21"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac2b0d",
+    "title": "The Ponzano–Regge cylinder and propagator for 3d quantum gravity",
+    "page": "215009",
+    "year": 2021,
+    "volume": "38",
+    "issue": "21"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac213b",
+    "title": "Shadows of Lorentzian traversable wormholes",
+    "page": "215007",
+    "year": 2021,
+    "volume": "38",
+    "issue": "21"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac2270",
+    "title": "The electromagnetic field in gravitational wave interferometers\n                  <sup>*</sup>",
+    "page": "215004",
+    "year": 2021,
+    "volume": "38",
+    "issue": "21"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac27ec",
+    "title": "The strong CP problem, general covariance, and horizons",
+    "page": "215002",
+    "year": 2021,
+    "volume": "38",
+    "issue": "21"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac28e3",
+    "title": "Blowup of the local energy of linear waves at the Reissner–Nordström–AdS Cauchy horizon",
+    "page": "214001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "21"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1be6",
+    "title": "Galaxy number counts at second order in perturbation theory: a leading-order term comparison",
+    "page": "215008",
+    "year": 2021,
+    "volume": "38",
+    "issue": "21"
+   }
+  ],
+  "V39I11": [
+   {
+    "doi": "10.1088/1361-6382/ac68c9",
+    "title": "Non-gravitational force measurement and correction by a precision inertial sensor of TianQin-1 satellite",
+    "page": "115005",
+    "year": 2022,
+    "volume": "39",
+    "issue": "11"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac6a9e",
+    "title": "Generalized geodesic deviation in de Sitter spacetime",
+    "page": "115006",
+    "year": 2022,
+    "volume": "39",
+    "issue": "11"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac66b7",
+    "title": "The Penrose property with a cosmological constant",
+    "page": "115002",
+    "year": 2022,
+    "volume": "39",
+    "issue": "11"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac6479",
+    "title": "Non-isothermal squeeze film damping in the test of gravitational inverse-square law",
+    "page": "115004",
+    "year": 2022,
+    "volume": "39",
+    "issue": "11"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac69a3",
+    "title": "Closing a spontaneous-scalarization window with binary pulsars",
+    "page": "11LT01",
+    "year": 2022,
+    "volume": "39",
+    "issue": "11"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac5fbf",
+    "title": "A perturbative analysis of interacting scalar field cosmologies",
+    "page": "115003",
+    "year": 2022,
+    "volume": "39",
+    "issue": "11"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac6b77",
+    "title": "The Einstein equations and multipole moments at null infinity",
+    "page": "115013",
+    "year": 2022,
+    "volume": "39",
+    "issue": "11"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac655e",
+    "title": "The accidental flatness constraint does not mean a wrong classical limit",
+    "page": "117001",
+    "year": 2022,
+    "volume": "39",
+    "issue": "11"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac69a4",
+    "title": "Arm locking performance with the new LISA design",
+    "page": "115009",
+    "year": 2022,
+    "volume": "39",
+    "issue": "11"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac6a39",
+    "title": "Emergence of space and expansion of Universe",
+    "page": "115012",
+    "year": 2022,
+    "volume": "39",
+    "issue": "11"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac6133",
+    "title": "Laplacian on fuzzy de Sitter space",
+    "page": "115001",
+    "year": 2022,
+    "volume": "39",
+    "issue": "11"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac6a9d",
+    "title": "Measurement of the stray light in the Advanced Virgo input mode cleaner cavity using an instrumented baffle",
+    "page": "115011",
+    "year": 2022,
+    "volume": "39",
+    "issue": "11"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac5ba0",
+    "title": "The quadrupole moment of compact binaries to the fourth post-Newtonian order: II. Dimensional regularization and renormalization",
+    "page": "115008",
+    "year": 2022,
+    "volume": "39",
+    "issue": "11"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac5054",
+    "title": "Energy scales and black hole pseudospectra: the structural role of the scalar product",
+    "page": "115010",
+    "year": 2022,
+    "volume": "39",
+    "issue": "11"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac5762",
+    "title": "The quadrupole moment of compact binaries to the fourth post-Newtonian order: I. Non-locality in time and infra-red divergencies",
+    "page": "115007",
+    "year": 2022,
+    "volume": "39",
+    "issue": "11"
+   }
+  ],
+  "V38I6": [
+   {
+    "doi": "10.1088/1361-6382/abd95b",
+    "title": "Investigation of circular geodesics in a rotating charged black hole in the presence of perfect fluid dark matter",
+    "page": "065015",
+    "year": 2021,
+    "volume": "38",
+    "issue": "6"
+   },
+   {
+    "doi": "10.1088/1361-6382/abd7c1",
+    "title": "Linearizing a non-linear formulation for general relativistic dissipative fluids",
+    "page": "065009",
+    "year": 2021,
+    "volume": "38",
+    "issue": "6"
+   },
+   {
+    "doi": "10.1088/1361-6382/abdf29",
+    "title": "Symmetry restriction and its application to gravity",
+    "page": "065013",
+    "year": 2021,
+    "volume": "38",
+    "issue": "6"
+   },
+   {
+    "doi": "10.1088/1361-6382/abe49a",
+    "title": "Future attractors of Bianchi types II and V cosmologies with massless Vlasov matter",
+    "page": "065019",
+    "year": 2021,
+    "volume": "38",
+    "issue": "6"
+   },
+   {
+    "doi": "10.1088/1361-6382/abd680",
+    "title": "Quantum stability of generalized Proca theories",
+    "page": "065001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "6"
+   },
+   {
+    "doi": "10.1088/1361-6382/abe42e",
+    "title": "Compact sources and cosmological horizons in lower dimensional bootstrapped Newtonian gravity",
+    "page": "065020",
+    "year": 2021,
+    "volume": "38",
+    "issue": "6"
+   },
+   {
+    "doi": "10.1088/1361-6382/abd95c",
+    "title": "Galaxy number counts at second order: an independent approach",
+    "page": "065014",
+    "year": 2021,
+    "volume": "38",
+    "issue": "6"
+   },
+   {
+    "doi": "10.1088/1361-6382/abe4f0",
+    "title": "Inquiring the Unruh–DeWitt detector about the global property of spacetime",
+    "page": "065017",
+    "year": 2021,
+    "volume": "38",
+    "issue": "6"
+   },
+   {
+    "doi": "10.1088/1361-6382/abd7bf",
+    "title": "Bayesian reconstruction of gravitational-wave signals from binary black holes with nonzero eccentricities",
+    "page": "065002",
+    "year": 2021,
+    "volume": "38",
+    "issue": "6"
+   },
+   {
+    "doi": "10.1088/1361-6382/abd7c0",
+    "title": "Einstein Poisson warped product space",
+    "page": "065004",
+    "year": 2021,
+    "volume": "38",
+    "issue": "6"
+   },
+   {
+    "doi": "10.1088/1361-6382/abe1fe",
+    "title": "The endpoint theorem\n                    <sup>*</sup>",
+    "page": "065012",
+    "year": 2021,
+    "volume": "38",
+    "issue": "6"
+   },
+   {
+    "doi": "10.1088/1361-6382/abe2dc",
+    "title": "On quantum determinants in integrable quantum gravity",
+    "page": "065021",
+    "year": 2021,
+    "volume": "38",
+    "issue": "6"
+   },
+   {
+    "doi": "10.1088/1361-6382/abda63",
+    "title": "Spherically symmetric linear perturbations of electrically counterpoised dust",
+    "page": "065007",
+    "year": 2021,
+    "volume": "38",
+    "issue": "6"
+   },
+   {
+    "doi": "10.1088/1361-6382/abd860",
+    "title": "High spin expansion for null geodesics",
+    "page": "065008",
+    "year": 2021,
+    "volume": "38",
+    "issue": "6"
+   },
+   {
+    "doi": "10.1088/1361-6382/abc521",
+    "title": "Large scale anomalies in the CMB and non-Gaussianity in bouncing cosmologies",
+    "page": "065010",
+    "year": 2021,
+    "volume": "38",
+    "issue": "6"
+   },
+   {
+    "doi": "10.1088/1361-6382/abda01",
+    "title": "Hamiltonian formalism of the ghost free tri(-multi)gravity theory",
+    "page": "065006",
+    "year": 2021,
+    "volume": "38",
+    "issue": "6"
+   },
+   {
+    "doi": "10.1088/1361-6382/abd95d",
+    "title": "Quantum creation of a toy Universe without inflation",
+    "page": "065016",
+    "year": 2021,
+    "volume": "38",
+    "issue": "6"
+   },
+   {
+    "doi": "10.1088/1361-6382/abd7c2",
+    "title": "Lessons from conformally reduced quantum gravity",
+    "page": "065003",
+    "year": 2021,
+    "volume": "38",
+    "issue": "6"
+   },
+   {
+    "doi": "10.1088/1361-6382/abd25f",
+    "title": "Riemann–Cartan gravitational and axial anomalies in electrodynamics and black holes",
+    "page": "065005",
+    "year": 2021,
+    "volume": "38",
+    "issue": "6"
+   },
+   {
+    "doi": "10.1088/1361-6382/abd922",
+    "title": "Vibration isolation systems for the beam splitter and signal recycling mirrors of the KAGRA gravitational wave detector",
+    "page": "065011",
+    "year": 2021,
+    "volume": "38",
+    "issue": "6"
+   },
+   {
+    "doi": "10.1088/1361-6382/abd95a",
+    "title": "Strong gravity effects of charged\n                    <i>Q</i>\n                    -clouds and inflating black holes",
+    "page": "06LT01",
+    "year": 2021,
+    "volume": "38",
+    "issue": "6"
+   },
+   {
+    "doi": "10.1088/1361-6382/abdaf4",
+    "title": "Dimension of the isometry group in three-dimensional Riemannian spaces",
+    "page": "067001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "6"
+   },
+   {
+    "doi": "10.1088/1361-6382/abe4ef",
+    "title": "All conformally flat Einstein–Gauss–Bonnet static metrics",
+    "page": "065018",
+    "year": 2021,
+    "volume": "38",
+    "issue": "6"
+   }
+  ],
+  "V39I6": [
+   {
+    "doi": "10.1088/1361-6382/ac4b96",
+    "title": "Hilbert spaces built over metrics of fixed signature",
+    "page": "065003",
+    "year": 2022,
+    "volume": "39",
+    "issue": "6"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac482b",
+    "title": "Failure of the split property in gravity and the information paradox",
+    "page": "064002",
+    "year": 2022,
+    "volume": "39",
+    "issue": "6"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac4b97",
+    "title": "Late time cosmology in \n\t    \n\t    <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                     <mml:mi>f</mml:mi>\n                     <mml:mrow>\n                        <mml:mo>(</",
+    "page": "065006",
+    "year": 2022,
+    "volume": "39",
+    "issue": "6"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac5011",
+    "title": "Numerical confirmations of joint spike transitions in <i>G</i>\n                  <sub>2</sub> cosmologies",
+    "page": "065001",
+    "year": 2022,
+    "volume": "39",
+    "issue": "6"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac500a",
+    "title": "The 4D Einstein–Gauss–Bonnet theory of gravity: a review",
+    "page": "063001",
+    "year": 2022,
+    "volume": "39",
+    "issue": "6"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac4b9b",
+    "title": "Self-interactions can stabilize excited boson stars",
+    "page": "064001",
+    "year": 2022,
+    "volume": "39",
+    "issue": "6"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac4b04",
+    "title": "Complex, Lorentzian, and Euclidean simplicial quantum gravity: numerical methods and physical prospects",
+    "page": "065002",
+    "year": 2022,
+    "volume": "39",
+    "issue": "6"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac4ae2",
+    "title": "Lie theory for asymptotic symmetries in general relativity: The BMS group",
+    "page": "065004",
+    "year": 2022,
+    "volume": "39",
+    "issue": "6"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac4fbb",
+    "title": "Exactly solvable 2D model for photon propagation in curved space: loss of interference and Bell inequality violation",
+    "page": "065005",
+    "year": 2022,
+    "volume": "39",
+    "issue": "6"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac5009",
+    "title": "Low regularity extensions beyond Cauchy horizons",
+    "page": "065007",
+    "year": 2022,
+    "volume": "39",
+    "issue": "6"
+   }
+  ],
+  "V39I21": [
+   {
+    "doi": "10.1088/1361-6382/ac92b7",
+    "title": "Low coherency of wind induced seismic noise: implications for gravitational wave detection",
+    "page": "215015",
+    "year": 2022,
+    "volume": "39",
+    "issue": "21"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac8f0e",
+    "title": "Notes on peculiarities of quantum fields in space–times with horizons",
+    "page": "217001",
+    "year": 2022,
+    "volume": "39",
+    "issue": "21"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac9107",
+    "title": "Fundamental asymmetry between space and time in quantum field theory",
+    "page": "215010",
+    "year": 2022,
+    "volume": "39",
+    "issue": "21"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac90aa",
+    "title": "Intertwiner entanglement excitation and holonomy operator",
+    "page": "215013",
+    "year": 2022,
+    "volume": "39",
+    "issue": "21"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac89c5",
+    "title": "Peeling in generalized harmonic gauge",
+    "page": "215003",
+    "year": 2022,
+    "volume": "39",
+    "issue": "21"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac8fdc",
+    "title": "Axion wormholes with massive dilaton",
+    "page": "215014",
+    "year": 2022,
+    "volume": "39",
+    "issue": "21"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac9724",
+    "title": "Large gauge transformations, local coordinates and cosmological observables",
+    "page": "217003",
+    "year": 2022,
+    "volume": "39",
+    "issue": "21"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac8fda",
+    "title": "Novel features of Schwarzschild-like black hole of Lorentz violating bumblebee gravity",
+    "page": "215006",
+    "year": 2022,
+    "volume": "39",
+    "issue": "21"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac8cca",
+    "title": "The general static spherical solution with EoS parameter <i>w</i> = −1/5",
+    "page": "215002",
+    "year": 2022,
+    "volume": "39",
+    "issue": "21"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac902f",
+    "title": "Conformally Schwarzschild cosmological black holes",
+    "page": "215011",
+    "year": 2022,
+    "volume": "39",
+    "issue": "21"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac635f",
+    "title": "Carrollian manifolds and null infinity: a view from Cartan geometry",
+    "page": "215005",
+    "year": 2022,
+    "volume": "39",
+    "issue": "21"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac8ddc",
+    "title": "Pseudospectrum and binary black hole merger transients",
+    "page": "217002",
+    "year": 2022,
+    "volume": "39",
+    "issue": "21"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac8ddb",
+    "title": "Does relativistic cosmology software handle emergent volume evolution?",
+    "page": "215007",
+    "year": 2022,
+    "volume": "39",
+    "issue": "21"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac9108",
+    "title": "Kaluza–Klein reductions of maximally supersymmetric five-dimensional Lorentzian spacetimes",
+    "page": "215009",
+    "year": 2022,
+    "volume": "39",
+    "issue": "21"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac9723",
+    "title": "Dynamics of a nonminimally coupled scalar field in asymptotically <i>AdS</i>\n                  <sub>4</sub> spacetime",
+    "page": "215018",
+    "year": 2022,
+    "volume": "39",
+    "issue": "21"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac9725",
+    "title": "Pure shape dynamics: general framework",
+    "page": "215017",
+    "year": 2022,
+    "volume": "39",
+    "issue": "21"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac8862",
+    "title": "Establishing significance of gravitational-wave signals from a single observatory in the PyCBC offline search",
+    "page": "215012",
+    "year": 2022,
+    "volume": "39",
+    "issue": "21"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac8d43",
+    "title": "Holography of the photon ring",
+    "page": "215001",
+    "year": 2022,
+    "volume": "39",
+    "issue": "21"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac88af",
+    "title": "On constraint preservation and strong hyperbolicity",
+    "page": "215004",
+    "year": 2022,
+    "volume": "39",
+    "issue": "21"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac8fdb",
+    "title": "ETpathfinder: a cryogenic testbed for interferometric gravitational-wave detectors",
+    "page": "215008",
+    "year": 2022,
+    "volume": "39",
+    "issue": "21"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac8d42",
+    "title": "Corrigendum: Maximal Kerr–de Sitter spacetimes (2018 <i>Class. Quantum Grav.</i>\n               \n                  <b>35</b> 215006)",
+    "page": "219501",
+    "year": 2022,
+    "volume": "39",
+    "issue": "21"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac902e",
+    "title": "Structure formation in the effective field theory of holographic dark energy",
+    "page": "215016",
+    "year": 2022,
+    "volume": "39",
+    "issue": "21"
+   }
+  ],
+  "V39I9": [
+   {
+    "doi": "10.1088/1361-6382/ac5eb9",
+    "title": "Role of the remnant symmetries in gravitational theories based on absolute parallelism: a 2D standpoint",
+    "page": "095003",
+    "year": 2022,
+    "volume": "39",
+    "issue": "9"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac5eb8",
+    "title": "Correspondences of matter field fluctuations in semiclassical and classical gravity in the decoherence limit",
+    "page": "095004",
+    "year": 2022,
+    "volume": "39",
+    "issue": "9"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac5fc1",
+    "title": "Study of correlations between seismic data and Virgo’s gravitational-wave detector data",
+    "page": "095009",
+    "year": 2022,
+    "volume": "39",
+    "issue": "9"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac6057",
+    "title": "Addendum: A note on spin two fields in curved backgrounds (2007 Class. Quantum Grav. \n               \n                  24 1683)",
+    "page": "099401",
+    "year": 2022,
+    "volume": "39",
+    "issue": "9"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac3e75",
+    "title": "Finding pythons in unexpected places",
+    "page": "094002",
+    "year": 2022,
+    "volume": "39",
+    "issue": "9"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac5fc3",
+    "title": "The momentum constraint equation in parameterised post-Newtonian cosmology",
+    "page": "095005",
+    "year": 2022,
+    "volume": "39",
+    "issue": "9"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac5eba",
+    "title": "Bottom-up reconstruction of viable GW170817 compatible Einstein–Gauss–Bonnet theories",
+    "page": "095008",
+    "year": 2022,
+    "volume": "39",
+    "issue": "9"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac5fc2",
+    "title": "Extreme <i>ℓ</i>-boson stars",
+    "page": "094001",
+    "year": 2022,
+    "volume": "39",
+    "issue": "9"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac5d17",
+    "title": "The orbital evolution and gravitational waves of OJ 287 in the 4th post-Newtonian order",
+    "page": "095007",
+    "year": 2022,
+    "volume": "39",
+    "issue": "9"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac5922",
+    "title": "Embedding causal sets into Minkowski spacetime",
+    "page": "095006",
+    "year": 2022,
+    "volume": "39",
+    "issue": "9"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac5d88",
+    "title": "Self-force effects in post-Minkowskian scattering",
+    "page": "095001",
+    "year": 2022,
+    "volume": "39",
+    "issue": "9"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac6058",
+    "title": "The full quadratic metric-affine gravity (including parity odd terms): exact solutions for the affine-connection",
+    "page": "095002",
+    "year": 2022,
+    "volume": "39",
+    "issue": "9"
+   }
+  ],
+  "V38I4": [
+   {
+    "doi": "10.1088/1361-6382/abd144",
+    "title": "Sparsity of Hawking radiation in\n                    <i>D</i>\n                    + 1 space-time dimensions for massless and massive particles",
+    "page": "047002",
+    "year": 2021,
+    "volume": "38",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1088/1361-6382/abcf86",
+    "title": "Dynamics in wormhole spacetimes: a Jacobi metric approach",
+    "page": "045004",
+    "year": 2021,
+    "volume": "38",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1088/1361-6382/abcfd2",
+    "title": "A fixed point for black hole distributions",
+    "page": "045012",
+    "year": 2021,
+    "volume": "38",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1088/1361-6382/abcf87",
+    "title": "The null and force-free electromagnetic field",
+    "page": "045011",
+    "year": 2021,
+    "volume": "38",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1088/1361-6382/abd141",
+    "title": "Geometry of AdS-Melvin spacetimes",
+    "page": "045016",
+    "year": 2021,
+    "volume": "38",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1088/1361-6382/abd3e2",
+    "title": "Black hole collapse and bounce in effective loop quantum gravity",
+    "page": "04LT01",
+    "year": 2021,
+    "volume": "38",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1088/1361-6382/abd146",
+    "title": "BGV theorem, geodesic deviation, and quantum fluctuations",
+    "page": "045006",
+    "year": 2021,
+    "volume": "38",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1088/1361-6382/abd09f",
+    "title": "Oscillon preheating in full general relativity",
+    "page": "045005",
+    "year": 2021,
+    "volume": "38",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1088/1361-6382/abd302",
+    "title": "Massive particles in the Einstein–Lovelock–anti-de Sitter black hole spacetime",
+    "page": "045015",
+    "year": 2021,
+    "volume": "38",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1088/1361-6382/abce6a",
+    "title": "On the value of the Immirzi parameter and the horizon entropy",
+    "page": "045001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1088/1361-6382/abd2ff",
+    "title": "Evolution of growth density equation by constraints on effective Newtonian constant\n                    <i>G</i>\n                    <sub>eff</sub>",
+    "page": "045008",
+    "year": 2021,
+    "volume": "38",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1088/1361-6382/abcfd0",
+    "title": "More of the bulk from extremal area variations",
+    "page": "047001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1088/1361-6382/abd145",
+    "title": "Self-dual Einstein spaces and the general heavenly equation. Eigenfunctions as coordinates",
+    "page": "045007",
+    "year": 2021,
+    "volume": "38",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1088/1361-6382/abce49",
+    "title": "Resonant gravitational waves in dynamical Chern–Simons–axion gravity",
+    "page": "045010",
+    "year": 2021,
+    "volume": "38",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1088/1361-6382/abce6c",
+    "title": "Light bending in a two black hole metric",
+    "page": "045003",
+    "year": 2021,
+    "volume": "38",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1088/1361-6382/abd300",
+    "title": "Entropy and the link action in the causal set path-sum",
+    "page": "045017",
+    "year": 2021,
+    "volume": "38",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1088/1361-6382/abd142",
+    "title": "Low-energy electromagnetic processes affecting free-falling test-mass charging for LISA and future space interferometers",
+    "page": "045013",
+    "year": 2021,
+    "volume": "38",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1088/1361-6382/abcaeb",
+    "title": "ISCOs in AdS/CFT",
+    "page": "045009",
+    "year": 2021,
+    "volume": "38",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1088/1361-6382/abd3e0",
+    "title": "Null hypersurfaces in Kerr–Newman–AdS black hole and super-entropic black hole spacetimes",
+    "page": "045018",
+    "year": 2021,
+    "volume": "38",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1088/1361-6382/abce6b",
+    "title": "Determination of the light exposure on the photodiodes of a new instrumented baffle for the Virgo input mode cleaner end-mirror",
+    "page": "045002",
+    "year": 2021,
+    "volume": "38",
+    "issue": "4"
+   },
+   {
+    "doi": "10.1088/1361-6382/abd143",
+    "title": "Double layer from least action principle",
+    "page": "045014",
+    "year": 2021,
+    "volume": "38",
+    "issue": "4"
+   }
+  ],
+  "V39I18": [
+   {
+    "doi": "10.1088/1361-6382/ac8780",
+    "title": "Optimal sensor fusion method for active vibration isolation systems in ground-based gravitational-wave detectors",
+    "page": "185007",
+    "year": 2022,
+    "volume": "39",
+    "issue": "18"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac851a",
+    "title": "Gravitational entropy in Szekeres class I models",
+    "page": "185005",
+    "year": 2022,
+    "volume": "39",
+    "issue": "18"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac851b",
+    "title": "Weak gravitational field effects on Bell tests with massive particles",
+    "page": "185003",
+    "year": 2022,
+    "volume": "39",
+    "issue": "18"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac750b",
+    "title": "Thermodynamics of black string from Rényi entropy in de Rham–Gabadadze–Tolley massive gravity theory",
+    "page": "185006",
+    "year": 2022,
+    "volume": "39",
+    "issue": "18"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac79f4",
+    "title": "Stability and causality of Carter’s multifluid theory",
+    "page": "185008",
+    "year": 2022,
+    "volume": "39",
+    "issue": "18"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac8636",
+    "title": "On generally covariant mathematical formulation of Feynman integral in Lorentz signature",
+    "page": "185004",
+    "year": 2022,
+    "volume": "39",
+    "issue": "18"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac82a2",
+    "title": "The origin of Weyl gauging in metric-affine theories",
+    "page": "185001",
+    "year": 2022,
+    "volume": "39",
+    "issue": "18"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac8266",
+    "title": "Bronnikov-like wormholes in Einstein-scalar gravity",
+    "page": "185009",
+    "year": 2022,
+    "volume": "39",
+    "issue": "18"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac8635",
+    "title": "A void in the Hubble tension? The end of the line for the Hubble bubble",
+    "page": "184001",
+    "year": 2022,
+    "volume": "39",
+    "issue": "18"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac8267",
+    "title": "Phantom scalar field counterpart to Curzon–Chazy spacetime",
+    "page": "185002",
+    "year": 2022,
+    "volume": "39",
+    "issue": "18"
+   }
+  ],
+  "V39I3": [
+   {
+    "doi": "10.1088/1361-6382/ac35ed",
+    "title": "Phenomenological dark energy model with hybrid dynamic cosmological constant",
+    "page": "035010",
+    "year": 2022,
+    "volume": "39",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac41e7",
+    "title": "ECO-spotting: looking for extremely compact objects with bosonic fields",
+    "page": "034001",
+    "year": 2022,
+    "volume": "39",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac40e6",
+    "title": "Domain wall between the Dirac sea and the ‘anti-Dirac sea’",
+    "page": "038001",
+    "year": 2022,
+    "volume": "39",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac42ad",
+    "title": "Lorentzian quantum cosmology goes simplicial",
+    "page": "035012",
+    "year": 2022,
+    "volume": "39",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac44a0",
+    "title": "Improved effective dynamics of loop-quantum-gravity black hole and Nariai limit",
+    "page": "035011",
+    "year": 2022,
+    "volume": "39",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac4196",
+    "title": "Post-Newtonian gravitational and scalar waves in scalar-Gauss–Bonnet gravity",
+    "page": "035002",
+    "year": 2022,
+    "volume": "39",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac43d2",
+    "title": "Particle motion in circularly polarized vacuum pp waves",
+    "page": "035008",
+    "year": 2022,
+    "volume": "39",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac43d4",
+    "title": "Matter coupling in minimal massive 3D gravity and spinor-matter interactions in exterior algebra formalism",
+    "page": "035006",
+    "year": 2022,
+    "volume": "39",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac45d9",
+    "title": "Inferring the gravitational binding energy and moment of inertia of PSR J0030 <b>+</b> 0451 and PSR J0740 <b>+</b> 6620 from new universal relations",
+    "page": "035014",
+    "year": 2022,
+    "volume": "39",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac4118",
+    "title": "Constraining the number of horizons with energy conditions",
+    "page": "035005",
+    "year": 2022,
+    "volume": "39",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac4617",
+    "title": "Corrigendum: A classification of local Weyl invariants in <i>D</i>  \n               <b>=</b>  8, (2004 <i>Class. Quantum Grav.</i> \n               21 4305–16)",
+    "page": "039501",
+    "year": 2022,
+    "volume": "39",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac43d3",
+    "title": "Cauchy and Goursat problems for the generalized spin zero rest-mass equations on Minkowski spacetime",
+    "page": "035007",
+    "year": 2022,
+    "volume": "39",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac42e7",
+    "title": "Global propagation of massive quantum fields in the plane gravitational waves and electromagnetic backgrounds",
+    "page": "035003",
+    "year": 2022,
+    "volume": "39",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac4117",
+    "title": "Daily monitoring of scattered light noise due to microseismic variability at the Virgo interferometer",
+    "page": "035001",
+    "year": 2022,
+    "volume": "39",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac4615",
+    "title": "Time-space duality in 2D quantum gravity",
+    "page": "035016",
+    "year": 2022,
+    "volume": "39",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac45dc",
+    "title": "Darmois matching and <i>C</i>\n                  <sup>3</sup> matching",
+    "page": "035015",
+    "year": 2022,
+    "volume": "39",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac4380",
+    "title": "Hamiltonian analysis and positivity of a new massive spin-2 model",
+    "page": "035013",
+    "year": 2022,
+    "volume": "39",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac4197",
+    "title": "Spacetime entanglement entropy of de Sitter and black hole horizons",
+    "page": "035004",
+    "year": 2022,
+    "volume": "39",
+    "issue": "3"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac4119",
+    "title": "A higher-multipole gravitational waveform model for an eccentric binary black holes based on the effective-one-body-numerical-relativity formalism",
+    "page": "035009",
+    "year": 2022,
+    "volume": "39",
+    "issue": "3"
+   }
+  ],
+  "V38I19": [
+   {
+    "doi": "10.1088/1361-6382/ac1b44",
+    "title": "Effective spin foam models for Lorentzian quantum gravity",
+    "page": "195002",
+    "year": 2021,
+    "volume": "38",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1fd2",
+    "title": "Evaporation of four-dimensional dynamical black holes sourced by the quantum trace anomaly",
+    "page": "195022",
+    "year": 2021,
+    "volume": "38",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1be5",
+    "title": "Junction conditions for composite matter in higher dimensions",
+    "page": "195006",
+    "year": 2021,
+    "volume": "38",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1be3",
+    "title": "The non-linear perturbation of a black hole by gravitational waves. I. The Bondi–Sachs mass loss",
+    "page": "194002",
+    "year": 2021,
+    "volume": "38",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1be7",
+    "title": "Chaos in a generalized Euler’s three-body problem",
+    "page": "195009",
+    "year": 2021,
+    "volume": "38",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1be2",
+    "title": "Analysis on the coupling effect of wavefront distortion and pointing misalignment in space laser interferometry",
+    "page": "195010",
+    "year": 2021,
+    "volume": "38",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1ccb",
+    "title": "Discovering features in gravitational-wave data through detector characterization, citizen science and machine learning",
+    "page": "195016",
+    "year": 2021,
+    "volume": "38",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac2137",
+    "title": "Thermodynamics and phase transitions of black holes in contact with a gravitating heat bath",
+    "page": "195026",
+    "year": 2021,
+    "volume": "38",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac2135",
+    "title": "Scalar fields in causal dynamical triangulations",
+    "page": "195030",
+    "year": 2021,
+    "volume": "38",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac13b7",
+    "title": "Uniqueness of supersymmetric AdS\n                    <sub>5</sub>\n                    black holes with\n                    <i>SU</i>\n                    (2) symmetry",
+    "page": "195019",
+    "year": 2021,
+    "volume": "38",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1900",
+    "title": "Nonsingular bouncing cosmology in general relativity: physical analysis of the spacetime defect",
+    "page": "195007",
+    "year": 2021,
+    "volume": "38",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1be9",
+    "title": "Inertial and gravitational effects on a geonium atom",
+    "page": "195015",
+    "year": 2021,
+    "volume": "38",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac2134",
+    "title": "A violation of global symmetries from replica wormholes and the fate of black hole remnants",
+    "page": "194004",
+    "year": 2021,
+    "volume": "38",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1b49",
+    "title": "Tachyonic vs quintessence dark energy: linear perturbations and CMB data",
+    "page": "195001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac2168",
+    "title": "A refined Einstein–Gauss–Bonnet inflationary theoretical framework",
+    "page": "195025",
+    "year": 2021,
+    "volume": "38",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac2139",
+    "title": "Global first laws of accelerating black holes",
+    "page": "195024",
+    "year": 2021,
+    "volume": "38",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1c1e",
+    "title": "On massive spin-\n                    <sup>3</sup>\n                    /\n                    <sub>2</sub>\n                    in the Fradkin–Vasiliev formalism",
+    "page": "195012",
+    "year": 2021,
+    "volume": "38",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac2133",
+    "title": "Linear perturbations of the Linet–Tian metrics with a positive cosmological constant",
+    "page": "195027",
+    "year": 2021,
+    "volume": "38",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1e70",
+    "title": "Properties of the Rovelli–Smolin–DePietri volume operator in the spaces of monochromatic intertwiners",
+    "page": "195023",
+    "year": 2021,
+    "volume": "38",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1cca",
+    "title": "Imprints from a Riemann–Cartan space-time on the energy levels of Dirac spinors",
+    "page": "195008",
+    "year": 2021,
+    "volume": "38",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1871",
+    "title": "New currents with Killing–Yano tensors",
+    "page": "195011",
+    "year": 2021,
+    "volume": "38",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/abff9c",
+    "title": "Differential invariants of Kundt spacetimes",
+    "page": "195017",
+    "year": 2021,
+    "volume": "38",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1b45",
+    "title": "A stabilization mechanism for excited fermion–boson stars",
+    "page": "194001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac2136",
+    "title": "Issues of Lorentz-invariance in\n                    <i>f</i>\n                    (\n                    <i>T</i>\n                    ) gravity and calculations for spherically symmetric solutions",
+    "page": "197001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1b06",
+    "title": "Exploration of co-sputtered Ta<sub>2</sub>O<sub>5</sub>–ZrO<sub>2</sub> thin films for gravitational-wave detectors",
+    "page": "195021",
+    "year": 2021,
+    "volume": "38",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1fd0",
+    "title": "Boson stars in Palatini\n                    <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                      <mml:mi>f</mml:mi>\n                      <mml:mrow>\n                        ",
+    "page": "194003",
+    "year": 2021,
+    "volume": "38",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac213a",
+    "title": "Riemann tensor and Gauss–Bonnet density in metric-affine cosmology",
+    "page": "195028",
+    "year": 2021,
+    "volume": "38",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1b47",
+    "title": "Interaction rates in cosmology: heavy particle production and scattering",
+    "page": "195014",
+    "year": 2021,
+    "volume": "38",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1cf8",
+    "title": "Separability, plane wave limits and rotating black holes",
+    "page": "195018",
+    "year": 2021,
+    "volume": "38",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1b08",
+    "title": "Weakly coupled local particle detectors cannot harvest entanglement",
+    "page": "195029",
+    "year": 2021,
+    "volume": "38",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1be8",
+    "title": "Investigation on the thermal property of a hydroxide catalysis bonded cryogenic cavity",
+    "page": "195005",
+    "year": 2021,
+    "volume": "38",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1b48",
+    "title": "Melvin’s ‘magnetic universe’, the role of the magnetic tension and the implications for gravitational collapse",
+    "page": "195020",
+    "year": 2021,
+    "volume": "38",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1a69",
+    "title": "New binary pulsar constraints on Einstein-æther theory after GW170817",
+    "page": "195003",
+    "year": 2021,
+    "volume": "38",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1a67",
+    "title": "Experimental investigation of the limitations of polarisation optics for future gravitational wave detectors based on the polarisation Sagnac speedmeter",
+    "page": "195004",
+    "year": 2021,
+    "volume": "38",
+    "issue": "19"
+   },
+   {
+    "doi": "10.1088/1361-6382/abff9d",
+    "title": "Mean curvature of spacelike submanifolds in a Brinkmann spacetime",
+    "page": "195013",
+    "year": 2021,
+    "volume": "38",
+    "issue": "19"
+   }
+  ],
+  "V38I1": [
+   {
+    "doi": "10.1088/1361-6382/abc572",
+    "title": "Effective potential of scalar–tensor gravity",
+    "page": "015012",
+    "year": 2021,
+    "volume": "38",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1088/1361-6382/abc522",
+    "title": "Corrigendum: Diffeomorphism symmetry effect on the O(\n                    <i>N</i>\n                    ) universality class (2019\n                    <i>Class. Quantum Grav.</i>\n                    36",
+    "page": "019501",
+    "year": 2021,
+    "volume": "38",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1088/1361-6382/abc274",
+    "title": "On the continuum limit of Benincasa–Dowker–Glaser causal set action",
+    "page": "015010",
+    "year": 2021,
+    "volume": "38",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1088/1361-6382/abc189",
+    "title": "Acceleration of charged particles from near-extremal rotating black holes embedded in magnetic fields",
+    "page": "015007",
+    "year": 2021,
+    "volume": "38",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1088/1361-6382/abc3f6",
+    "title": "Fast frequency-domain effective fly-by waveforms",
+    "page": "015005",
+    "year": 2021,
+    "volume": "38",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1088/1361-6382/abc135",
+    "title": "The structure of covtree: searching for manifestly covariant causal set dynamics",
+    "page": "015001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1088/1361-6382/abc3f8",
+    "title": "Lorentzian spectral geometry with causal sets",
+    "page": "015011",
+    "year": 2021,
+    "volume": "38",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1088/1361-6382/abc6ba",
+    "title": "On the classical and quantum Geroch group",
+    "page": "015013",
+    "year": 2021,
+    "volume": "38",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1088/1361-6382/abc136",
+    "title": "Covariant Noether charges for type IIB and 11-dimensional supergravities",
+    "page": "015003",
+    "year": 2021,
+    "volume": "38",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1088/1361-6382/abc36e",
+    "title": "Accelerating the evaluation of inspiral–merger–ringdown waveforms with adapted grids",
+    "page": "015006",
+    "year": 2021,
+    "volume": "38",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1088/1361-6382/aba9ed",
+    "title": "Fiducial displacements with improved accuracy for the global network of gravitational wave detectors",
+    "page": "015009",
+    "year": 2021,
+    "volume": "38",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1088/1361-6382/abcca0",
+    "title": "Cosmic acceleration with torsion and non-metricity in Friedmann-like Universes",
+    "page": "015015",
+    "year": 2021,
+    "volume": "38",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1088/1361-6382/abcbe0",
+    "title": "Gravity with dynamical torsion",
+    "page": "015014",
+    "year": 2021,
+    "volume": "38",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1088/1361-6382/abc095",
+    "title": "Generalized scalar field cosmologies: a global dynamical systems formulation",
+    "page": "015004",
+    "year": 2021,
+    "volume": "38",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1088/1361-6382/abc223",
+    "title": "Shadows around the\n                    <i>q</i>\n                    -metric",
+    "page": "015008",
+    "year": 2021,
+    "volume": "38",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1088/1361-6382/abcaec",
+    "title": "Pancakes as opposed to Swiss cheese",
+    "page": "015016",
+    "year": 2021,
+    "volume": "38",
+    "issue": "1"
+   },
+   {
+    "doi": "10.1088/1361-6382/abbf2f",
+    "title": "On first order symmetry operators for the field equations of differential forms",
+    "page": "015002",
+    "year": 2021,
+    "volume": "38",
+    "issue": "1"
+   }
+  ],
+  "V39I7": [
+   {
+    "doi": "10.1088/1361-6382/ac571b",
+    "title": "Marginal tubes and foliations by marginal surfaces",
+    "page": "075025",
+    "year": 2022,
+    "volume": "39",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac5923",
+    "title": "High precision six-degree-of-freedom interferometer for test mass readout",
+    "page": "075024",
+    "year": 2022,
+    "volume": "39",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac50ec",
+    "title": "The cylinder amplitude in the hard dimer model on 2D causal dynamical triangulations",
+    "page": "075004",
+    "year": 2022,
+    "volume": "39",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac5377",
+    "title": "Gravity of two photon decay and its quantum coherence",
+    "page": "075015",
+    "year": 2022,
+    "volume": "39",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac566b",
+    "title": "A semiclassical singularity theorem",
+    "page": "075028",
+    "year": 2022,
+    "volume": "39",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac556a",
+    "title": "Quasiperiodic oscillations from noncommutative inspired black holes",
+    "page": "075021",
+    "year": 2022,
+    "volume": "39",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac595c",
+    "title": "Interferometric sensing of a commercial geophone",
+    "page": "075023",
+    "year": 2022,
+    "volume": "39",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac51bc",
+    "title": "Non-commutativity and non-inertial effects on a scalar field in a cosmic string space-time: II. Spin-zero Duffin–Kemmer–Petiau-like oscillator",
+    "page": "075007",
+    "year": 2022,
+    "volume": "39",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac5051",
+    "title": "A relativistic mass dipole gravitational theory and its connections with AQUAL",
+    "page": "075001",
+    "year": 2022,
+    "volume": "39",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac586b",
+    "title": "Simple traversable wormholes violating energy conditions only near the Planck scale",
+    "page": "075027",
+    "year": 2022,
+    "volume": "39",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac4828",
+    "title": "Analogue gravitational field from nonlinear fluid dynamics",
+    "page": "075018",
+    "year": 2022,
+    "volume": "39",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac504f",
+    "title": "Unitarity, clock dependence and quantum recollapse in quantum cosmology",
+    "page": "075011",
+    "year": 2022,
+    "volume": "39",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac5376",
+    "title": "Damping of long wavelength gravitational waves by the intergalactic medium",
+    "page": "075014",
+    "year": 2022,
+    "volume": "39",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac504e",
+    "title": "Bianchi IX geometry and the Einstein–Maxwell theory",
+    "page": "075012",
+    "year": 2022,
+    "volume": "39",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac53b7",
+    "title": "Malaise and remedy of binary boson-star initial data",
+    "page": "074001",
+    "year": 2022,
+    "volume": "39",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac50eb",
+    "title": "Energy–momentum tensor and duality symmetry of linearized gravity in the Fierz formalism",
+    "page": "075003",
+    "year": 2022,
+    "volume": "39",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac5a12",
+    "title": "Seismic noise effect reduction improvement for ground-based investigation of space inertial sensor by suspending the electrode housing with an individual pendulum",
+    "page": "075029",
+    "year": 2022,
+    "volume": "39",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac5050",
+    "title": "Towards exploring features of Hamiltonian renormalisation relevant for quantum gravity",
+    "page": "075010",
+    "year": 2022,
+    "volume": "39",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac55ab",
+    "title": "Probing the generalized uncertainty principle through quantum noises in optomechanical systems",
+    "page": "075020",
+    "year": 2022,
+    "volume": "39",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac52bc",
+    "title": "Inflation and the cosmological (not-so) constant in unimodular gravity",
+    "page": "075008",
+    "year": 2022,
+    "volume": "39",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac566d",
+    "title": "Anomalies of cosmic anisotropy from holographic universality of great-circle variance",
+    "page": "075016",
+    "year": 2022,
+    "volume": "39",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac5012",
+    "title": "Template lattices for a cross-correlation search for gravitational waves from Scorpius X-1",
+    "page": "075013",
+    "year": 2022,
+    "volume": "39",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac51bb",
+    "title": "Non-commutativity and non-inertial effects on a scalar field in a cosmic string space-time: I. Klein–Gordon oscillator",
+    "page": "075006",
+    "year": 2022,
+    "volume": "39",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac5493",
+    "title": "Entanglement entropy of disjoint spacetime intervals in causal set theory",
+    "page": "075017",
+    "year": 2022,
+    "volume": "39",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac4c05",
+    "title": "Hawking radiation of scalar particles and fermions from squashed Kaluza–Klein black holes based on a generalized uncertainty principle",
+    "page": "075022",
+    "year": 2022,
+    "volume": "39",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac566c",
+    "title": "Restricted phase space thermodynamics for AdS black holes via holography",
+    "page": "075019",
+    "year": 2022,
+    "volume": "39",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac5052",
+    "title": "Effective cosmology from one-body operators in group field theory",
+    "page": "075002",
+    "year": 2022,
+    "volume": "39",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac51e7",
+    "title": "Homology conditions for RT surfaces in double holography",
+    "page": "075009",
+    "year": 2022,
+    "volume": "39",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac50ed",
+    "title": "Study of circular geodesics and shadow of rotating charged black hole surrounded by perfect fluid dark matter immersed in plasma",
+    "page": "075005",
+    "year": 2022,
+    "volume": "39",
+    "issue": "7"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac566a",
+    "title": "Consistent truncations around half-maximal AdS<sub>5</sub> vacua of 11-dimensional supergravity",
+    "page": "075026",
+    "year": 2022,
+    "volume": "39",
+    "issue": "7"
+   }
+  ],
+  "V39I12": [
+   {
+    "doi": "10.1088/1361-6382/ac6faa",
+    "title": "Quantum speed limit and stability of coherent states in quantum gravity",
+    "page": "12LT01",
+    "year": 2022,
+    "volume": "39",
+    "issue": "12"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac6cbf",
+    "title": "Aspects of three-dimensional higher curvature gravities",
+    "page": "125002",
+    "year": 2022,
+    "volume": "39",
+    "issue": "12"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac5053",
+    "title": "Rotating black holes in Einstein-aether theory",
+    "page": "125001",
+    "year": 2022,
+    "volume": "39",
+    "issue": "12"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac6cc0",
+    "title": "Implementation of a generalized precession parameter in the RIFT parameter estimation algorithm",
+    "page": "125003",
+    "year": 2022,
+    "volume": "39",
+    "issue": "12"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac6d3e",
+    "title": "The facilities and performance of TianQin laser ranging station",
+    "page": "125005",
+    "year": 2022,
+    "volume": "39",
+    "issue": "12"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac6e22",
+    "title": "Special cosmological models derived from the semiclassical Einstein equation on flat FLRW space-times",
+    "page": "125004",
+    "year": 2022,
+    "volume": "39",
+    "issue": "12"
+   }
+  ],
+  "V38I11": [
+   {
+    "doi": "10.1088/1361-6382/abf66c",
+    "title": "Quantum signatures from Hoava–Lifshitz cosmography",
+    "page": "115009",
+    "year": 2021,
+    "volume": "38",
+    "issue": "11"
+   },
+   {
+    "doi": "10.1088/1361-6382/abfaec",
+    "title": "Observations and predictions from past lightcones",
+    "page": "115015",
+    "year": 2021,
+    "volume": "38",
+    "issue": "11"
+   },
+   {
+    "doi": "10.1088/1361-6382/abde1a",
+    "title": "Parity violating metric-affine gravity theories",
+    "page": "115003",
+    "year": 2021,
+    "volume": "38",
+    "issue": "11"
+   },
+   {
+    "doi": "10.1088/1361-6382/abf897",
+    "title": "Addendum to ‘EPRL/FK asymptotics and the flatness problem’",
+    "page": "119401",
+    "year": 2021,
+    "volume": "38",
+    "issue": "11"
+   },
+   {
+    "doi": "10.1088/1361-6382/abf898",
+    "title": "Effects of high density phase transitions on neutron star dynamics",
+    "page": "115007",
+    "year": 2021,
+    "volume": "38",
+    "issue": "11"
+   },
+   {
+    "doi": "10.1088/1361-6382/abf1c4",
+    "title": "Schrödinger’s cat for de Sitter spacetime",
+    "page": "115010",
+    "year": 2021,
+    "volume": "38",
+    "issue": "11"
+   },
+   {
+    "doi": "10.1088/1361-6382/abf279",
+    "title": "Entanglement entropy of causal set de Sitter horizons",
+    "page": "115001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "11"
+   },
+   {
+    "doi": "10.1088/1361-6382/abf66d",
+    "title": "Simplicial gravity with coordinates",
+    "page": "115013",
+    "year": 2021,
+    "volume": "38",
+    "issue": "11"
+   },
+   {
+    "doi": "10.1088/1361-6382/abf2f3",
+    "title": "Gravitational decoherence of photons",
+    "page": "115012",
+    "year": 2021,
+    "volume": "38",
+    "issue": "11"
+   },
+   {
+    "doi": "10.1088/1361-6382/abf712",
+    "title": "Image of a regular phantom compact object and its luminosity under spherical accretions",
+    "page": "115008",
+    "year": 2021,
+    "volume": "38",
+    "issue": "11"
+   },
+   {
+    "doi": "10.1088/1361-6382/abee65",
+    "title": "SPHINCS_BSSN: a general relativistic smooth particle hydrodynamics code for dynamical spacetimes",
+    "page": "115002",
+    "year": 2021,
+    "volume": "38",
+    "issue": "11"
+   },
+   {
+    "doi": "10.1088/1361-6382/abf628",
+    "title": "Reissner–Nordström geometry counterpart in semiclassical gravity",
+    "page": "115014",
+    "year": 2021,
+    "volume": "38",
+    "issue": "11"
+   },
+   {
+    "doi": "10.1088/1361-6382/abf2f4",
+    "title": "The continuum limit of quantum gravity at second order in perturbation theory",
+    "page": "115006",
+    "year": 2021,
+    "volume": "38",
+    "issue": "11"
+   },
+   {
+    "doi": "10.1088/1361-6382/abf896",
+    "title": "Stationary spacetimes with time-dependent real scalar fields",
+    "page": "115004",
+    "year": 2021,
+    "volume": "38",
+    "issue": "11"
+   },
+   {
+    "doi": "10.1088/1361-6382/abebf0",
+    "title": "Black holes and wormholes in\n                    <i>f</i>\n                    (\n                    <i>R</i>\n                    ) gravity with a kinetic curvature scalar",
+    "page": "115005",
+    "year": 2021,
+    "volume": "38",
+    "issue": "11"
+   },
+   {
+    "doi": "10.1088/1361-6382/abf627",
+    "title": "Dynamical diffeomorphisms",
+    "page": "115011",
+    "year": 2021,
+    "volume": "38",
+    "issue": "11"
+   }
+  ],
+  "V39I14": [
+   {
+    "doi": "10.1088/1361-6382/ac7506",
+    "title": "Optical analogue of the Schwarzschild–Planck metric",
+    "page": "145001",
+    "year": 2022,
+    "volume": "39",
+    "issue": "14"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac750a",
+    "title": "Curvature invariants for accelerating Kerr–Newman black holes in (anti-)de Sitter spacetime",
+    "page": "145002",
+    "year": 2022,
+    "volume": "39",
+    "issue": "14"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac7769",
+    "title": "Cosmological global dynamical systems analysis",
+    "page": "145010",
+    "year": 2022,
+    "volume": "39",
+    "issue": "14"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac7507",
+    "title": "Eccentric self-forced inspirals into a rotating black hole",
+    "page": "145004",
+    "year": 2022,
+    "volume": "39",
+    "issue": "14"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac776d",
+    "title": "Computing the quasinormal modes and eigenfunctions for the Teukolsky equation using horizon penetrating, hyperboloidally compactified coordinates",
+    "page": "145009",
+    "year": 2022,
+    "volume": "39",
+    "issue": "14"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac79f1",
+    "title": "Asymptotically hyperboloidal initial data sets from a parabolic–hyperbolic formulation of the Einstein vacuum constraints",
+    "page": "145012",
+    "year": 2022,
+    "volume": "39",
+    "issue": "14"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac7509",
+    "title": "A peeling theorem for the Weyl tensor in higher dimensions",
+    "page": "145003",
+    "year": 2022,
+    "volume": "39",
+    "issue": "14"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac6789",
+    "title": "Ascribing quantum system to Schwarzschild spacetime with naked singularity",
+    "page": "145005",
+    "year": 2022,
+    "volume": "39",
+    "issue": "14"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac7768",
+    "title": "A (semi)-exact Hamiltonian for the curvature perturbation <i>ζ</i>",
+    "page": "145007",
+    "year": 2022,
+    "volume": "39",
+    "issue": "14"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac79f2",
+    "title": "A note on the <i>pp</i>-wave solution of minimal massive 3D gravity coupled with Maxwell–Chern–Simons theory",
+    "page": "145011",
+    "year": 2022,
+    "volume": "39",
+    "issue": "14"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac776b",
+    "title": "Weyl transverse diffeomorphism invariant theory of symmetric teleparallel gravity",
+    "page": "145006",
+    "year": 2022,
+    "volume": "39",
+    "issue": "14"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac776e",
+    "title": "Complete classification of Friedmann–Lemaître–Robertson–Walker solutions with linear equation of state: parallelly propagated curvature singularities for general geodesics",
+    "page": "145008",
+    "year": 2022,
+    "volume": "39",
+    "issue": "14"
+   }
+  ],
+  "V38I10": [
+   {
+    "doi": "10.1088/1361-6382/abf1c7",
+    "title": "The tortoise and the hare: a causality puzzle in AdS/CFT",
+    "page": "105008",
+    "year": 2021,
+    "volume": "38",
+    "issue": "10"
+   },
+   {
+    "doi": "10.1088/1361-6382/abdf6f",
+    "title": "Non-perturbative quantum corrections to a Born–Infeld black hole and its information geometry",
+    "page": "105001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "10"
+   },
+   {
+    "doi": "10.1088/1361-6382/abf415",
+    "title": "First-order Lagrangian and Hamiltonian of Lovelock gravity",
+    "page": "105004",
+    "year": 2021,
+    "volume": "38",
+    "issue": "10"
+   },
+   {
+    "doi": "10.1088/1361-6382/abed62",
+    "title": "Black holes in the quadratic-order extended vector–tensor theories",
+    "page": "105011",
+    "year": 2021,
+    "volume": "38",
+    "issue": "10"
+   },
+   {
+    "doi": "10.1088/1361-6382/abdf6e",
+    "title": "Introducing physical warp drives",
+    "page": "105009",
+    "year": 2021,
+    "volume": "38",
+    "issue": "10"
+   },
+   {
+    "doi": "10.1088/1361-6382/abdd0c",
+    "title": "Dynamics of gravitational collapse in the axisymmetric Einstein–Vlasov system",
+    "page": "105003",
+    "year": 2021,
+    "volume": "38",
+    "issue": "10"
+   },
+   {
+    "doi": "10.1088/1361-6382/abf414",
+    "title": "On the Rényi entropy of Lifshitz and hyperscaling violating black holes",
+    "page": "105005",
+    "year": 2021,
+    "volume": "38",
+    "issue": "10"
+   },
+   {
+    "doi": "10.1088/1361-6382/abf2f5",
+    "title": "Constructing black holes in Einstein–Maxwell-scalar theory",
+    "page": "105006",
+    "year": 2021,
+    "volume": "38",
+    "issue": "10"
+   },
+   {
+    "doi": "10.1088/1361-6382/abdd0e",
+    "title": "Laser interferometer in presence of scalar field on gravitational wave background",
+    "page": "105010",
+    "year": 2021,
+    "volume": "38",
+    "issue": "10"
+   },
+   {
+    "doi": "10.1088/1361-6382/abf2f2",
+    "title": "Degenerate Hořava gravity",
+    "page": "105007",
+    "year": 2021,
+    "volume": "38",
+    "issue": "10"
+   },
+   {
+    "doi": "10.1088/1361-6382/abdd47",
+    "title": "On the thermodynamics of the Hayward black hole",
+    "page": "105002",
+    "year": 2021,
+    "volume": "38",
+    "issue": "10"
+   }
+  ],
+  "V38I16": [
+   {
+    "doi": "10.1088/1361-6382/abfd93",
+    "title": "Poynting vector, super-Poynting vector, and principal observers in electromagnetism and general relativity",
+    "page": "165009",
+    "year": 2021,
+    "volume": "38",
+    "issue": "16"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1080",
+    "title": "Quantum teleportation and entanglement swapping with long baseline in outer space",
+    "page": "165002",
+    "year": 2021,
+    "volume": "38",
+    "issue": "16"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1084",
+    "title": "Nonlinear gravitational-wave memory from cusps and kinks on cosmic strings",
+    "page": "165004",
+    "year": 2021,
+    "volume": "38",
+    "issue": "16"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1082",
+    "title": "Random statistics of OPE coefficients and Euclidean wormholes",
+    "page": "164001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "16"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac12e4",
+    "title": "The shadow and photon sphere of the charged black hole in Rastall gravity",
+    "page": "165013",
+    "year": 2021,
+    "volume": "38",
+    "issue": "16"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1083",
+    "title": "Neutron stars in the effective fly-by framework: f-mode re-summation",
+    "page": "165001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "16"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1208",
+    "title": "A comparison of Ashtekar’s and Friedrich’s formalisms of spatial infinity",
+    "page": "165015",
+    "year": 2021,
+    "volume": "38",
+    "issue": "16"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1081",
+    "title": "Classical and quantum gravity with fractional operators",
+    "page": "165005",
+    "year": 2021,
+    "volume": "38",
+    "issue": "16"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1209",
+    "title": "Quantization of inhomogeneous spacetimes with cosmological constant term",
+    "page": "165012",
+    "year": 2021,
+    "volume": "38",
+    "issue": "16"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac11a9",
+    "title": "The effect of spacetime curvature on statistical distributions",
+    "page": "165003",
+    "year": 2021,
+    "volume": "38",
+    "issue": "16"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac11a8",
+    "title": "The Teukolsky–Starobinsky constants: facts and fictions",
+    "page": "165016",
+    "year": 2021,
+    "volume": "38",
+    "issue": "16"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac129d",
+    "title": "Rapidly rotating compact stars in Rastall’s gravity",
+    "page": "165011",
+    "year": 2021,
+    "volume": "38",
+    "issue": "16"
+   },
+   {
+    "doi": "10.1088/1361-6382/abcbde",
+    "title": "The Spacetime Picture in Quantum Gravity",
+    "page": "165010",
+    "year": 2021,
+    "volume": "38",
+    "issue": "16"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac129e",
+    "title": "Thermal equilibrium states and instability of self-gravitating particles in an asymptotically AdS spacetime",
+    "page": "165014",
+    "year": 2021,
+    "volume": "38",
+    "issue": "16"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1bea",
+    "title": "Erratum: Classical and quantum gravity with fractional operators (2021\n                    <i>Class. Quantum Grav.</i>\n                    <b>38</b>\n                    165005)",
+    "page": "169601",
+    "year": 2021,
+    "volume": "38",
+    "issue": "16"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1207",
+    "title": "Analog dual to a 2 + 1-dimensional holographic superconductor",
+    "page": "165007",
+    "year": 2021,
+    "volume": "38",
+    "issue": "16"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac103c",
+    "title": "Quantum scalar field theories with fractional operators",
+    "page": "165006",
+    "year": 2021,
+    "volume": "38",
+    "issue": "16"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac11aa",
+    "title": "Solid matter with zero shear modulus in flat Universe",
+    "page": "165008",
+    "year": 2021,
+    "volume": "38",
+    "issue": "16"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac10ee",
+    "title": "Continuity equations for general matter: applications in numerical relativity",
+    "page": "167001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "16"
+   }
+  ],
+  "V38I15": [
+   {
+    "doi": "10.1088/1361-6382/ac0e18",
+    "title": "Conserved quantities for black hole solutions in pure Lovelock gravity",
+    "page": "155017",
+    "year": 2021,
+    "volume": "38",
+    "issue": "15"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac0e19",
+    "title": "Chaotic exits from a weakly magnetized Schwarzschild black hole",
+    "page": "155016",
+    "year": 2021,
+    "volume": "38",
+    "issue": "15"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac0b2f",
+    "title": "The response of optical fibres to gravitational waves",
+    "page": "155006",
+    "year": 2021,
+    "volume": "38",
+    "issue": "15"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac103f",
+    "title": "Loop quantum gravity’s boundary maps",
+    "page": "155019",
+    "year": 2021,
+    "volume": "38",
+    "issue": "15"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac0b53",
+    "title": "Rotating boson stars using finite differences and global Newton methods",
+    "page": "154003",
+    "year": 2021,
+    "volume": "38",
+    "issue": "15"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac0a86",
+    "title": "The initial boundary value problem and quasi-local Hamiltonians in general relativity",
+    "page": "154001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "15"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac086d",
+    "title": "In the realm of the Hubble tension—a review of solutions\n\t\t\t\t\t\t            <sup>*</sup>",
+    "page": "153001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "15"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac0b54",
+    "title": "VAMANA: modeling binary black hole population with minimal assumptions",
+    "page": "155007",
+    "year": 2021,
+    "volume": "38",
+    "issue": "15"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac08a5",
+    "title": "A unified view of curvature and torsion in metric–affine gauge theory of gravity through affine–vector bundles",
+    "page": "155003",
+    "year": 2021,
+    "volume": "38",
+    "issue": "15"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac0bf9",
+    "title": "Gravitational effects in macroscopic quantum systems: a first-principles analysis",
+    "page": "155012",
+    "year": 2021,
+    "volume": "38",
+    "issue": "15"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac0e17",
+    "title": "Microstate distinguishability, quantum complexity, and the eigenstate thermalization hypothesis",
+    "page": "154004",
+    "year": 2021,
+    "volume": "38",
+    "issue": "15"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac0e45",
+    "title": "Trace anomaly, Perelman’s functionals and the cosmological constant",
+    "page": "155018",
+    "year": 2021,
+    "volume": "38",
+    "issue": "15"
+   },
+   {
+    "doi": "10.1088/1361-6382/abfd91",
+    "title": "Null shells: general matching across null boundaries and connection with cut-and-paste formalism",
+    "page": "155008",
+    "year": 2021,
+    "volume": "38",
+    "issue": "15"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac096c",
+    "title": "Time-like hypersurfaces of prescribed mean extrinsic curvature",
+    "page": "154002",
+    "year": 2021,
+    "volume": "38",
+    "issue": "15"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac0a88",
+    "title": "The Born–Oppenheimer approach to quantum cosmology",
+    "page": "155011",
+    "year": 2021,
+    "volume": "38",
+    "issue": "15"
+   },
+   {
+    "doi": "10.1088/1361-6382/abf27a",
+    "title": "(3\n                    <b>+</b>\n                    1)-formulation for gravity with torsion and non-metricity: the stress–energy–momentum equation",
+    "page": "155009",
+    "year": 2021,
+    "volume": "38",
+    "issue": "15"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac0a85",
+    "title": "Thermal environment analysis for TianQin",
+    "page": "155015",
+    "year": 2021,
+    "volume": "38",
+    "issue": "15"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac0a87",
+    "title": "An alternative to the Simon tensor",
+    "page": "155001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "15"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac08a7",
+    "title": "Application of a new transient-noise analysis tool for an unmodeled gravitational-wave search pipeline",
+    "page": "155004",
+    "year": 2021,
+    "volume": "38",
+    "issue": "15"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac09cc",
+    "title": "Generalised gravitational wave burst generation with generative adversarial networks",
+    "page": "155005",
+    "year": 2021,
+    "volume": "38",
+    "issue": "15"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac0e1a",
+    "title": "Including topology change in loop quantum gravity with topspin network formalism with application to homogeneous and isotropic cosmology",
+    "page": "155014",
+    "year": 2021,
+    "volume": "38",
+    "issue": "15"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac0f39",
+    "title": "Is there really a Hubble tension?",
+    "page": "154005",
+    "year": 2021,
+    "volume": "38",
+    "issue": "15"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac0bc0",
+    "title": "Dynamical equilibrium states of a class of irrotational non-orthogonally transitive\n                    <i>G</i>\n                    <sub>2</sub>\n                    cosmologies: II. Models with one h",
+    "page": "155013",
+    "year": 2021,
+    "volume": "38",
+    "issue": "15"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac0455",
+    "title": "Exploring gravitational-wave detection and parameter inference using deep learning methods",
+    "page": "155010",
+    "year": 2021,
+    "volume": "38",
+    "issue": "15"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac09cb",
+    "title": "Discrete heat kernel, UV modified Green’s function, and higher derivative theories",
+    "page": "155002",
+    "year": 2021,
+    "volume": "38",
+    "issue": "15"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac0e47",
+    "title": "Positive energy warp drive from hidden geometric structures",
+    "page": "155020",
+    "year": 2021,
+    "volume": "38",
+    "issue": "15"
+   }
+  ],
+  "V39I8": [
+   {
+    "doi": "10.1088/1361-6382/ac5378",
+    "title": "Thermodynamic equilibrium condition and the first law of thermodynamics for charged perfect fluids in electromagnetic and gravitational fields",
+    "page": "085004",
+    "year": 2022,
+    "volume": "39",
+    "issue": "8"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac571a",
+    "title": "The Wald–Zoupas prescription for asymptotic charges at null infinity in general relativity",
+    "page": "085002",
+    "year": 2022,
+    "volume": "39",
+    "issue": "8"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac5ba1",
+    "title": "Gravitational wave surrogates through automated machine learning",
+    "page": "085011",
+    "year": 2022,
+    "volume": "39",
+    "issue": "8"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac5a15",
+    "title": "Parametric instability in the neutron star extreme matter observatory",
+    "page": "085007",
+    "year": 2022,
+    "volume": "39",
+    "issue": "8"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac5921",
+    "title": "A quantum corrected R–N–AdS black hole and it’s thermodynamics of phase transition",
+    "page": "085009",
+    "year": 2022,
+    "volume": "39",
+    "issue": "8"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac5ba2",
+    "title": "Determination of the charge for strange stars",
+    "page": "085005",
+    "year": 2022,
+    "volume": "39",
+    "issue": "8"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac5b31",
+    "title": "Improvement of the parameter measurement accuracy by the third-generation gravitational wave detector Einstein Telescope",
+    "page": "085006",
+    "year": 2022,
+    "volume": "39",
+    "issue": "8"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac5736",
+    "title": "Four coupled SYK models and nearly AdS<sub>2</sub> gravities: phase transitions in traversable wormholes and in bra-ket wormholes",
+    "page": "084001",
+    "year": 2022,
+    "volume": "39",
+    "issue": "8"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac5924",
+    "title": "Generalized Oppenheimer–Snyder gravitational collapse into regular black holes",
+    "page": "085003",
+    "year": 2022,
+    "volume": "39",
+    "issue": "8"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac5c00",
+    "title": "A joint ranking statistic for multi-messenger astronomical searches with gravitational waves",
+    "page": "085010",
+    "year": 2022,
+    "volume": "39",
+    "issue": "8"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac5a13",
+    "title": "Anisotropic compact stars in Rastall–Rainbow gravity",
+    "page": "085008",
+    "year": 2022,
+    "volume": "39",
+    "issue": "8"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac5a14",
+    "title": "Infinite-derivative linearized gravity in convolutional form",
+    "page": "085001",
+    "year": 2022,
+    "volume": "39",
+    "issue": "8"
+   }
+  ],
+  "V39I17": [
+   {
+    "doi": "10.1088/1361-6382/ac3c8b",
+    "title": "Entanglement between two gravitating universes",
+    "page": "174001",
+    "year": 2022,
+    "volume": "39",
+    "issue": "17"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac821c",
+    "title": "Minimal length phenomenology and the black body radiation",
+    "page": "175001",
+    "year": 2022,
+    "volume": "39",
+    "issue": "17"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac8199",
+    "title": "Analysis of unitarity in conformal quantum gravity",
+    "page": "175010",
+    "year": 2022,
+    "volume": "39",
+    "issue": "17"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac7f78",
+    "title": "Dependence of maximum mass of strange star on finite strange quark mass (<i>m</i>\n                  <sub>s</sub> ≠ 0)",
+    "page": "175006",
+    "year": 2022,
+    "volume": "39",
+    "issue": "17"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac7694",
+    "title": "Features of the primordial Universe in <i>f</i>(<i>R</i>)-gravity as viewed in the Jordan frame",
+    "page": "175011",
+    "year": 2022,
+    "volume": "39",
+    "issue": "17"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac813f",
+    "title": "Cosmic acceleration in Regge–Teitelboim gravity",
+    "page": "175002",
+    "year": 2022,
+    "volume": "39",
+    "issue": "17"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac7b05",
+    "title": "Detection of gravitational waves using parametric resonance in Bose–Einstein condensates",
+    "page": "175009",
+    "year": 2022,
+    "volume": "39",
+    "issue": "17"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac8332",
+    "title": "The irreducible mass and the horizon area of LIGO’s black holes",
+    "page": "175008",
+    "year": 2022,
+    "volume": "39",
+    "issue": "17"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac813e",
+    "title": "Black hole perturbations in higher-order scalar–tensor theories: initial value problem and dynamical stability",
+    "page": "175003",
+    "year": 2022,
+    "volume": "39",
+    "issue": "17"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac8198",
+    "title": "Billiard-ball paradox for a quantum wave packet",
+    "page": "175007",
+    "year": 2022,
+    "volume": "39",
+    "issue": "17"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac8094",
+    "title": "Parameterised population models of transient non-Gaussian noise in the LIGO gravitational-wave detectors",
+    "page": "175004",
+    "year": 2022,
+    "volume": "39",
+    "issue": "17"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac8092",
+    "title": "Gravitational waves in gauge theory gravity with a negative cosmological constant",
+    "page": "175005",
+    "year": 2022,
+    "volume": "39",
+    "issue": "17"
+   }
+  ],
+  "V38I23": [
+   {
+    "doi": "10.1088/1361-6382/ac3148",
+    "title": "Exploring the self-tuning of the cosmological constant from Planck mass variation",
+    "page": "235003",
+    "year": 2021,
+    "volume": "38",
+    "issue": "23"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac2de5",
+    "title": "A world without pythons would be so simple",
+    "page": "234001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "23"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac274d",
+    "title": "Electromagnetic potentials in curved spacetimes",
+    "page": "235002",
+    "year": 2021,
+    "volume": "38",
+    "issue": "23"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac2c19",
+    "title": "Comment on ‘Do electromagnetic waves always propagate along null geodesics?’",
+    "page": "238001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "23"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1fd1",
+    "title": "Positive mass theorems for asymptotically hyperbolic Riemannian manifolds with boundary",
+    "page": "237001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "23"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac2be3",
+    "title": "Reply to Comment on ‘Do electromagnetic waves always propagate along null geodesics?’",
+    "page": "238002",
+    "year": 2021,
+    "volume": "38",
+    "issue": "23"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac2cb6",
+    "title": "The Kijowski–Liu–Yau quasi-local mass of the Kerr black hole horizon\n                  <sup>*</sup>",
+    "page": "235001",
+    "year": 2021,
+    "volume": "38",
+    "issue": "23"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac33bb",
+    "title": "Current observations are insufficient to confidently associate the binary black hole merger GW190521 with AGN J124942.3\n                    <b>+</b>\n                    344929",
+    "page": "235004",
+    "year": 2021,
+    "volume": "38",
+    "issue": "23"
+   }
+  ],
+  "V39I20": [
+   {
+    "doi": "10.1088/1361-6382/ac5acd",
+    "title": "The MICROSCOPE space mission: the first test of the equivalence principle in a space laboratory",
+    "page": "200401",
+    "year": 2022,
+    "volume": "39",
+    "issue": "20"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac0235",
+    "title": "MICROSCOPE mission: data analysis principle",
+    "page": "204007",
+    "year": 2022,
+    "volume": "39",
+    "issue": "20"
+   },
+   {
+    "doi": "10.1088/1361-6382/abe142",
+    "title": "MICROSCOPE’s constraint on a short-range fifth force",
+    "page": "204010",
+    "year": 2022,
+    "volume": "39",
+    "issue": "20"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac13b9",
+    "title": "Microscope instrument in-flight characterization",
+    "page": "204005",
+    "year": 2022,
+    "volume": "39",
+    "issue": "20"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac84be",
+    "title": "Result of the MICROSCOPE weak equivalence principle test",
+    "page": "204009",
+    "year": 2022,
+    "volume": "39",
+    "issue": "20"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac49f6",
+    "title": "MICROSCOPE: systematic errors",
+    "page": "204006",
+    "year": 2022,
+    "volume": "39",
+    "issue": "20"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac09cd",
+    "title": "MICROSCOPE satellite and its drag-free and attitude control system",
+    "page": "204003",
+    "year": 2022,
+    "volume": "39",
+    "issue": "20"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1617",
+    "title": "MICROSCOPE mission: statistics and impact of glitches on the test of the weak equivalence principle\n                  <sup>*</sup>",
+    "page": "204008",
+    "year": 2022,
+    "volume": "39",
+    "issue": "20"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac1619",
+    "title": "MICROSCOPE instrument description and validation",
+    "page": "204002",
+    "year": 2022,
+    "volume": "39",
+    "issue": "20"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac4b9a",
+    "title": "MICROSCOPE mission scenario, ground segment and data processing",
+    "page": "204004",
+    "year": 2022,
+    "volume": "39",
+    "issue": "20"
+   },
+   {
+    "doi": "10.1088/1361-6382/abebf1",
+    "title": "MICROSCOPE. mission analysis, requirements and expected performance",
+    "page": "204001",
+    "year": 2022,
+    "volume": "39",
+    "issue": "20"
+   }
+  ],
+  "V39I5": [
+   {
+    "doi": "10.1088/1361-6382/ac4b99",
+    "title": "Corrigendum: Evaporation of four-dimensional dynamical black holes sourced by the quantum trace anomaly (2021 <i>Class. Quantum Grav.</i> \n               \n                  <b>38</b> 195022)",
+    "page": "059501",
+    "year": 2022,
+    "volume": "39",
+    "issue": "5"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac4954",
+    "title": "Influence of cosmological expansion in local experiments",
+    "page": "055005",
+    "year": 2022,
+    "volume": "39",
+    "issue": "5"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac482a",
+    "title": "Assessing the compact-binary merger candidates reported by the MBTA pipeline in the LIGO–Virgo O3 run: probability of astrophysical origin, classification, and associated uncertainties",
+    "page": "055002",
+    "year": 2022,
+    "volume": "39",
+    "issue": "5"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac4829",
+    "title": "Angular correlations of causally-coherent primordial quantum perturbations",
+    "page": "055004",
+    "year": 2022,
+    "volume": "39",
+    "issue": "5"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac4b98",
+    "title": "Study of acceleration measurement in gravitational wave detection",
+    "page": "055007",
+    "year": 2022,
+    "volume": "39",
+    "issue": "5"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac4955",
+    "title": "Asymptotic quasinormal frequencies of different spin fields in <i>d</i>-dimensional spherically-symmetric black holes",
+    "page": "055001",
+    "year": 2022,
+    "volume": "39",
+    "issue": "5"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac4827",
+    "title": "Effective potential of scalar-tensor gravity with quartic self-interaction of scalar field",
+    "page": "055003",
+    "year": 2022,
+    "volume": "39",
+    "issue": "5"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac4b03",
+    "title": "On the duality of Schwarzschild–de Sitter spacetime and moving mirror",
+    "page": "055006",
+    "year": 2022,
+    "volume": "39",
+    "issue": "5"
+   }
+  ],
+  "V39I15": [
+   {
+    "doi": "10.1088/1361-6382/ac7e14",
+    "title": "Self-consistent equation for torsion arising as a consequence of the Dirac sea quantum fluctuations in external classical electromagnetic and gravitational fields",
+    "page": "155009",
+    "year": 2022,
+    "volume": "39",
+    "issue": "15"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac79f5",
+    "title": "Drag-free control design and in-orbit validation of TianQin-1 satellite",
+    "page": "155001",
+    "year": 2022,
+    "volume": "39",
+    "issue": "15"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac7a88",
+    "title": "Anisotropic quark stars in <i>f</i>(<i>R</i>) <b>=</b>\n                  <i>R</i>\n                  <sup>1+<i>ϵ</i>\n                  </sup> gravity",
+    "page": "155003",
+    "year": 2022,
+    "volume": "39",
+    "issue": "15"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac7b06",
+    "title": "Absence of the Higuchi bound in a family of alternative linear massive spin-2 models",
+    "page": "155004",
+    "year": 2022,
+    "volume": "39",
+    "issue": "15"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac776c",
+    "title": "Lie theory for asymptotic symmetries in general relativity: The NU group",
+    "page": "155005",
+    "year": 2022,
+    "volume": "39",
+    "issue": "15"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac7d8e",
+    "title": "Yukawa black holes from interacting vacuum",
+    "page": "155008",
+    "year": 2022,
+    "volume": "39",
+    "issue": "15"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac79f3",
+    "title": "Bilocal geodesic operators in static spherically-symmetric spacetimes",
+    "page": "155002",
+    "year": 2022,
+    "volume": "39",
+    "issue": "15"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac7a87",
+    "title": "On non-Euclidean Newtonian theories and their cosmological backreaction",
+    "page": "155006",
+    "year": 2022,
+    "volume": "39",
+    "issue": "15"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac79f6",
+    "title": "Amorphous silicon nitride deposited by an NH<sub>3</sub>-free plasma enhanced chemical vapor deposition method for the coatings of the next generation laser interferometer gravitational waves detector",
+    "page": "15LT01",
+    "year": 2022,
+    "volume": "39",
+    "issue": "15"
+   },
+   {
+    "doi": "10.1088/1361-6382/ac7b07",
+    "title": "Effects of magnetic monopole charge on Joule–Thomson expansion of regular Ayón Beato–García black hole",
+    "page": "155007",
+    "year": 2022,
+    "volume": "39",
+    "issue": "15"
+   }
+  ]
+ }
+}

@@ -1,0 +1,247 @@
+{
+    "data": [
+        {
+            "config": {
+                "effort_level": "high",
+                "mcp_connector_ids": [],
+                "model": "claude-fable-5",
+                "origin": "web_claude_ai",
+                "outcomes": [
+                    {
+                        "git_info": {
+                            "branches": [
+                                "claude/production-validation-tasks-pgp5p3"
+                            ],
+                            "host": "",
+                            "ref": null,
+                            "repo": "anythingai-labs/Pipeline-Signal",
+                            "type": "github"
+                        },
+                        "type": "git_repository"
+                    }
+                ],
+                "sources": [
+                    {
+                        "sparse_checkout_paths": [],
+                        "type": "git_repository",
+                        "url": "https://github.com/anythingai-labs/Pipeline-Signal"
+                    }
+                ]
+            },
+            "connection_status": "disconnected",
+            "created_at": "2026-07-25T11:14:24.393852Z",
+            "environment_id": "env_013cchYADjwsw5RN4qXJpFnX",
+            "environment_kind": "anthropic_cloud",
+            "external_metadata": {
+                "container_cc_version": "",
+                "current_branches": {
+                    "": "claude/production-validation-tasks-pgp5p3"
+                },
+                "last_served_model": "claude-fable-5",
+                "post_turn_summary": {
+                    "needs_action": "approve SEMrush `us`-database re-pull to settle volumes/positions variance",
+                    "status_category": "need_input",
+                    "status_detail": "cross-check complete; awaiting SEMrush us-scope re-pull decision"
+                },
+                "usage": {
+                    "cache_read_tokens": 7717399,
+                    "cache_write_tokens": 275849,
+                    "input_tokens": 79,
+                    "output_tokens": 51439
+                }
+            },
+            "id": "cse_01Te5CKKmanjmwxC3Fsbd6Dp",
+            "last_event_at": "2026-07-25T12:33:02.460943Z",
+            "participants": [],
+            "relations": [],
+            "status": "active",
+            "status_bucket": "blocked",
+            "tags": [],
+            "title": "Growpad co Production validation and task prioritization",
+            "unread": false,
+            "user_message_count": "0",
+            "worker_status": "idle"
+        },
+        {
+            "config": {
+                "effort_level": "high",
+                "mcp_connector_ids": [],
+                "model": "claude-fable-5",
+                "origin": "web_claude_ai",
+                "outcomes": [
+                    {
+                        "git_info": {
+                            "branches": [
+                                "claude/paper-trading-bluf-maintenance-gvgbff"
+                            ],
+                            "host": "",
+                            "ref": null,
+                            "repo": "anythingai-labs/BLUF",
+                            "type": "github"
+                        },
+                        "type": "git_repository"
+                    }
+                ],
+                "sources": [
+                    {
+                        "sparse_checkout_paths": [],
+                        "type": "git_repository",
+                        "url": "https://github.com/anythingai-labs/BLUF"
+                    }
+                ]
+            },
+            "connection_status": "disconnected",
+            "created_at": "2026-07-13T10:11:45.900301Z",
+            "environment_id": "env_013cchYADjwsw5RN4qXJpFnX",
+            "environment_kind": "anthropic_cloud",
+            "external_metadata": {
+                "container_cc_version": "",
+                "current_branches": {
+                    "": "claude/paper-trading-bluf-maintenance-gvgbff"
+                },
+                "effort_level": "high",
+                "last_served_model": "claude-fable-5",
+                "model": "claude-fable-5",
+                "post_turn_summary": {
+                    "needs_action": "",
+                    "status_category": "review_ready",
+                    "status_detail": "13-task roadmap: T1/T2 P0 (disk+policy), T3–T13 parallelizable; 6h human, 10h LLM, 24h buffer before 28 Jul cutoff"
+                },
+                "usage": {
+                    "cache_read_tokens": 1165250,
+                    "cache_write_tokens": 134269,
+                    "input_tokens": 24,
+                    "output_tokens": 22726
+                }
+            },
+            "id": "cse_01SQFi76qWJ13rozG74iqoCc",
+            "last_event_at": "2026-07-25T10:56:33.358495Z",
+            "participants": [],
+            "relations": [],
+            "status": "active",
+            "status_bucket": "review_ready",
+            "tags": [],
+            "title": "Paper Trading/BLUF maintenance pass",
+            "unread": false,
+            "user_message_count": "0",
+            "worker_status": "idle"
+        },
+        {
+            "config": {
+                "effort_level": "high",
+                "mcp_connector_ids": [],
+                "model": "claude-opus-4-8",
+                "origin": "web_claude_ai",
+                "outcomes": [
+                    {
+                        "git_info": {
+                            "branches": [
+                                "claude/growpad-metrics-reconciliation-7wl1yi"
+                            ],
+                            "host": "",
+                            "ref": null,
+                            "repo": "anythingai-labs/Pipeline-Signal",
+                            "type": "github"
+                        },
+                        "type": "git_repository"
+                    }
+                ],
+                "permission_mode": "auto",
+                "sources": [
+                    {
+                        "sparse_checkout_paths": [],
+                        "type": "git_repository",
+                        "url": "https://github.com/anythingai-labs/Pipeline-Signal"
+                    }
+                ]
+            },
+            "connection_status": "disconnected",
+            "created_at": "2026-07-23T07:40:23.813880Z",
+            "environment_id": "env_013cchYADjwsw5RN4qXJpFnX",
+            "environment_kind": "anthropic_cloud",
+            "external_metadata": {
+                "container_cc_version": "",
+                "current_branches": {
+                    "": "claude/growpad-metrics-reconciliation-7wl1yi"
+                },
+                "last_served_model": "claude-opus-4-8",
+                "permission_mode": "auto",
+                "permission_mode_seq": "397",
+                "post_turn_summary": {
+                    "needs_action": "",
+                    "status_category": "review_ready",
+                    "status_detail": "cross-check complete: 5 defects verified in live report; D2 resolved, D3/D5 persist; INTERNAL_TEST_ONLY"
+                },
+                "usage": {
+                    "cache_read_tokens": 8629674,
+                    "cache_write_tokens": 883971,
+                    "input_tokens": 2845,
+                    "output_tokens": 193909
+                }
+            },
+            "id": "cse_01RyaLvwSFunVH9gyW2emS4Q",
+            "last_event_at": "2026-07-23T09:52:11.708431Z",
+            "participants": [],
+            "relations": [],
+            "status": "active",
+            "status_bucket": "review_ready",
+            "tags": [],
+            "title": "Growpad metrics reconciliation audit",
+            "unread": false,
+            "user_message_count": "0",
+            "worker_status": "idle"
+        },
+        {
+            "config": {
+                "effort_level": "medium",
+                "mcp_connector_ids": [],
+                "model": "claude-sonnet-4-6",
+                "origin": "web_claude_ai",
+                "outcomes": [
+                    {
+                        "git_info": {
+                            "branches": [
+                                "claude/compassionate-keller-k6qpb"
+                            ],
+                            "host": "",
+                            "ref": null,
+                            "repo": "anythingai-labs/tradingview_webhook_bot",
+                            "type": "github"
+                        },
+                        "type": "git_repository"
+                    }
+                ],
+                "sources": [
+                    {
+                        "sparse_checkout_paths": [],
+                        "type": "git_repository",
+                        "url": "https://github.com/anythingai-labs/tradingview_webhook_bot"
+                    }
+                ]
+            },
+            "connection_status": "disconnected",
+            "created_at": "2026-05-23T11:06:45.427712Z",
+            "environment_id": "env_013cchYADjwsw5RN4qXJpFnX",
+            "environment_kind": "anthropic_cloud",
+            "external_metadata": {
+                "current_branches": {
+                    "": "claude/compassionate-keller-k6qpb"
+                },
+                "effort_level": "medium",
+                "task_summary": null
+            },
+            "id": "cse_018LX8mPdy2E4PZXG22MuiJq",
+            "last_event_at": "2026-05-23T11:32:09.156961Z",
+            "participants": [],
+            "relations": [],
+            "status": "active",
+            "status_bucket": "review_ready",
+            "tags": [],
+            "title": "tradingview_webhook_bot setup",
+            "unread": false,
+            "user_message_count": "0",
+            "worker_status": "idle"
+        }
+    ],
+    "resume_token": "MTc4NTQ0MTA5NTI1NTM2MDAwMA=="
+}

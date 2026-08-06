@@ -1,0 +1,642 @@
+{
+ "journal": "Journal of the American Mathematical Society",
+ "issn": "0894-0347",
+ "issues": {
+  "33-1": [
+   {
+    "doi": "10.1090/jams/932",
+    "year": 2020,
+    "volume": "33",
+    "issue": "1",
+    "snum": "S0894-0347-2019-00932-X",
+    "pdf_url": "https://www.ams.org/journals/jams/2020-33-01/S0894-0347-2019-00932-X/S0894-0347-2019-00932-X.pdf",
+    "title": "Small subalgebras of polynomial rings and Stillman’s Conjecture"
+   },
+   {
+    "doi": "10.1090/jams/933",
+    "year": 2020,
+    "volume": "33",
+    "issue": "1",
+    "snum": "S0894-0347-2019-00933-1",
+    "pdf_url": "https://www.ams.org/journals/jams/2020-33-01/S0894-0347-2019-00933-1/S0894-0347-2019-00933-1.pdf",
+    "title": "Invariant metrics on negatively pinched complete Kähler manifolds"
+   },
+   {
+    "doi": "10.1090/jams/929",
+    "year": 2020,
+    "volume": "33",
+    "issue": "1",
+    "snum": "S0894-0347-2019-00929-X",
+    "pdf_url": "https://www.ams.org/journals/jams/2020-33-01/S0894-0347-2019-00929-X/S0894-0347-2019-00929-X.pdf",
+    "title": "Tsirelson’s problem and an embedding theorem for groups arising from non-local games"
+   },
+   {
+    "doi": "10.1090/jams/934",
+    "year": 2020,
+    "volume": "33",
+    "issue": "1",
+    "snum": "S0894-0347-2019-00934-3",
+    "pdf_url": "https://www.ams.org/journals/jams/2020-33-01/S0894-0347-2019-00934-3/S0894-0347-2019-00934-3.pdf",
+    "title": "On the remodeling conjecture for toric Calabi-Yau 3-orbifolds"
+   },
+   {
+    "doi": "10.1090/jams/931",
+    "year": 2020,
+    "volume": "33",
+    "issue": "1",
+    "snum": "S0894-0347-2019-00931-8",
+    "pdf_url": "https://www.ams.org/journals/jams/2020-33-01/S0894-0347-2019-00931-8/S0894-0347-2019-00931-8.pdf",
+    "title": "Positive entropy actions of countable groups factor onto Bernoulli shifts"
+   },
+   {
+    "doi": "10.1090/jams/930",
+    "year": 2020,
+    "volume": "33",
+    "issue": "1",
+    "snum": "S0894-0347-2019-00930-6",
+    "pdf_url": "https://www.ams.org/journals/jams/2020-33-01/S0894-0347-2019-00930-6/S0894-0347-2019-00930-6.pdf",
+    "title": "Effective equidistribution and property (𝜏)"
+   }
+  ],
+  "32-1": [
+   {
+    "doi": "10.1090/jams/902",
+    "year": 2019,
+    "volume": "32",
+    "issue": "1",
+    "snum": "S0894-0347-2018-00902-6",
+    "pdf_url": "https://www.ams.org/journals/jams/2019-32-01/S0894-0347-2018-00902-6/S0894-0347-2018-00902-6.pdf",
+    "title": "Khovanov homology from Floer cohomology"
+   },
+   {
+    "doi": "10.1090/jams/909",
+    "year": 2019,
+    "volume": "32",
+    "issue": "1",
+    "snum": "S0894-0347-2018-00909-9",
+    "pdf_url": "https://www.ams.org/journals/jams/2019-32-01/S0894-0347-2018-00909-9/S0894-0347-2018-00909-9.pdf",
+    "title": "Generating the Fukaya categories of Hamiltonian 𝐺-manifolds"
+   },
+   {
+    "doi": "10.1090/jams/907",
+    "year": 2019,
+    "volume": "32",
+    "issue": "1",
+    "snum": "S0894-0347-2018-00907-5",
+    "pdf_url": "https://www.ams.org/journals/jams/2019-32-01/S0894-0347-2018-00907-5/S0894-0347-2018-00907-5.pdf",
+    "title": "An improved bound on the Hausdorff dimension of Besicovitch sets in ℝ³"
+   },
+   {
+    "doi": "10.1090/jams/908",
+    "year": 2019,
+    "volume": "32",
+    "issue": "1",
+    "snum": "S0894-0347-2018-00908-7",
+    "pdf_url": "https://www.ams.org/journals/jams/2019-32-01/S0894-0347-2018-00908-7/S0894-0347-2018-00908-7.pdf",
+    "title": "No occurrence obstructions in geometric complexity theory"
+   },
+   {
+    "doi": "10.1090/jams/905",
+    "year": 2019,
+    "volume": "32",
+    "issue": "1",
+    "snum": "S0894-0347-2018-00905-1",
+    "pdf_url": "https://www.ams.org/journals/jams/2019-32-01/S0894-0347-2018-00905-1/S0894-0347-2018-00905-1.pdf",
+    "title": "Koszul duality for Kac–Moody groups and characters of tilting modules"
+   },
+   {
+    "doi": "10.1090/jams/911",
+    "year": 2019,
+    "volume": "32",
+    "issue": "1",
+    "snum": "S0894-0347-2018-00911-7",
+    "pdf_url": "https://www.ams.org/journals/jams/2019-32-01/S0894-0347-2018-00911-7/S0894-0347-2018-00911-7.pdf",
+    "title": "A smooth mixing flow on a surface with nondegenerate fixed points"
+   }
+  ],
+  "32-3": [
+   {
+    "doi": "10.1090/jams/922",
+    "year": 2019,
+    "volume": "32",
+    "issue": "3",
+    "snum": "S0894-0347-2019-00922-7",
+    "pdf_url": "https://www.ams.org/journals/jams/2019-32-03/S0894-0347-2019-00922-7/S0894-0347-2019-00922-7.pdf",
+    "title": "Duality between the pseudoeffective and the movable cone on a projective manifold"
+   },
+   {
+    "doi": "10.1090/jams/918",
+    "year": 2019,
+    "volume": "32",
+    "issue": "3",
+    "snum": "S0894-0347-2019-00918-5",
+    "pdf_url": "https://www.ams.org/journals/jams/2019-32-03/S0894-0347-2019-00918-5/S0894-0347-2019-00918-5.pdf",
+    "title": "Cluster theory of the coherent Satake category"
+   },
+   {
+    "doi": "10.1090/jams/924",
+    "year": 2019,
+    "volume": "32",
+    "issue": "3",
+    "snum": "S0894-0347-2019-00924-0",
+    "pdf_url": "https://www.ams.org/journals/jams/2019-32-03/S0894-0347-2019-00924-0/S0894-0347-2019-00924-0.pdf",
+    "title": "Contact homology and virtual fundamental cycles"
+   },
+   {
+    "doi": "10.1090/jams/915",
+    "year": 2019,
+    "volume": "32",
+    "issue": "3",
+    "snum": "S0894-0347-2019-00915-X",
+    "pdf_url": "https://www.ams.org/journals/jams/2019-32-03/S0894-0347-2019-00915-X/S0894-0347-2019-00915-X.pdf",
+    "title": "Multipoint distribution of periodic TASEP"
+   },
+   {
+    "doi": "10.1090/jams/919",
+    "year": 2019,
+    "volume": "32",
+    "issue": "3",
+    "snum": "S0894-0347-2019-00919-7",
+    "pdf_url": "https://www.ams.org/journals/jams/2019-32-03/S0894-0347-2019-00919-7/S0894-0347-2019-00919-7.pdf",
+    "title": "Existence and uniqueness for anisotropic and crystalline mean curvature flows"
+   },
+   {
+    "doi": "10.1090/jams/923",
+    "year": 2019,
+    "volume": "32",
+    "issue": "3",
+    "snum": "S0894-0347-2019-00923-9",
+    "pdf_url": "https://www.ams.org/journals/jams/2019-32-03/S0894-0347-2019-00923-9/S0894-0347-2019-00923-9.pdf",
+    "title": "Topological Noetherianity of polynomial functors"
+   }
+  ],
+  "33-4": [
+   {
+    "doi": "10.1090/jams/945",
+    "year": 2020,
+    "volume": "33",
+    "issue": "4",
+    "snum": "S0894-0347-2020-00945-6",
+    "pdf_url": "https://www.ams.org/journals/jams/2020-33-04/S0894-0347-2020-00945-6/S0894-0347-2020-00945-6.pdf",
+    "title": "Bounds on 2-torsion in class groups of number fields and integral points on elliptic curves"
+   },
+   {
+    "doi": "10.1090/jams/952",
+    "year": 2020,
+    "volume": "33",
+    "issue": "4",
+    "snum": "S0894-0347-2020-00952-3",
+    "pdf_url": "https://www.ams.org/journals/jams/2020-33-04/S0894-0347-2020-00952-3/S0894-0347-2020-00952-3.pdf",
+    "title": "Tame topology of arithmetic quotients and algebraicity of Hodge loci"
+   },
+   {
+    "doi": "10.1090/jams/944",
+    "year": 2020,
+    "volume": "33",
+    "issue": "4",
+    "snum": "S0894-0347-2020-00944-4",
+    "pdf_url": "https://www.ams.org/journals/jams/2020-33-04/S0894-0347-2020-00944-4/S0894-0347-2020-00944-4.pdf",
+    "title": "Examples of compact Einstein four-manifolds with negative curvature"
+   },
+   {
+    "doi": "10.1090/jams/949",
+    "year": 2020,
+    "volume": "33",
+    "issue": "4",
+    "snum": "S0894-0347-2020-00949-3",
+    "pdf_url": "https://www.ams.org/journals/jams/2020-33-04/S0894-0347-2020-00949-3/S0894-0347-2020-00949-3.pdf",
+    "title": "Virtual homological spectral radii for automorphisms of surfaces"
+   },
+   {
+    "doi": "10.1090/jams/947",
+    "year": 2020,
+    "volume": "33",
+    "issue": "4",
+    "snum": "S0894-0347-2020-00947-X",
+    "pdf_url": "https://www.ams.org/journals/jams/2020-33-04/S0894-0347-2020-00947-X/S0894-0347-2020-00947-X.pdf",
+    "title": "Large genus asymptotics for volumes of strata of abelian differentials"
+   },
+   {
+    "doi": "10.1090/jams/950",
+    "year": 2020,
+    "volume": "33",
+    "issue": "4",
+    "snum": "S0894-0347-2020-00950-X",
+    "pdf_url": "https://www.ams.org/journals/jams/2020-33-04/S0894-0347-2020-00950-X/S0894-0347-2020-00950-X.pdf",
+    "title": "Billiards, quadrilaterals and moduli spaces"
+   },
+   {
+    "doi": "10.1090/jams/953",
+    "year": 2020,
+    "volume": "33",
+    "issue": "4",
+    "snum": "S0894-0347-2020-00953-5",
+    "pdf_url": "https://www.ams.org/journals/jams/2020-33-04/S0894-0347-2020-00953-5/S0894-0347-2020-00953-5.pdf",
+    "title": "Nonuniqueness and mean-field criticality for percolation on nonunimodular transitive graphs"
+   }
+  ],
+  "33-3": [
+   {
+    "doi": "10.1090/jams/948",
+    "year": 2020,
+    "volume": "33",
+    "issue": "3",
+    "snum": "S0894-0347-2020-00948-1",
+    "pdf_url": "https://www.ams.org/journals/jams/2020-33-03/S0894-0347-2020-00948-1/S0894-0347-2020-00948-1.pdf",
+    "title": "Geometric stabilisation via 𝑝-adic integration"
+   },
+   {
+    "doi": "10.1090/jams/943",
+    "year": 2020,
+    "volume": "33",
+    "issue": "3",
+    "snum": "S0894-0347-2020-00943-2",
+    "pdf_url": "https://www.ams.org/journals/jams/2020-33-03/S0894-0347-2020-00943-2/S0894-0347-2020-00943-2.pdf",
+    "title": "Zéro-cycles sur les espaces homogènes et problème de Galois inverse"
+   },
+   {
+    "doi": "10.1090/jams/920",
+    "year": 2020,
+    "volume": "33",
+    "issue": "3",
+    "snum": "S0894-0347-2020-00920-1",
+    "pdf_url": "https://www.ams.org/journals/jams/2020-33-03/S0894-0347-2020-00920-1/S0894-0347-2020-00920-1.pdf",
+    "title": "The 4-dimensional light bulb theorem"
+   },
+   {
+    "doi": "10.1090/jams/942",
+    "year": 2020,
+    "volume": "33",
+    "issue": "3",
+    "snum": "S0894-0347-2020-00942-0",
+    "pdf_url": "https://www.ams.org/journals/jams/2020-33-03/S0894-0347-2020-00942-0/S0894-0347-2020-00942-0.pdf",
+    "title": "Pacman renormalization and self-similarity of the Mandelbrot set near Siegel parameters"
+   },
+   {
+    "doi": "10.1090/jams/946",
+    "year": 2020,
+    "volume": "33",
+    "issue": "3",
+    "snum": "S0894-0347-2020-00946-8",
+    "pdf_url": "https://www.ams.org/journals/jams/2020-33-03/S0894-0347-2020-00946-8/S0894-0347-2020-00946-8.pdf",
+    "title": "Symplectic topology of 𝐾3 surfaces via mirror symmetry"
+   },
+   {
+    "doi": "10.1090/jams/940",
+    "year": 2020,
+    "volume": "33",
+    "issue": "3",
+    "snum": "S0894-0347-2020-00940-7",
+    "pdf_url": "https://www.ams.org/journals/jams/2020-33-03/S0894-0347-2020-00940-7/S0894-0347-2020-00940-7.pdf",
+    "title": "Combinatorial constructions of derived equivalences"
+   }
+  ],
+  "31-1": [
+   {
+    "doi": "10.1090/jams/887",
+    "year": 2018,
+    "volume": "31",
+    "issue": "1",
+    "snum": "S0894-0347-2017-00887-7",
+    "pdf_url": "https://www.ams.org/journals/jams/2018-31-01/S0894-0347-2017-00887-7/S0894-0347-2017-00887-7.pdf",
+    "title": "Stratification for module categories of finite group schemes"
+   },
+   {
+    "doi": "10.1090/jams/878",
+    "year": 2018,
+    "volume": "31",
+    "issue": "1",
+    "snum": "S0894-0347-2017-00878-6",
+    "pdf_url": "https://www.ams.org/journals/jams/2018-31-01/S0894-0347-2017-00878-6/S0894-0347-2017-00878-6.pdf",
+    "title": "On fewnomials, integral points, and a toric version of Bertini’s theorem"
+   },
+   {
+    "doi": "10.1090/jams/876",
+    "year": 2018,
+    "volume": "31",
+    "issue": "1",
+    "snum": "S0894-0347-2017-00876-2",
+    "pdf_url": "https://www.ams.org/journals/jams/2018-31-01/S0894-0347-2017-00876-2/S0894-0347-2017-00876-2.pdf",
+    "title": "Long gaps between primes"
+   },
+   {
+    "doi": "10.1090/jams/882",
+    "year": 2018,
+    "volume": "31",
+    "issue": "1",
+    "snum": "S0894-0347-2017-00882-8",
+    "pdf_url": "https://www.ams.org/journals/jams/2018-31-01/S0894-0347-2017-00882-8/S0894-0347-2017-00882-8.pdf",
+    "title": "The category of singularities as a crystal and global Springer fibers"
+   },
+   {
+    "doi": "10.1090/jams/884",
+    "year": 2018,
+    "volume": "31",
+    "issue": "1",
+    "snum": "S0894-0347-2017-00884-1",
+    "pdf_url": "https://www.ams.org/journals/jams/2018-31-01/S0894-0347-2017-00884-1/S0894-0347-2017-00884-1.pdf",
+    "title": "Homological stability for moduli spaces of high dimensional manifolds. I"
+   },
+   {
+    "doi": "10.1090/jams/888",
+    "year": 2018,
+    "volume": "31",
+    "issue": "1",
+    "snum": "S0894-0347-2017-00888-9",
+    "pdf_url": "https://www.ams.org/journals/jams/2018-31-01/S0894-0347-2017-00888-9/S0894-0347-2017-00888-9.pdf",
+    "title": "Weak null singularities in general relativity"
+   }
+  ],
+  "32-2": [
+   {
+    "doi": "10.1090/jams/910",
+    "year": 2019,
+    "volume": "32",
+    "issue": "2",
+    "snum": "S0894-0347-2018-00910-5",
+    "pdf_url": "https://www.ams.org/journals/jams/2019-32-02/S0894-0347-2018-00910-5/S0894-0347-2018-00910-5.pdf",
+    "title": "A Darboux theorem for derived schemes with shifted symplectic structure"
+   },
+   {
+    "doi": "10.1090/jams/906",
+    "year": 2019,
+    "volume": "32",
+    "issue": "2",
+    "snum": "S0894-0347-2018-00906-3",
+    "pdf_url": "https://www.ams.org/journals/jams/2019-32-02/S0894-0347-2018-00906-3/S0894-0347-2018-00906-3.pdf",
+    "title": "A random Schrödinger operator associated with the Vertex Reinforced Jump Process on infinite graphs"
+   },
+   {
+    "doi": "10.1090/jams/914",
+    "year": 2019,
+    "volume": "32",
+    "issue": "2",
+    "snum": "S0894-0347-2018-00914-2",
+    "pdf_url": "https://www.ams.org/journals/jams/2019-32-02/S0894-0347-2018-00914-2/S0894-0347-2018-00914-2.pdf",
+    "title": "On the linearity of lattices in affine buildings and ergodicity of the singular Cartan flow"
+   },
+   {
+    "doi": "10.1090/jams/916",
+    "year": 2019,
+    "volume": "32",
+    "issue": "2",
+    "snum": "S0894-0347-2019-00916-1",
+    "pdf_url": "https://www.ams.org/journals/jams/2019-32-02/S0894-0347-2019-00916-1/S0894-0347-2019-00916-1.pdf",
+    "title": "Absolute continuity of Bernoulli convolutions for algebraic parameters"
+   },
+   {
+    "doi": "10.1090/jams/912",
+    "year": 2019,
+    "volume": "32",
+    "issue": "2",
+    "snum": "S0894-0347-2018-00912-9",
+    "pdf_url": "https://www.ams.org/journals/jams/2019-32-02/S0894-0347-2018-00912-9/S0894-0347-2018-00912-9.pdf",
+    "title": "Erratum to “Bertini irreducibility theorems over finite fields”"
+   },
+   {
+    "doi": "10.1090/jams/913",
+    "year": 2019,
+    "volume": "32",
+    "issue": "2",
+    "snum": "S0894-0347-2018-00913-0",
+    "pdf_url": "https://www.ams.org/journals/jams/2019-32-02/S0894-0347-2018-00913-0/S0894-0347-2018-00913-0.pdf",
+    "title": "Exponential self-similar mixing by incompressible flows"
+   },
+   {
+    "doi": "10.1090/jams/917",
+    "year": 2019,
+    "volume": "32",
+    "issue": "2",
+    "snum": "S0894-0347-2019-00917-3",
+    "pdf_url": "https://www.ams.org/journals/jams/2019-32-02/S0894-0347-2019-00917-3/S0894-0347-2019-00917-3.pdf",
+    "title": "Geometric criteria for overtwistedness"
+   }
+  ],
+  "31-2": [
+   {
+    "doi": "10.1090/jams/890",
+    "year": 2018,
+    "volume": "31",
+    "issue": "2",
+    "snum": "S0894-0347-2017-00890-7",
+    "pdf_url": "https://www.ams.org/journals/jams/2018-31-02/S0894-0347-2017-00890-7/S0894-0347-2017-00890-7.pdf",
+    "title": "Canonical bases for cluster algebras"
+   },
+   {
+    "doi": "10.1090/jams/883",
+    "year": 2018,
+    "volume": "31",
+    "issue": "2",
+    "snum": "S0894-0347-2017-00883-X",
+    "pdf_url": "https://www.ams.org/journals/jams/2018-31-02/S0894-0347-2017-00883-X/S0894-0347-2017-00883-X.pdf",
+    "title": "Quantum unique ergodicity and the number of nodal domains of eigenfunctions"
+   },
+   {
+    "doi": "10.1090/jams/891",
+    "year": 2018,
+    "volume": "31",
+    "issue": "2",
+    "snum": "S0894-0347-2017-00891-9",
+    "pdf_url": "https://www.ams.org/journals/jams/2018-31-02/S0894-0347-2017-00891-9/S0894-0347-2017-00891-9.pdf",
+    "title": "Counterexamples to the Eisenbud–Goto regularity conjecture"
+   },
+   {
+    "doi": "10.1090/jams/886",
+    "year": 2018,
+    "volume": "31",
+    "issue": "2",
+    "snum": "S0894-0347-2017-00886-5",
+    "pdf_url": "https://www.ams.org/journals/jams/2018-31-02/S0894-0347-2017-00886-5/S0894-0347-2017-00886-5.pdf",
+    "title": "Mixed 3-manifolds are virtually special"
+   },
+   {
+    "doi": "10.1090/jams/889",
+    "year": 2018,
+    "volume": "31",
+    "issue": "2",
+    "snum": "S0894-0347-2017-00889-0",
+    "pdf_url": "https://www.ams.org/journals/jams/2018-31-02/S0894-0347-2017-00889-0/S0894-0347-2017-00889-0.pdf",
+    "title": "Energy solutions of KPZ are unique"
+   },
+   {
+    "doi": "10.1090/jams/895",
+    "year": 2018,
+    "volume": "31",
+    "issue": "2",
+    "snum": "S0894-0347-2017-00895-6",
+    "pdf_url": "https://www.ams.org/journals/jams/2018-31-02/S0894-0347-2017-00895-6/S0894-0347-2017-00895-6.pdf",
+    "title": "Monoidal categorification of cluster algebras"
+   }
+  ],
+  "31-4": [
+   {
+    "doi": "10.1090/jams/901",
+    "year": 2018,
+    "volume": "31",
+    "issue": "4",
+    "snum": "S0894-0347-2018-00901-4",
+    "pdf_url": "https://www.ams.org/journals/jams/2018-31-04/S0894-0347-2018-00901-4/S0894-0347-2018-00901-4.pdf",
+    "title": "Essential surfaces in graph pairs"
+   },
+   {
+    "doi": "10.1090/jams/903",
+    "year": 2018,
+    "volume": "31",
+    "issue": "4",
+    "snum": "S0894-0347-2018-00903-8",
+    "pdf_url": "https://www.ams.org/journals/jams/2018-31-04/S0894-0347-2018-00903-8/S0894-0347-2018-00903-8.pdf",
+    "title": "Quantitative null-cobordism"
+   },
+   {
+    "doi": "10.1090/jams/898",
+    "year": 2018,
+    "volume": "31",
+    "issue": "4",
+    "snum": "S0894-0347-2018-00898-7",
+    "pdf_url": "https://www.ams.org/journals/jams/2018-31-04/S0894-0347-2018-00898-7/S0894-0347-2018-00898-7.pdf",
+    "title": "Langlands correspondence for isocrystals and the existence of crystalline companions for curves"
+   },
+   {
+    "doi": "10.1090/jams/900",
+    "year": 2018,
+    "volume": "31",
+    "issue": "4",
+    "snum": "S0894-0347-2018-00900-2",
+    "pdf_url": "https://www.ams.org/journals/jams/2018-31-04/S0894-0347-2018-00900-2/S0894-0347-2018-00900-2.pdf",
+    "title": "Quasimodularity and large genus limits of Siegel-Veech constants"
+   }
+  ],
+  "33-2": [
+   {
+    "doi": "10.1090/jams/935",
+    "year": 2020,
+    "volume": "33",
+    "issue": "2",
+    "snum": "S0894-0347-2019-00935-5",
+    "pdf_url": "https://www.ams.org/journals/jams/2020-33-02/S0894-0347-2019-00935-5/S0894-0347-2019-00935-5.pdf",
+    "title": "Cohomologie 𝑝-adique de la tour de Drinfeld: le cas de la dimension 1"
+   },
+   {
+    "doi": "10.1090/jams/941",
+    "year": 2020,
+    "volume": "33",
+    "issue": "2",
+    "snum": "S0894-0347-2020-00941-9",
+    "pdf_url": "https://www.ams.org/journals/jams/2020-33-02/S0894-0347-2020-00941-9/S0894-0347-2020-00941-9.pdf",
+    "title": "Strongly anisotropic type II blow up at an isolated point"
+   },
+   {
+    "doi": "10.1090/jams/936",
+    "year": 2020,
+    "volume": "33",
+    "issue": "2",
+    "snum": "S0894-0347-2019-00936-7",
+    "pdf_url": "https://www.ams.org/journals/jams/2020-33-02/S0894-0347-2019-00936-7/S0894-0347-2019-00936-7.pdf",
+    "title": "Residually finite rationally solvable groups and virtual fibring"
+   },
+   {
+    "doi": "10.1090/jams/939",
+    "year": 2020,
+    "volume": "33",
+    "issue": "2",
+    "snum": "S0894-0347-2020-00939-0",
+    "pdf_url": "https://www.ams.org/journals/jams/2020-33-02/S0894-0347-2020-00939-0/S0894-0347-2020-00939-0.pdf",
+    "title": "On the measure of maximal entropy for finite horizon Sinai Billiard maps"
+   }
+  ],
+  "31-3": [
+   {
+    "doi": "10.1090/jams/897",
+    "year": 2018,
+    "volume": "31",
+    "issue": "3",
+    "snum": "S0894-0347-2018-00897-5",
+    "pdf_url": "https://www.ams.org/journals/jams/2018-31-03/S0894-0347-2018-00897-5/S0894-0347-2018-00897-5.pdf",
+    "title": "Chtoucas pour les groupes réductifs et paramétrisation de Langlands globale"
+   },
+   {
+    "doi": "10.1090/jams/893",
+    "year": 2018,
+    "volume": "31",
+    "issue": "3",
+    "snum": "S0894-0347-2017-00893-2",
+    "pdf_url": "https://www.ams.org/journals/jams/2018-31-03/S0894-0347-2017-00893-2/S0894-0347-2017-00893-2.pdf",
+    "title": "A proof of the shuffle conjecture"
+   },
+   {
+    "doi": "10.1090/jams/899",
+    "year": 2018,
+    "volume": "31",
+    "issue": "3",
+    "snum": "S0894-0347-2018-00899-9",
+    "pdf_url": "https://www.ams.org/journals/jams/2018-31-03/S0894-0347-2018-00899-9/S0894-0347-2018-00899-9.pdf",
+    "title": "The coarse geometry of Tsirelson’s space and applications"
+   },
+   {
+    "doi": "10.1090/jams/892",
+    "year": 2018,
+    "volume": "31",
+    "issue": "3",
+    "snum": "S0894-0347-2017-00892-0",
+    "pdf_url": "https://www.ams.org/journals/jams/2018-31-03/S0894-0347-2017-00892-0/S0894-0347-2017-00892-0.pdf",
+    "title": "Simple groups of Morley rank 3 are algebraic"
+   },
+   {
+    "doi": "10.1090/jams/896",
+    "year": 2018,
+    "volume": "31",
+    "issue": "3",
+    "snum": "S0894-0347-2018-00896-3",
+    "pdf_url": "https://www.ams.org/journals/jams/2018-31-03/S0894-0347-2018-00896-3/S0894-0347-2018-00896-3.pdf",
+    "title": "Definably amenable NIP groups"
+   }
+  ],
+  "32-4": [
+   {
+    "doi": "10.1090/jams/921",
+    "year": 2019,
+    "volume": "32",
+    "issue": "4",
+    "snum": "S0894-0347-2019-00921-5",
+    "pdf_url": "https://www.ams.org/journals/jams/2019-32-04/S0894-0347-2019-00921-5/S0894-0347-2019-00921-5.pdf",
+    "title": "Catalan functions and 𝑘-Schur positivity"
+   },
+   {
+    "doi": "10.1090/jams/927",
+    "year": 2019,
+    "volume": "32",
+    "issue": "4",
+    "snum": "S0894-0347-2019-00927-6",
+    "pdf_url": "https://www.ams.org/journals/jams/2019-32-04/S0894-0347-2019-00927-6/S0894-0347-2019-00927-6.pdf",
+    "title": "Normal subgroups of mapping class groups and the metaconjecture of Ivanov"
+   },
+   {
+    "doi": "10.1090/jams/928",
+    "year": 2019,
+    "volume": "32",
+    "issue": "4",
+    "snum": "S0894-0347-2019-00928-8",
+    "pdf_url": "https://www.ams.org/journals/jams/2019-32-04/S0894-0347-2019-00928-8/S0894-0347-2019-00928-8.pdf",
+    "title": "Stably irrational hypersurfaces of small slopes"
+   },
+   {
+    "doi": "10.1090/jams/926",
+    "year": 2019,
+    "volume": "32",
+    "issue": "4",
+    "snum": "S0894-0347-2019-00926-4",
+    "pdf_url": "https://www.ams.org/journals/jams/2019-32-04/S0894-0347-2019-00926-4/S0894-0347-2019-00926-4.pdf",
+    "title": "Classification of the maximal subalgebras of exceptional Lie algebras over fields of good characteristic"
+   },
+   {
+    "doi": "10.1090/jams/925",
+    "year": 2019,
+    "volume": "32",
+    "issue": "4",
+    "snum": "S0894-0347-2019-00925-2",
+    "pdf_url": "https://www.ams.org/journals/jams/2019-32-04/S0894-0347-2019-00925-2/S0894-0347-2019-00925-2.pdf",
+    "title": "Regular supercuspidal representations"
+   }
+  ]
+ }
+}
